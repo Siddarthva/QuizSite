@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 24 24"
+     fill="none"
+     stroke="#8B5CF6"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+  <path d="M9.5 2A3.5 3.5 0 0 0 6 5.5V6a2.5 2.5 0 0 0-2 2.5V10a2.5 2.5 0 0 0 2 2.45V15a3.5 3.5 0 0 0 3.5 3.5H10v-2H9.5A1.5 1.5 0 0 1 8 15v-1h2v-2H8v-1a.5.5 0 0 1 .5-.5H10V8H9.5A1.5 1.5 0 0 1 8 6.5V5.5A1.5 1.5 0 0 1 9.5 4H10V2h-.5Z"/>
+  <path d="M14.5 2H14v2h.5A1.5 1.5 0 0 1 16 5.5v1A1.5 1.5 0 0 1 14.5 8H14v2h1.5a.5.5 0 0 1 .5.5v1h-2v2h2v1a1.5 1.5 0 0 1-1.5 1.5H14v2h.5A3.5 3.5 0 0 0 18 15v-2.55A2.5 2.5 0 0 0 20 10V8.5A2.5 2.5 0 0 0 18 6V5.5A3.5 3.5 0 0 0 14.5 2Z"/>
+</svg>
