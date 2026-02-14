@@ -14,8 +14,8 @@ const Dashboard = () => {
     <div className="space-y-8 animate-fade-in">
       <div className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-violet-600 to-indigo-600 p-8 md:p-12 text-white shadow-2xl shadow-violet-500/20">
         <div className="relative z-10 max-w-lg">
-          <h2 className="text-3xl md:text-4xl font-extrabold mb-4">Ready to learn, {user.name.split(' ')[0]}?</h2>
-          <p className="text-violet-100 text-lg mb-8">You're on a {user.streak} day streak! Keep it up to unlock the Firestarter badge.</p>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4">Ready to learn,  {/* {user.name.split(' ')[0]}?*/}</h2> 
+          <p className="text-violet-100 text-lg mb-8">You're on a {/*{user.streak}*/} day streak! Keep it up to unlock the Firestarter badge.</p>
           <div className="flex gap-4">
             <Button size="lg" className="bg-white text-violet-700 hover:bg-slate-100 border-none" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth'})}>
               Start Playing

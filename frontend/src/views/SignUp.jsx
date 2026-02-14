@@ -3,6 +3,7 @@ import { useAuth } from '../context/AuthContext';
 import { useNavigate, Link } from 'react-router-dom';
 import { Brain, User, Mail, Lock, ArrowRight, Loader2 } from 'lucide-react';
 import Button from '../components/Button';
+import axios from 'axios';
 
 export default function SignUp() {
     const [name, setName] = useState('');
@@ -20,14 +21,14 @@ export default function SignUp() {
 
     try {
         const response = await axios.post(
-            "http://localhost:/user/signup",
+            "http://localhost:5000/user/signup",
             {
-                username: name,   // backend expects username
+                username: name,   
                 email: email,
                 password: password
             },
             {
-               // withCredentials: true // important for cookies
+               // withCredentials: true 
             }
         );
 

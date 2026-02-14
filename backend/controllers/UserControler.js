@@ -3,7 +3,7 @@ const jwt = require("jsonwebtoken");
 const UserModel=require('../models/UserModel');
 
 exports.signup = async (req, res) => {
-  try {
+  try{
     const { username, email, password } = req.body;
 
     if (!username || !email || !password) {

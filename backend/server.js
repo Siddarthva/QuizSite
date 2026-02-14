@@ -1,8 +1,9 @@
+require("dotenv").config();
 const cookieParser = require('cookie-parser');
 const express=require('express');
 const cors = require("cors");
-require("dotenv").config();
 const app=express();
+require('./dataabase/db')
 const {path} =require('path')
 app.use(cors());
 app.use(express.json());
