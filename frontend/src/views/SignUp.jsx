@@ -14,21 +14,36 @@ export default function SignUp() {
     const navigate = useNavigate();
 
     const handleSubmit = async (e) => {
-        e.preventDefault();
-        setIsLoading(true);
-        setError('');
+    e.preventDefault();
+    setIsLoading(true);
+    setError('');
 
-        try {
-            await signup(name, email, password);
-            navigate('/');
-            // Trigger a success notification in the main app if possible, 
-            // but navigating to dashboard is a good start
-        } catch (err) {
-            setError(err.message || 'Failed to sign up');
-        } finally {
-            setIsLoading(false);
-        }
-    };
+    try {
+        const response = await axios.post(
+            "http://localhost:/user/signup",
+            {
+                username: name,   // backend expects username
+                email: email,
+                password: password
+            },
+            {
+               // withCredentials: true // important for cookies
+            }
+        );
+
+        console.log(response.data);
+        navigate('/');
+
+    } catch (err) {
+        setError(
+            err.response?.data?.message || 
+            err.message || 
+            "Failed to sign up"
+        );
+    } finally {
+        setIsLoading(false);
+    }
+};
 
     return (
         <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex items-center justify-center p-4">
