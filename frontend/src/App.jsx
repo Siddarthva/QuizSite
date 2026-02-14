@@ -4,12 +4,14 @@ import {
   BookOpen, CheckCircle, Award, Sun, Moon, LogOut
 } from 'lucide-react';
 import { Routes, Route, useNavigate, useLocation, Navigate } from 'react-router-dom';
+import { AnimatePresence, motion } from 'framer-motion';
 import { GameContext } from './context/GameContext';
 import { useAuth } from './context/AuthContext';
 import { CATEGORIES, BADGES, generateMockQuizzes } from './data';
 import { cn } from './utils';
 import NavItem, { MobileNavItem } from './components/NavItem';
 import Button from './components/Button';
+import Sidebar from './components/Sidebar';
 import Dashboard from './views/Dashboard';
 import Explore from './views/Explore';
 import Library from './views/Library';
@@ -27,6 +29,17 @@ const ProtectedRoute = ({ children }) => {
   if (!isAuthenticated) return <Navigate to="/signin" replace />;
   return children;
 };
+
+const PageTransition = ({ children }) => (
+  <motion.div
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    exit={{ opacity: 0, y: -20 }}
+    transition={{ duration: 0.3 }}
+  >
+    {children}
+  </motion.div>
+);
 
 export default function App() {
   const { user, logout, updateStats } = useAuth(); // Use Auth Context for user
@@ -92,11 +105,6 @@ export default function App() {
     navigate('/library');
   };
 
-  const handleLogout = () => {
-    logout();
-    navigate('/signin');
-  }
-
   // Helper to determine active view for NavItems
   const isActive = (path) => location.pathname === path;
 
@@ -107,10 +115,12 @@ export default function App() {
     return (
       <GameContext.Provider value={{ user, library, startQuiz, handleQuizComplete, saveNewQuiz, addNotification }}>
         <div className={cn('min-h-screen font-sans transition-colors duration-300', darkMode ? 'dark bg-slate-950 text-slate-100' : 'bg-slate-50 text-slate-900')}>
-          <Routes>
-            <Route path="/signin" element={<SignIn />} />
-            <Route path="/signup" element={<SignUp />} />
-          </Routes>
+          <AnimatePresence mode="wait">
+            <Routes location={location} key={location.pathname}>
+              <Route path="/signin" element={<PageTransition><SignIn /></PageTransition>} />
+              <Route path="/signup" element={<PageTransition><SignUp /></PageTransition>} />
+            </Routes>
+          </AnimatePresence>
         </div>
       </GameContext.Provider>
     )
@@ -120,42 +130,11 @@ export default function App() {
     <GameContext.Provider value={{ user, library, startQuiz, handleQuizComplete, saveNewQuiz, addNotification }}>
       <div className={cn('min-h-screen font-sans transition-colors duration-300 flex', darkMode ? 'dark bg-slate-950 text-slate-100' : 'bg-slate-50 text-slate-900')}>
 
-        {/* Sidebar */}
-        <aside className="hidden md:flex flex-col w-72 h-screen sticky top-0 border-r border-slate-200 dark:border-slate-800 p-6 bg-white dark:bg-slate-900/50 backdrop-blur-xl">
-          <div className="flex items-center gap-3 mb-10 text-violet-600 dark:text-violet-400">
-            <div className="p-2 bg-violet-100 dark:bg-violet-900/30 rounded-xl"><Brain size={32} /></div>
-            <h1 className="text-2xl font-bold tracking-tight">MindQuest</h1>
-          </div>
-
-          <nav className="space-y-2 flex-1">
-            <NavItem icon={Layout} label="Dashboard" active={isActive('/')} onClick={() => navigate('/')} />
-            <NavItem icon={Search} label="Explore" active={isActive('/explore')} onClick={() => navigate('/explore')} />
-            <NavItem icon={BookOpen} label="My Library" active={isActive('/library')} onClick={() => navigate('/library')} />
-            <NavItem icon={Plus} label="Create Quiz" active={isActive('/create')} onClick={() => navigate('/create')} />
-            <NavItem icon={Trophy} label="Leaderboard" active={isActive('/leaderboard')} onClick={() => navigate('/leaderboard')} />
-            <NavItem icon={User} label="Profile" active={isActive('/profile')} onClick={() => navigate('/profile')} />
-          </nav>
-
-          <div className="mt-auto pt-6 border-t border-slate-200 dark:border-slate-800">
-            {user ? (
-              <div className="flex items-center justify-between">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-violet-500 to-fuchsia-500 flex items-center justify-center text-white font-bold">{user.name.charAt(0)}</div>
-                  <div>
-                    <p className="font-bold text-sm">{user.name}</p>
-                    <p className="text-xs text-slate-500 dark:text-slate-400">Lvl {user.level}</p>
-                  </div>
-                </div>
-                <button onClick={handleLogout} className="text-slate-400 hover:text-red-500 transition-colors"><LogOut size={18} /></button>
-              </div>
-            ) : (
-              <Button size="sm" variant="primary" className="w-full" onClick={() => navigate('/signin')}>Sign In</Button>
-            )}
-          </div>
-        </aside>
+        {/* Sidebar - Extracted Component */}
+        <Sidebar className="z-20" />
 
         {/* Main Content */}
-        <main className="flex-1 min-w-0 flex flex-col h-screen overflow-hidden">
+        <main className="flex-1 min-w-0 flex flex-col h-screen overflow-hidden relative">
           <header className="h-20 border-b border-slate-200 dark:border-slate-800 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md flex items-center justify-between px-6 z-10 sticky top-0">
             <div className="md:hidden flex items-center gap-2"><Brain className="text-violet-500" /><span className="font-bold">MindQuest</span></div>
 
@@ -174,16 +153,18 @@ export default function App() {
 
           <div className="flex-1 overflow-y-auto p-4 md:p-8 scroll-smooth pb-24 md:pb-8">
             <div className="max-w-6xl mx-auto">
-              <Routes>
-                <Route path="/" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
-                <Route path="/explore" element={<ProtectedRoute><Explore /></ProtectedRoute>} />
-                <Route path="/library" element={<ProtectedRoute><Library /></ProtectedRoute>} />
-                <Route path="/create" element={<ProtectedRoute><HostQuiz /></ProtectedRoute>} />
-                <Route path="/leaderboard" element={<ProtectedRoute><Leaderboard /></ProtectedRoute>} />
-                <Route path="/profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
-                <Route path="/game" element={<ProtectedRoute>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</ProtectedRoute>} />
-                <Route path="*" element={<Navigate to="/" />} />
-              </Routes>
+              <AnimatePresence mode="wait">
+                <Routes location={location} key={location.pathname}>
+                  <Route path="/" element={<PageTransition><ProtectedRoute><Dashboard /></ProtectedRoute></PageTransition>} />
+                  <Route path="/explore" element={<PageTransition><ProtectedRoute><Explore /></ProtectedRoute></PageTransition>} />
+                  <Route path="/library" element={<PageTransition><ProtectedRoute><Library /></ProtectedRoute></PageTransition>} />
+                  <Route path="/create" element={<PageTransition><ProtectedRoute><HostQuiz /></ProtectedRoute></PageTransition>} />
+                  <Route path="/leaderboard" element={<PageTransition><ProtectedRoute><Leaderboard /></ProtectedRoute></PageTransition>} />
+                  <Route path="/profile" element={<PageTransition><ProtectedRoute><Profile /></ProtectedRoute></PageTransition>} />
+                  <Route path="/game" element={<PageTransition><ProtectedRoute>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</ProtectedRoute></PageTransition>} />
+                  <Route path="*" element={<Navigate to="/" />} />
+                </Routes>
+              </AnimatePresence>
             </div>
           </div>
 
@@ -199,12 +180,20 @@ export default function App() {
         </main>
 
         <div className="fixed bottom-20 md:bottom-8 right-4 md:right-8 z-50 space-y-2 pointer-events-none">
-          {notifications.map(n => (
-            <div key={n.id} className="animate-slide-up bg-slate-900 dark:bg-white text-white dark:text-slate-900 px-6 py-3 rounded-xl shadow-2xl flex items-center gap-3 pointer-events-auto">
-              {n.type === 'success' ? <CheckCircle size={20} className="text-emerald-500" /> : <Award size={20} className="text-amber-500" />}
-              <span className="font-medium">{n.msg}</span>
-            </div>
-          ))}
+          <AnimatePresence>
+            {notifications.map(n => (
+              <motion.div
+                key={n.id}
+                initial={{ opacity: 0, y: 50, scale: 0.3 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.5, transition: { duration: 0.2 } }}
+                className="bg-slate-900 dark:bg-white text-white dark:text-slate-900 px-6 py-3 rounded-xl shadow-2xl flex items-center gap-3 pointer-events-auto"
+              >
+                {n.type === 'success' ? <CheckCircle size={20} className="text-emerald-500" /> : <Award size={20} className="text-amber-500" />}
+                <span className="font-medium">{n.msg}</span>
+              </motion.div>
+            ))}
+          </AnimatePresence>
         </div>
       </div>
     </GameContext.Provider>
