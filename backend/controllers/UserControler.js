@@ -1,6 +1,6 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-
+const UserModel=require('../models/UserModel');
 
 exports.signup = async (req, res) => {
   try {
@@ -10,7 +10,7 @@ exports.signup = async (req, res) => {
       return res.status(400).json({ message: "All fields are required" });
     }
 
-    const existingUser = await User.findOne({ email });
+    const existingUser = await UserModel.findOne({ email });
 
     if (existingUser) {
       return res.status(400).json({ message: "User already exists" });
@@ -18,14 +18,19 @@ exports.signup = async (req, res) => {
 
     const hashedPassword = await bcrypt.hash(password, 10);
 
-    const user = await User.create({
+    const user = await UserModel.create({
       username,
       email,
       password: hashedPassword
     });
 
+    const token = jwt.sign({ id: user._id, email: user.email},
+      process.env.JWT_SECRET,
+    );
+
     res.status(201).json({
       message: "User registered successfully",
+      token,
       user: {
         id: user._id,
         username: user.username,
@@ -48,7 +53,7 @@ exports.login = async (req, res) => {
       return res.status(400).json({ message: "All fields are required" });
     }
 
-    const user = await User.findOne({ email });
+    const user = await UserModel.findOne({ email });
 
     if (!user) {
       return res.status(400).json({ message: "Invalid credentials" });
@@ -60,11 +65,9 @@ exports.login = async (req, res) => {
       return res.status(400).json({ message: "Invalid credentials" });
     }
 
-    const token = jwt.sign(
-      { id: user._id },
+    const token = jwt.sign({ id: user._id, email: user.email},
       process.env.JWT_SECRET,
-      { expiresIn: "7d" }
-    );
+       );
 
     // // Send token in cookie
     // res.cookie("token", token, {
