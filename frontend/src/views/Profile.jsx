@@ -75,10 +75,6 @@ export default function Profile() {
                 <div className="text-2xl font-black text-violet-400">{user.xp.toLocaleString()}</div>
                 <div className="text-[10px] text-slate-500 uppercase tracking-wider font-bold">Total XP</div>
               </div>
-              <div className="p-3 rounded-2xl bg-slate-800/50">
-                <div className="text-2xl font-black text-amber-500">{user.coins.toLocaleString()}</div>
-                <div className="text-[10px] text-slate-500 uppercase tracking-wider font-bold">Coins</div>
-              </div>
             </div>
           </div>
         </Card>

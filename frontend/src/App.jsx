@@ -93,7 +93,6 @@ export default function App() {
       xp: user.xp + xpGained,
       level: isLevelUp ? user.level + 1 : user.level,
       nextLevelXp: isLevelUp ? user.nextLevelXp * 1.2 : user.nextLevelXp,
-      coins: user.coins + (results.score > 80 ? 50 : 10),
       stats: {
         ...user.stats,
         quizzesPlayed: user.stats.quizzesPlayed + 1,

@@ -14,9 +14,7 @@ export const AuthProvider = ({ children }) => {
       level: 12,
       xp: 2450,
       nextLevelXp: 3000,
-      coins: 450,
       streak: 5,
-      badges: ['newbie', 'streak_3'],
       stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 },
       history: []
     };
@@ -46,9 +44,7 @@ export const AuthProvider = ({ children }) => {
             level: 1,
             xp: 0,
             nextLevelXp: 100,
-            coins: 0,
             streak: 0,
-            badges: [],
             stats: { quizzesPlayed: 0, questionsAnswered: 0, accuracy: 0, wins: 0 }
           };
           // For demo purposes, we'll just use the existing mock user if it matches "alex"
@@ -59,10 +55,9 @@ export const AuthProvider = ({ children }) => {
               email: 'alex@example.com',
               level: 12,
               xp: 2450,
+              xp: 2450,
               nextLevelXp: 3000,
-              coins: 450,
               streak: 5,
-              badges: ['newbie', 'streak_3'],
               stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 },
               history: [
                 { quizId: 'basic-math', title: 'Basic Math', score: 800, xpEarned: 80, date: new Date().toISOString() } // Sample history
@@ -88,9 +83,7 @@ export const AuthProvider = ({ children }) => {
           level: 1,
           xp: 0,
           nextLevelXp: 100,
-          coins: 50, // Bonus for signing up
           streak: 0,
-          badges: ['newbie'],
           stats: { quizzesPlayed: 0, questionsAnswered: 0, accuracy: 0, wins: 0 },
           history: []
         };
@@ -109,7 +102,7 @@ export const AuthProvider = ({ children }) => {
     return Promise.resolve({ success: true });
   };
 
-  // Helper to update game stats (xp, coins, etc)
+  // Helper to update game stats (xp, etc)
   const updateStats = (newStats) => {
     setUser(prev => ({ ...prev, ...newStats }));
   }
