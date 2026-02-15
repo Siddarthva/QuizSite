@@ -5,8 +5,11 @@ import ProgressBar from '../components/ProgressBar';
 import Card from '../components/Card';
 import { GameContext } from '../context/GameContext';
 
+import { useNavigate } from 'react-router-dom';
+
 const QuizGame = ({ quiz }) => {
-  const { handleQuizComplete, setView } = useContext(GameContext);
+  const { handleQuizComplete } = useContext(GameContext);
+  const navigate = useNavigate();
   const [currentQIndex, setCurrentQIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -83,7 +86,7 @@ const QuizGame = ({ quiz }) => {
           </Card>
         </div>
         <div className="flex gap-4 justify-center">
-          <Button variant="secondary" onClick={() => setView('dashboard')}>Back Home</Button>
+          <Button variant="secondary" onClick={() => navigate('/')}>Back Home</Button>
           <Button onClick={() => handleQuizComplete({ score, totalQuestions: quiz.questions.length })}>Claim Rewards</Button>
         </div>
       </div>
@@ -91,63 +94,109 @@ const QuizGame = ({ quiz }) => {
   }
 
   return (
-    <div className="max-w-3xl mx-auto h-full flex flex-col animate-fade-in">
-      <div className="flex items-center justify-between mb-6">
-        <Button variant="ghost" size="sm" onClick={() => setView('dashboard')}><LogOut size={18} /> Quit</Button>
+    <div className="max-w-4xl mx-auto h-full flex flex-col animate-fade-in px-4">
+      {/* Header */}
+      <div className="flex items-center justify-between mb-8 py-4">
+        <Button variant="ghost" size="sm" onClick={() => navigate('/')} className="text-slate-400 hover:text-white hover:bg-white/5">
+          <LogOut size={18} className="mr-2" /> Quit
+        </Button>
         <div className="flex flex-col items-center">
-          <span className="text-xs font-bold uppercase tracking-widest text-slate-400">{quiz.category}</span>
-          <span className="font-bold">Question {currentQIndex + 1}/{quiz.questions.length}</span>
+          <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-violet-400 mb-1">{quiz.category}</span>
+          <div className="flex gap-1">
+            {[...Array(quiz.questions.length)].map((_, i) => (
+              <div key={i} className={`h-1.5 w-6 rounded-full transition-colors duration-300 ${i === currentQIndex ? 'bg-white' : i < currentQIndex ? 'bg-violet-500' : 'bg-slate-800'}`} />
+            ))}
+          </div>
         </div>
-        <div className="flex items-center gap-2 px-3 py-1 bg-violet-100 dark:bg-violet-900/30 text-violet-600 rounded-full font-bold text-sm">
+        <div className="flex items-center gap-2 px-4 py-1.5 bg-slate-800/50 border border-white/5 backdrop-blur-md text-amber-400 rounded-full font-bold text-sm shadow-xl">
           <Zap size={14} fill="currentColor" /> {score}
         </div>
       </div>
 
-      <div className="mb-8 space-y-2">
-        <ProgressBar current={timeLeft} max={20} color={timeLeft < 5 ? 'bg-rose-500' : 'bg-violet-500'} />
-        <div className="flex justify-between text-xs font-semibold text-slate-400">
-          <span>Time Left</span>
-          <span className={timeLeft < 5 ? "text-rose-500 animate-pulse" : ""}>{timeLeft}s</span>
+      {/* Main Game Area */}
+      <div className="flex-1 flex flex-col justify-center max-w-2xl mx-auto w-full">
+        {/* Timer Bar */}
+        <div className="relative h-1 bg-slate-800 rounded-full mb-8 overflow-hidden">
+          <div
+            className={`absolute top-0 left-0 h-full transition-all duration-1000 ease-linear ${timeLeft < 5 ? 'bg-rose-500 shadow-[0_0_10px_rgba(244,63,94,0.5)]' : 'bg-violet-500 shadow-[0_0_10px_rgba(139,92,246,0.5)]'}`}
+            style={{ width: `${(timeLeft / 20) * 100}%` }}
+          />
         </div>
-      </div>
 
-      <div className="flex-1 flex flex-col justify-center">
-        {currentQ.image && (
-          <div className="mb-6 rounded-2xl overflow-hidden shadow-lg mx-auto max-h-60 w-full md:w-3/4">
-            <img src={currentQ.image} alt="Question" className="w-full h-full object-cover" />
+        {/* Question Card */}
+        <div className="relative group perspective-1000">
+          <div className="absolute inset-0 bg-gradient-to-r from-violet-600/20 to-indigo-600/20 rounded-3xl blur-xl transition-all duration-500 group-hover:blur-2xl opacity-50" />
+
+          <div className="relative bg-slate-900/80 backdrop-blur-xl border border-white/10 p-8 md:p-10 rounded-3xl shadow-2xl mb-8">
+            {currentQ.image && (
+              <div className="mb-6 rounded-xl overflow-hidden h-48 md:h-64 relative shadow-inner">
+                <img src={currentQ.image} alt="Question" className="w-full h-full object-cover" />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-60" />
+              </div>
+            )}
+            <h2 className="text-2xl md:text-3xl font-bold text-white leading-relaxed text-center">{currentQ.text}</h2>
           </div>
-        )}
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 leading-relaxed">{currentQ.text}</h2>
+        </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+        {/* Options Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
           {currentQ.options.map((opt, idx) => {
-            let stateStyle = "bg-white dark:bg-slate-800 border-slate-200 dark:border-slate-700 hover:border-violet-500";
+            let stateStyle = "bg-slate-800/50 border-white/5 text-slate-300 hover:bg-slate-800 hover:border-violet-500/50 hover:text-white";
+            let icon = null;
+
             if (isAnswered) {
-              if (idx === currentQ.correct) stateStyle = "bg-emerald-100 dark:bg-emerald-900/30 border-emerald-500 text-emerald-700 dark:text-emerald-300";
-              else if (idx === selectedOption) stateStyle = "bg-rose-100 dark:bg-rose-900/30 border-rose-500 text-rose-700 dark:text-rose-300 opacity-60";
-              else stateStyle = "opacity-40";
+              if (idx === currentQ.correct) {
+                stateStyle = "bg-emerald-500/20 border-emerald-500 text-emerald-400 shadow-[0_0_15px_rgba(16,185,129,0.3)]";
+                icon = <CheckCircle size={20} className="text-emerald-400" />;
+              }
+              else if (idx === selectedOption) {
+                stateStyle = "bg-rose-500/20 border-rose-500 text-rose-400";
+                icon = <XCircle size={20} className="text-rose-400" />;
+              }
+              else stateStyle = "opacity-30 bg-slate-900 border-transparent";
+            } else if (idx === selectedOption) { // Selected but waiting (if we had a confirm step, but here it's instant)
+              stateStyle = "bg-violet-600 text-white border-violet-500";
             }
+
             return (
-              <button key={idx} disabled={isAnswered} onClick={() => handleAnswer(idx)} className={`p-6 rounded-2xl border-2 text-left transition-all duration-200 font-semibold text-lg flex items-center justify-between group ${stateStyle} ${!isAnswered ? 'hover:shadow-md hover:-translate-y-0.5 active:scale-95' : ''}`}>
-                <span>{opt}</span>
-                {isAnswered && idx === currentQ.correct && <CheckCircle className="text-emerald-500" />}
-                {isAnswered && idx === selectedOption && idx !== currentQ.correct && <XCircle className="text-rose-500" />}
+              <button
+                key={idx}
+                disabled={isAnswered}
+                onClick={() => handleAnswer(idx)}
+                className={`
+                  relative p-4 md:p-6 rounded-2xl border-2 text-left transition-all duration-300 font-semibold text-lg flex items-center justify-between 
+                  ${stateStyle} 
+                  ${!isAnswered ? 'hover:-translate-y-1 hover:shadow-lg active:scale-95' : ''}
+                `}
+              >
+                <div className="flex items-center gap-3">
+                  <span className="flex items-center justify-center w-8 h-8 rounded-lg bg-white/5 text-sm font-bold opacity-70">
+                    {String.fromCharCode(65 + idx)}
+                  </span>
+                  <span>{opt}</span>
+                </div>
+                {icon}
               </button>
             )
           })}
         </div>
-      </div>
 
-      <div className="h-24">
-        {gameStatus === 'feedback' && (
-          <div className="animate-slide-up flex items-center justify-between p-4 bg-slate-100 dark:bg-slate-800 rounded-2xl border-l-4 border-violet-500">
-            <div>
-              <p className="font-bold text-sm text-slate-500 uppercase mb-1">{selectedOption === currentQ.correct ? "Brilliant!" : "Correct Answer:"}</p>
-              <p className="font-medium">{currentQ.explanation}</p>
+        {/* Feedback / Next Button Area */}
+        <div className="h-20 flex items-center justify-center">
+          {gameStatus === 'feedback' && (
+            <div className="animate-slide-up w-full bg-slate-800/80 backdrop-blur-md border border-white/10 rounded-2xl p-4 flex items-center justify-between shadow-2xl">
+              <div>
+                <p className={`font-bold uppercase text-xs tracking-wider mb-1 ${selectedOption === currentQ.correct ? 'text-emerald-400' : 'text-rose-400'}`}>
+                  {selectedOption === currentQ.correct ? "Correct Answer" : "Incorrect"}
+                </p>
+                <p className="text-slate-300 text-sm font-medium">{currentQ.explanation}</p>
+              </div>
+              <Button onClick={nextQuestion} variant="primary" className="rounded-xl shadow-lg shadow-violet-500/20">
+                Next <ChevronRight size={16} className="ml-1" />
+              </Button>
             </div>
-            <Button onClick={nextQuestion} className="flex-shrink-0">Next Question <ChevronRight size={18} /></Button>
-          </div>
-        )}
+          )}
+        </div>
       </div>
     </div>
   );

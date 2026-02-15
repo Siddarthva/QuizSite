@@ -28,10 +28,10 @@ const Dashboard = () => {
           <h2 className="text-3xl md:text-4xl font-extrabold mb-4 font-heading">Ready to learn,  {/* {user.name.split(' ')[0]}?*/}</h2>
           <p className="text-violet-100 text-lg mb-8">You're on a {/*{user.streak}*/} day streak! Keep it up to unlock the Firestarter badge.</p>
           <div className="flex gap-4">
-            <Button variant="white" size="lg" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth' })} className="font-bold flex items-center gap-2">
-              Start Playing <Play size={20} fill="currentColor" />
+            <Button variant="white" size="lg" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth' })} className="font-bold shadow-xl shadow-indigo-500/20 hover:shadow-indigo-500/40 transform hover:-translate-y-0.5" icon={Play}>
+              Start Playing
             </Button>
-            <Button variant="outline" className="text-white border-white/30 hover:bg-white/10 hover:border-white" onClick={handleDailyChallenge}>
+            <Button variant="outline" className="text-white border-white/20 hover:bg-white/10 hover:border-white backdrop-blur-sm" onClick={handleDailyChallenge}>
               Daily Challenge
             </Button>
           </div>
@@ -63,7 +63,7 @@ const Dashboard = () => {
       <div className="bg-slate-950 p-6 md:p-8 rounded-3xl">
         <div className="flex items-center justify-between mb-6">
           <h3 className="text-xl font-bold text-white">Browse Categories</h3>
-          <Button variant="ghost" size="sm" className="text-violet-500 hover:text-violet-400" onClick={() => navigate('/categories')}>View All</Button>
+          <Button variant="ghost" size="sm" className="text-violet-400 hover:text-white hover:bg-white/10" onClick={() => navigate('/categories')}>View All</Button>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           {CATEGORIES.slice(0, 5).map((cat) => (
@@ -76,8 +76,10 @@ const Dashboard = () => {
         </div>
       </div>
 
-      <div id="rec-quizzes">
-        <h3 className="text-xl font-bold mb-4">Recommended for You</h3>
+      <div id="rec-quizzes" className="pb-8">
+        <h3 className="text-xl font-bold mb-6 flex items-center gap-2">
+          <Star className="text-amber-500" fill="currentColor" /> Recommended for You
+        </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {recommended.map(quiz => (
             <QuizCard key={quiz.id} quiz={quiz} onPlay={() => startQuiz(quiz)} />

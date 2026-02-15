@@ -164,6 +164,7 @@ export default function App() {
           <div className="flex-1 overflow-y-auto p-4 md:p-8 scroll-smooth pb-24 md:pb-8">
             <div className="max-w-6xl mx-auto">
               <AnimatePresence mode="wait">
+                <ScrollToTop />
                 <Routes location={location} key={location.pathname}>
                   <Route path="/" element={<PageTransition><ProtectedRoute><Dashboard /></ProtectedRoute></PageTransition>} />
                   <Route path="/categories" element={<PageTransition><ProtectedRoute><Categories /></ProtectedRoute></PageTransition>} />
