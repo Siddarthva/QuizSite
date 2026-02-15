@@ -123,7 +123,7 @@ const QuizGame = ({ quiz }) => {
           </Card>
           <Card className="p-4 bg-amber-50 dark:bg-amber-900/20 border-amber-200">
             <div className="text-xs uppercase font-bold text-amber-500 mb-1">XP Earned</div>
-            <div className="text-3xl font-black text-amber-700 dark:text-amber-300">+{Math.floor(score / 10)}</div>
+            <div className="text-3xl font-black text-amber-700 dark:text-amber-300">+{score}</div>
           </Card>
         </div>
         <div className="flex gap-4 justify-center">

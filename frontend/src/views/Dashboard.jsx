@@ -27,8 +27,8 @@ const Dashboard = () => {
     <div className="space-y-8 animate-fade-in pb-10">
       <div className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-violet-600 to-indigo-600 p-8 md:p-12 text-white shadow-2xl shadow-violet-600/20 ring-1 ring-white/10">
         <div className="relative z-10 max-w-lg">
-          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 font-heading tracking-tight">Ready to learn?  {/* {user.name.split(' ')[0]}?*/}</h2>
-          <p className="text-violet-100 text-lg mb-8 font-medium">You're on a {/*{user.streak}*/} day streak! Keep it up to unlock the Firestarter badge.</p>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 font-heading tracking-tight">Ready to learn, {user.name.split(' ')[0]}?</h2>
+          <p className="text-violet-100 text-lg mb-8 font-medium">You're on a {user.streak || 0} day streak! Keep it up to unlock the Firestarter badge.</p>
           <div className="flex gap-4">
             <Button variant="primary" size="lg" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth' })} className="font-bold shadow-xl shadow-violet-900/20 hover:shadow-violet-900/30 transform hover:-translate-y-0.5" icon={Play}>
               Start Playing
@@ -48,7 +48,7 @@ const Dashboard = () => {
           { label: 'Total XP', value: user.xp, icon: Zap, color: 'text-amber-500', bg: 'bg-amber-100 dark:bg-amber-500/10' },
           { label: 'Accuracy', value: `${user.stats.accuracy}%`, icon: Star, color: 'text-emerald-500', bg: 'bg-emerald-100 dark:bg-emerald-500/10' },
           { label: 'Completed', value: user.stats.quizzesPlayed, icon: Star, color: 'text-blue-500', bg: 'bg-blue-100 dark:bg-blue-500/10' },
-          { label: 'Ranking', value: '#42', icon: Star, color: 'text-rose-500', bg: 'bg-rose-100 dark:bg-rose-500/10' },
+          { label: 'Streak', value: `${user.streak || 0} Days`, icon: Flame, color: 'text-rose-500', bg: 'bg-rose-100 dark:bg-rose-500/10' },
         ].map((stat, i) => (
           <Card key={i} className="p-5 flex items-center gap-4 hover:shadow-md transition-shadow">
             <div className={`p-3.5 rounded-2xl ${stat.bg} ${stat.color}`}>

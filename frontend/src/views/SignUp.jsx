@@ -1,9 +1,8 @@
-import React, { useState,useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { useNavigate, Link } from 'react-router-dom';
 import { Brain, User, Mail, Lock, ArrowRight, Loader2 } from 'lucide-react';
 import Button from '../components/Button';
-import axios from 'axios';
 
 export default function SignUp() {
     const [name, setName] = useState('');
@@ -14,7 +13,7 @@ export default function SignUp() {
     const { signup } = useAuth();
     const navigate = useNavigate();
 
-      useEffect(() => {
+    useEffect(() => {
         const userId = localStorage.getItem("q_userId");
         if (userId) {
             navigate('/');
@@ -27,34 +26,10 @@ export default function SignUp() {
         setError('');
 
         try {
-            const response = await axios.post(
-                "http://localhost:5000/user/signup",
-                {
-                    username: name,
-                    email: email,
-                    password: password
-                }
-            );
-
-            const { token, user } = response.data;
-
-        
-            localStorage.setItem("q_token", token);
-            localStorage.setItem("q_userId", user.id);
-            localStorage.setItem("q_username", user.username);
-            localStorage.setItem("q_email", user.email);
-
-            console.log("User stored in localStorage");
-
-            // ✅ Navigate to home
+            await signup(name, email, password);
             navigate('/');
-
         } catch (err) {
-            setError(
-                err.response?.data?.message ||
-                err.message ||
-                "Failed to sign up"
-            );
+            setError(err.message || "Failed to sign up");
         } finally {
             setIsLoading(false);
         }

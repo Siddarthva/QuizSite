@@ -58,7 +58,10 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(true);
 
   // Keep local state for game-related things
-  const [library, setLibrary] = useState(generateMockQuizzes());
+  const [library, setLibrary] = useState(() => {
+    const saved = localStorage.getItem('quiz_library');
+    return saved ? JSON.parse(saved) : generateMockQuizzes();
+  });
   const [activeQuiz, setActiveQuiz] = useState(null);
   const [notifications, setNotifications] = useState([]);
 
@@ -85,7 +88,8 @@ export default function App() {
   const handleQuizComplete = (results) => {
     if (!user) return; // Should be protected, but safety check
 
-    const xpGained = results.score * 10;
+    // Balance: 1 point = 1 XP. Previous * 10 was too fast.
+    const xpGained = results.score;
     const isLevelUp = user.xp + xpGained >= user.nextLevelXp;
 
     // Update user stats via AuthContext
@@ -121,7 +125,11 @@ export default function App() {
   };
 
   const saveNewQuiz = (newQuiz) => {
-    setLibrary(prev => [newQuiz, ...prev]);
+    setLibrary(prev => {
+      const updated = [newQuiz, ...prev];
+      localStorage.setItem('quiz_library', JSON.stringify(updated));
+      return updated;
+    });
     addNotification('Quiz Created Successfully!', 'success');
     navigate('/library');
   };
@@ -166,10 +174,7 @@ export default function App() {
               </div>
             )}
 
-            <div className="flex items-center gap-4">
-              <button onClick={toggleDarkMode} className="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">{darkMode ? <Sun size={20} /> : <Moon size={20} />}</button>
-              <Button size="sm" variant="primary" onClick={() => addNotification("Premium features coming soon!", "info")}>Go Premium</Button>
-            </div>
+
           </header>
 
           <div className="flex-1 overflow-y-auto p-4 md:p-8 scroll-smooth pb-24 md:pb-8">
@@ -177,14 +182,14 @@ export default function App() {
               <ScrollToTop />
               <AnimatePresence mode="wait">
                 <Routes location={location} key={location.pathname}>
-                  <Route path="/" element={<PageTransition><Dashboard /></PageTransition>} />
-                  <Route path="/categories" element={<PageTransition><Categories /></PageTransition>} />
-                  <Route path="/explore" element={<PageTransition><Explore /></PageTransition>} />
-                  <Route path="/library" element={<PageTransition><Library /></PageTransition>} />
-                  <Route path="/create" element={<PageTransition><HostQuiz /></PageTransition>} />
-                  <Route path="/leaderboard" element={<PageTransition><Leaderboard /></PageTransition>} />
-                  <Route path="/profile" element={<PageTransition><Profile /></PageTransition>} />
-                  <Route path="/game" element={<PageTransition>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</PageTransition>} />
+                  <Route path="/" element={<ProtectedRoute><PageTransition><Dashboard /></PageTransition></ProtectedRoute>} />
+                  <Route path="/categories" element={<ProtectedRoute><PageTransition><Categories /></PageTransition></ProtectedRoute>} />
+                  <Route path="/explore" element={<ProtectedRoute><PageTransition><Explore /></PageTransition></ProtectedRoute>} />
+                  <Route path="/library" element={<ProtectedRoute><PageTransition><Library /></PageTransition></ProtectedRoute>} />
+                  <Route path="/create" element={<ProtectedRoute><PageTransition><HostQuiz /></PageTransition></ProtectedRoute>} />
+                  <Route path="/leaderboard" element={<ProtectedRoute><PageTransition><Leaderboard /></PageTransition></ProtectedRoute>} />
+                  <Route path="/profile" element={<ProtectedRoute><PageTransition><Profile /></PageTransition></ProtectedRoute>} />
+                  <Route path="/game" element={<ProtectedRoute><PageTransition>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</PageTransition></ProtectedRoute>} />
                   <Route path="*" element={<Navigate to="/" />} />
                 </Routes>
               </AnimatePresence>

@@ -1,9 +1,9 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-const UserModel=require('../models/UserModel');
+const UserModel = require('../models/UserModel');
 
 exports.signup = async (req, res) => {
-  try{
+  try {
     const { username, email, password } = req.body;
 
     if (!username || !email || !password) {
@@ -24,7 +24,7 @@ exports.signup = async (req, res) => {
       password: hashedPassword
     });
 
-    const token = jwt.sign({ id: user._id, email: user.email},
+    const token = jwt.sign({ id: user._id, email: user.email },
       process.env.JWT_SECRET,
     );
 
@@ -65,9 +65,9 @@ exports.login = async (req, res) => {
       return res.status(400).json({ message: "Invalid credentials" });
     }
 
-    const token = jwt.sign({ id: user._id, email: user.email},
+    const token = jwt.sign({ id: user._id, email: user.email },
       process.env.JWT_SECRET,
-       );
+    );
 
     // // Send token in cookie
     // res.cookie("token", token, {
@@ -92,7 +92,7 @@ exports.login = async (req, res) => {
 };
 
 
-exports.updatestats= async (req, res) => {
+exports.updatestats = async (req, res) => {
   try {
     const { xp = 0, completedQuestions = 0, correctAnswers = 0 } = req.body;
 
@@ -127,5 +127,18 @@ exports.updatestats= async (req, res) => {
 
   } catch (error) {
     res.status(500).json({ message: error.message });
+  }
+};
+
+exports.getLeaderboard = async (req, res) => {
+  try {
+    const users = await UserModel.find()
+      .sort({ xp: -1 })
+      .limit(10)
+      .select("username xp level");
+
+    res.status(200).json(users);
+  } catch (error) {
+    res.status(500).json({ message: "Server error", error: error.message });
   }
 };
