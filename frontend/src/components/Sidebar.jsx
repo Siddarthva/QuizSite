@@ -36,6 +36,10 @@ export default function Sidebar({ className }) {
     const location = useLocation();
 
     const handleLogout = () => {
+    localStorage.removeItem("q_token");
+    localStorage.removeItem("q_userId");
+    localStorage.removeItem("q_username");
+    localStorage.removeItem("q_email");
         logout();
         navigate('/signin');
     };

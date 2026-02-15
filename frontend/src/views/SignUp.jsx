@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { useNavigate, Link } from 'react-router-dom';
 import { Brain, User, Mail, Lock, ArrowRight, Loader2 } from 'lucide-react';
@@ -14,37 +14,52 @@ export default function SignUp() {
     const { signup } = useAuth();
     const navigate = useNavigate();
 
+      useEffect(() => {
+        const userId = localStorage.getItem("q_userId");
+        if (userId) {
+            navigate('/');
+        }
+    }, [navigate]);
+
     const handleSubmit = async (e) => {
-    e.preventDefault();
-    setIsLoading(true);
-    setError('');
+        e.preventDefault();
+        setIsLoading(true);
+        setError('');
 
-    try {
-        const response = await axios.post(
-            "http://localhost:5000/user/signup",
-            {
-                username: name,   
-                email: email,
-                password: password
-            },
-            {
-               // withCredentials: true 
-            }
-        );
+        try {
+            const response = await axios.post(
+                "http://localhost:5000/user/signup",
+                {
+                    username: name,
+                    email: email,
+                    password: password
+                }
+            );
 
-        console.log(response.data);
-        navigate('/');
+            const { token, user } = response.data;
 
-    } catch (err) {
-        setError(
-            err.response?.data?.message || 
-            err.message || 
-            "Failed to sign up"
-        );
-    } finally {
-        setIsLoading(false);
-    }
-};
+        
+            localStorage.setItem("q_token", token);
+            localStorage.setItem("q_userId", user.id);
+            localStorage.setItem("q_username", user.username);
+            localStorage.setItem("q_email", user.email);
+
+            console.log("User stored in localStorage");
+
+            // ✅ Navigate to home
+            navigate('/');
+
+        } catch (err) {
+            setError(
+                err.response?.data?.message ||
+                err.message ||
+                "Failed to sign up"
+            );
+        } finally {
+            setIsLoading(false);
+        }
+    };
+
 
     return (
         <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex items-center justify-center p-4">
@@ -134,4 +149,4 @@ export default function SignUp() {
             </div>
         </div>
     );
-}
+}  

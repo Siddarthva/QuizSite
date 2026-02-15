@@ -177,14 +177,14 @@ export default function App() {
               <ScrollToTop />
               <AnimatePresence mode="wait">
                 <Routes location={location} key={location.pathname}>
-                  <Route path="/" element={<PageTransition><ProtectedRoute><Dashboard /></ProtectedRoute></PageTransition>} />
-                  <Route path="/categories" element={<PageTransition><ProtectedRoute><Categories /></ProtectedRoute></PageTransition>} />
-                  <Route path="/explore" element={<PageTransition><ProtectedRoute><Explore /></ProtectedRoute></PageTransition>} />
-                  <Route path="/library" element={<PageTransition><ProtectedRoute><Library /></ProtectedRoute></PageTransition>} />
-                  <Route path="/create" element={<PageTransition><ProtectedRoute><HostQuiz /></ProtectedRoute></PageTransition>} />
-                  <Route path="/leaderboard" element={<PageTransition><ProtectedRoute><Leaderboard /></ProtectedRoute></PageTransition>} />
-                  <Route path="/profile" element={<PageTransition><ProtectedRoute><Profile /></ProtectedRoute></PageTransition>} />
-                  <Route path="/game" element={<PageTransition><ProtectedRoute>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</ProtectedRoute></PageTransition>} />
+                  <Route path="/" element={<PageTransition><Dashboard /></PageTransition>} />
+                  <Route path="/categories" element={<PageTransition><Categories /></PageTransition>} />
+                  <Route path="/explore" element={<PageTransition><Explore /></PageTransition>} />
+                  <Route path="/library" element={<PageTransition><Library /></PageTransition>} />
+                  <Route path="/create" element={<PageTransition><HostQuiz /></PageTransition>} />
+                  <Route path="/leaderboard" element={<PageTransition><Leaderboard /></PageTransition>} />
+                  <Route path="/profile" element={<PageTransition><Profile /></PageTransition>} />
+                  <Route path="/game" element={<PageTransition>{activeQuiz ? <QuizGame quiz={activeQuiz} /> : <Navigate to="/" />}</PageTransition>} />
                   <Route path="*" element={<Navigate to="/" />} />
                 </Routes>
               </AnimatePresence>

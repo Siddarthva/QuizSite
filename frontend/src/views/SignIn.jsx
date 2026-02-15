@@ -1,9 +1,10 @@
-import React, { useState, useContext } from 'react';
+import React, { useState, useContext,useEffect } from 'react';
 import { GameContext } from '../context/GameContext';
 import { useAuth } from '../context/AuthContext';
 import { useNavigate, Link } from 'react-router-dom';
 import { Brain, Mail, Lock, ArrowRight, Loader2 } from 'lucide-react';
 import Button from '../components/Button';
+import axios from 'axios';
 
 export default function SignIn() {
     const [email, setEmail] = useState('');
@@ -14,16 +15,43 @@ export default function SignIn() {
     const { addNotification } = useContext(GameContext);
     const navigate = useNavigate();
 
-    const handleSubmit = async (e) => {
+    useEffect(() => {
+        const userId = localStorage.getItem("q_userId");
+        if (userId) {
+            navigate('/');
+        }
+    }, [navigate]);
+
+     const handleSubmit = async (e) => {
         e.preventDefault();
         setIsLoading(true);
         setError('');
 
         try {
-            await login(email, password);
+            const response = await axios.post(
+                "http://localhost:5000/user/login",
+                {
+                    email: email,
+                    password: password
+                }
+            );
+
+            const { token, user } = response.data;
+
+            // ✅ Store separately (same as signup)
+            localStorage.setItem("q_token", token);
+            localStorage.setItem("q_userId", user.id);
+            localStorage.setItem("q_username", user.username);
+            localStorage.setItem("q_email", user.email);
+
             navigate('/');
+
         } catch (err) {
-            setError(err.message || 'Failed to sign in');
+            setError(
+                err.response?.data?.message ||
+                err.message ||
+                'Failed to sign in'
+            );
         } finally {
             setIsLoading(false);
         }
