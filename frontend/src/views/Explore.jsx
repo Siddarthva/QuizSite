@@ -1,4 +1,5 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import { Search, Filter } from 'lucide-react';
 import { GameContext } from '../context/GameContext';
 import Button from '../components/Button';
@@ -7,11 +8,18 @@ import { CATEGORIES } from '../data';
 
 const Explore = () => {
   const { library, startQuiz } = useContext(GameContext);
+  const location = useLocation();
   const [search, setSearch] = useState('');
-  const [filter, setFilter] = useState('All');
+  const [filter, setFilter] = useState(location.state?.category || 'All');
 
-  const filtered = library.filter(q => 
-    q.title.toLowerCase().includes(search.toLowerCase()) && 
+  useEffect(() => {
+    if (location.state?.category) {
+      setFilter(location.state.category);
+    }
+  }, [location.state]);
+
+  const filtered = library.filter(q =>
+    q.title.toLowerCase().includes(search.toLowerCase()) &&
     (filter === 'All' || q.category === filter)
   );
 
@@ -25,9 +33,9 @@ const Explore = () => {
         <div className="flex w-full md:w-auto gap-2">
           <div className="relative flex-1 md:w-64">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
-            <input 
-              type="text" 
-              placeholder="Search topics..." 
+            <input
+              type="text"
+              placeholder="Search topics..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="w-full pl-10 pr-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-violet-500"

@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
+import { GameContext } from '../context/GameContext';
 import { useAuth } from '../context/AuthContext';
 import { useNavigate, Link } from 'react-router-dom';
 import { Brain, Mail, Lock, ArrowRight, Loader2 } from 'lucide-react';
@@ -10,6 +11,7 @@ export default function SignIn() {
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState('');
     const { login } = useAuth();
+    const { addNotification } = useContext(GameContext);
     const navigate = useNavigate();
 
     const handleSubmit = async (e) => {
@@ -64,7 +66,7 @@ export default function SignIn() {
                         <div className="space-y-2">
                             <div className="flex justify-between items-center">
                                 <label className="text-sm font-medium text-slate-700 dark:text-slate-300">Password</label>
-                                <a href="#" className="text-xs text-violet-600 dark:text-violet-400 hover:underline">Forgot password?</a>
+                                <a href="#" onClick={(e) => { e.preventDefault(); addNotification("Password reset functionality is currently disabled.", "info"); }} className="text-xs text-violet-600 dark:text-violet-400 hover:underline">Forgot password?</a>
                             </div>
                             <div className="relative">
                                 <Lock className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />

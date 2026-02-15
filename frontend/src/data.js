@@ -1,16 +1,16 @@
+import { Globe, Scroll, Atom, Film, Music, Medal, Map, Book, Palette, Utensils } from 'lucide-react';
+
 export const CATEGORIES = [
-  { id: 'gk', name: 'General Knowledge', icon: '🌍', color: 'bg-blue-500' },
-  { id: 'history', name: 'History', icon: 'scroll', color: 'bg-amber-600' },
-  { id: 'science', name: 'Science', icon: 'atom', color: 'bg-emerald-500' },
-  { id: 'movies', name: 'Movies', icon: 'film', color: 'bg-red-500' },
-  { id: 'music', name: 'Music', icon: 'music', color: 'bg-pink-500' },
-  { id: 'tech', name: 'Technology', icon: 'cpu', color: 'bg-indigo-500' },
-  { id: 'sports', name: 'Sports', icon: 'medal', color: 'bg-orange-500' },
-  { id: 'geo', name: 'Geography', icon: 'map', color: 'bg-teal-500' },
-  { id: 'lit', name: 'Literature', icon: 'book', color: 'bg-yellow-600' },
-  { id: 'art', name: 'Art', icon: 'palette', color: 'bg-purple-500' },
-  { id: 'food', name: 'Food & Drink', icon: 'utensils', color: 'bg-lime-500' },
-  { id: 'animals', name: 'Animals', icon: 'paw', color: 'bg-green-600' },
+  { id: 'gk', name: 'General Knowledge', icon: Globe, color: 'bg-blue-500', from: 'from-blue-500', to: 'to-blue-600', shadow: 'shadow-blue-500' },
+  { id: 'history', name: 'History', icon: Scroll, color: 'bg-amber-600', from: 'from-amber-600', to: 'to-amber-700', shadow: 'shadow-amber-600' },
+  { id: 'science', name: 'Science', icon: Atom, color: 'bg-emerald-500', from: 'from-emerald-500', to: 'to-emerald-600', shadow: 'shadow-emerald-500' },
+  { id: 'movies', name: 'Movies', icon: Film, color: 'bg-red-500', from: 'from-red-500', to: 'to-red-600', shadow: 'shadow-red-500' },
+  { id: 'music', name: 'Music', icon: Music, color: 'bg-pink-500', from: 'from-pink-500', to: 'to-pink-600', shadow: 'shadow-pink-500' },
+  { id: 'sports', name: 'Sports', icon: Medal, color: 'bg-orange-500', from: 'from-orange-500', to: 'to-orange-600', shadow: 'shadow-orange-500' },
+  { id: 'geo', name: 'Geography', icon: Map, color: 'bg-teal-500', from: 'from-teal-500', to: 'to-teal-600', shadow: 'shadow-teal-500' },
+  { id: 'lit', name: 'Literature', icon: Book, color: 'bg-yellow-600', from: 'from-yellow-600', to: 'to-yellow-700', shadow: 'shadow-yellow-600' },
+  { id: 'art', name: 'Art', icon: Palette, color: 'bg-purple-500', from: 'from-purple-500', to: 'to-purple-700', shadow: 'shadow-purple-500' },
+  { id: 'food', name: 'Food & Drink', icon: Utensils, color: 'bg-lime-500', from: 'from-lime-500', to: 'to-lime-600', shadow: 'shadow-lime-500' },
 ];
 
 export const BADGES = [

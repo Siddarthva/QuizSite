@@ -148,7 +148,7 @@ export default function App() {
 
             <div className="flex items-center gap-4">
               <button onClick={toggleDarkMode} className="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">{darkMode ? <Sun size={20} /> : <Moon size={20} />}</button>
-              <Button size="sm" variant="primary">Go Premium</Button>
+              <Button size="sm" variant="primary" onClick={() => addNotification("Premium features coming soon!", "info")}>Go Premium</Button>
             </div>
           </header>
 
