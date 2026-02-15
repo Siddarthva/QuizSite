@@ -14,6 +14,7 @@ app.use(express.static('public'));
 const UserRoute=require('./route/UserRoute')
 
 app.use("/user",UserRoute);
+app.use("/quiz")
 
 
 const PORT=process.env.PORT || 3000;
