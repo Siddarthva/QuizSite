@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "What is the thin, outermost layer of the Earth?",
+    "options": [
+      "Exosphere",
+      "Mantle",
+      "Outer Core",
+      "Crust"
+    ],
+    "answer": "Crust",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many chromosomes are in your body cells?",
+    "options": [
+      "21",
+      "22",
+      "24",
+      "23"
+    ],
+    "answer": "23",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many laws of thermodynamics are there?",
+    "options": [
+      "Three",
+      "Two",
+      "Five",
+      "Four"
+    ],
+    "answer": "Four",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "options": [
+      "Saturn",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+    "options": [
+      "Sepal",
+      "Pistil",
+      "Petal",
+      "Stamen"
+    ],
+    "answer": "Stamen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What nucleotide pairs with guanine?",
+    "options": [
+      "Thymine",
+      "Adenine",
+      "Uracil",
+      "Cytosine"
+    ],
+    "answer": "Cytosine",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+    "options": [
+      "Jean Piaget",
+      "Alice Miller",
+      "Hermann Rorschach",
+      "Carl Jung"
+    ],
+    "answer": "Carl Jung",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official name of the star located closest to the North Celestial Pole?",
+    "options": [
+      "Eridanus",
+      "Gamma Cephei",
+      "Iota Cephei",
+      "Polaris"
+    ],
+    "answer": "Polaris",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for temperature?",
+    "options": [
+      "Fahrenheit",
+      "Celsius",
+      "Rankine",
+      "Kelvin"
+    ],
+    "answer": "Kelvin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+    "options": [
+      "A lack of nutrition in microenviroments",
+      "The nitrogen level in soil",
+      "Testing effects of certain microorganisms in an isolated enviroments, such as caves",
+      "The separation of a strain from a natural, mixed population of living microbes"
+    ],
+    "answer": "The separation of a strain from a natural, mixed population of living microbes",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the lowest layer of the Earth&#039;s atmosphere named?",
+    "options": [
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere"
+    ],
+    "answer": "Troposphere",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+    "options": [
+      "Rubber",
+      "Nylon",
+      "Bakelite",
+      "Polycarbonate"
+    ],
+    "answer": "Polycarbonate",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which element has the atomic number of 7?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Neon",
+      "Nitrogen"
+    ],
+    "answer": "Nitrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of the element Strontium?",
+    "options": [
+      "73",
+      "47",
+      "11",
+      "38"
+    ],
+    "answer": "38",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What produces the green colour of most plant leaves?",
+    "options": [
+      "Light refraction",
+      "Natural pigments",
+      "UV radiation",
+      "Chlorophyll"
+    ],
+    "answer": "Chlorophyll",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+    "options": [
+      "Dog",
+      "Bat",
+      "Butterfly",
+      "Cat"
+    ],
+    "answer": "Cat",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+    "options": [
+      "Potassium",
+      "Iodine",
+      "Colbalt",
+      "Neon"
+    ],
+    "answer": "Neon",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these stars is the largest?",
+    "options": [
+      "VY Canis Majoris",
+      "Betelgeuse",
+      "RW Cephei",
+      "UY Scuti"
+    ],
+    "answer": "UY Scuti",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is considered classical conditioning?",
+    "options": [
+      "Skinner box experiment",
+      "Schr&ouml;dinger&#039;s cat experiment",
+      "Harlow&rsquo;s monkey experiments",
+      "Pavlov&#039;s dog experiments"
+    ],
+    "answer": "Pavlov&#039;s dog experiments",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+    "options": [
+      "low, some",
+      "high, all",
+      "high, some",
+      "low, all"
+    ],
+    "answer": "low, all",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a word used to describe an earthquake?",
+    "options": [
+      "Foreshock",
+      "Strike-slip",
+      "Temblor",
+      "Drop-slide"
+    ],
+    "answer": "Drop-slide",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical inductance?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Mho",
+      "Henry"
+    ],
+    "answer": "Henry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Carbon",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+    "options": [
+      "Water",
+      "Trees",
+      "Pollen",
+      "Light"
+    ],
+    "answer": "Light",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "options": [
+      "Capsaicin",
+      "Dihydrocapsaicin",
+      "Tinyatoxin",
+      "Resiniferatoxin"
+    ],
+    "answer": "Resiniferatoxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "Uranus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following spacecraft never touched the moon?",
+    "options": [
+      "Apollo 11",
+      "Luna 2",
+      "SMART-1",
+      "Mariner 4"
+    ],
+    "answer": "Mariner 4",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+    "options": [
+      "Deformed Fish",
+      "Strange Crab",
+      "Anomalous Clam",
+      "Abnormal Shrimp"
+    ],
+    "answer": "Abnormal Shrimp",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What lies at the center of our galaxy?",
+    "options": [
+      "A wormhole",
+      "A supernova",
+      "A quasar",
+      "A black hole"
+    ],
+    "answer": "A black hole",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Gannymede is the largest moon of which planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest animal currently on Earth?",
+    "options": [
+      "Orca",
+      "Colossal Squid",
+      "Giraffe",
+      "Blue Whale"
+    ],
+    "answer": "Blue Whale",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Le",
+      "Pm",
+      "Pb"
+    ],
+    "answer": "Pb",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for distance?",
+    "options": [
+      "Angstrom",
+      "Foot",
+      "Fathom",
+      "Metre"
+    ],
+    "answer": "Metre",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "options": [
+      "Gallium",
+      "Caesium",
+      "Mercury",
+      "Beryllium"
+    ],
+    "answer": "Beryllium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Apollo mission was the first one to land on the Moon?",
+    "options": [
+      "Apollo 10",
+      "Apollo 9",
+      "Apollo 13",
+      "Apollo 11"
+    ],
+    "answer": "Apollo 11",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+    "options": [
+      "Storm",
+      "Hurricane",
+      "Breeze",
+      "Gale"
+    ],
+    "answer": "Gale",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+    "options": [
+      "Ears",
+      "Chin",
+      "Neck",
+      "Nose"
+    ],
+    "answer": "Nose",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+    "options": [
+      "Tennis Elbow",
+      "Carpal Tunnel",
+      "Housemaid&#039;s Knee",
+      "Shin Splints"
+    ],
+    "answer": "Shin Splints",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where in the human body is the Pineal Gland located?",
+    "options": [
+      "Groin",
+      "Chest",
+      "Throat",
+      "Brain"
+    ],
+    "answer": "Brain",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What organelle aids in synthesis of DNA in cells?",
+    "options": [
+      "Nuclei",
+      "Lysosomes",
+      "Mitochondria",
+      "Ribosomes"
+    ],
+    "answer": "Ribosomes",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+    "options": [
+      "23",
+      "15",
+      "24",
+      "21"
+    ],
+    "answer": "21",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+    "options": [
+      "Glissandro Illusion",
+      "Fransen Effect",
+      "McGurck Effect",
+      "Shepard Tone"
+    ],
+    "answer": "Shepard Tone",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What part of the brain takes its name from the Greek for seahorse?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Amygdala",
+      "Hippocampus"
+    ],
+    "answer": "Hippocampus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the red fox?",
+    "options": [
+      "Vulpes Redus",
+      "Red Fox",
+      "Vulpes Vulpie",
+      "Vulpes Vulpes"
+    ],
+    "answer": "Vulpes Vulpes",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most potent toxin known?",
+    "options": [
+      "Ricin",
+      "Cyanide",
+      "Asbestos",
+      "Botulinum toxin"
+    ],
+    "answer": "Botulinum toxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+    "options": [
+      "The Gobi Desert",
+      "The Yuma Desert",
+      "The Arabian Desert",
+      "The Sonoran Desert"
+    ],
+    "answer": "The Sonoran Desert",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+    "options": [
+      "326",
+      "100",
+      "451",
+      "212"
+    ],
+    "answer": "212",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for mass?",
+    "options": [
+      "Tonne",
+      "Pound",
+      "Gram",
+      "Kilogram"
+    ],
+    "answer": "Kilogram",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of Uranium ",
+    "options": [
+      "235",
+      "17",
+      "167",
+      "92"
+    ],
+    "answer": "92",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "14",
+      "16",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+    "options": [
+      "Propane",
+      "Ethanol",
+      "Formaldehyde",
+      "Urea"
+    ],
+    "answer": "Urea",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+    "options": [
+      "Faraday&#039;s Law",
+      "Ampere&#039;s Law",
+      "Biot-Savart Law",
+      "Gauss&#039;s Law"
+    ],
+    "answer": "Gauss&#039;s Law",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+    "options": [
+      "Storm",
+      "Hurricane",
+      "Breeze",
+      "Gale"
+    ],
+    "answer": "Gale",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who made the discovery of X-rays?",
+    "options": [
+      "Thomas Alva Edison",
+      "James Watt",
+      "Albert Einstein",
+      "Wilhelm Conrad R&ouml;ntgen"
+    ],
+    "answer": "Wilhelm Conrad R&ouml;ntgen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+    "options": [
+      "The overall size",
+      "The presence or absence of certain organelles",
+      "The mode of reproduction",
+      "The presence or absence of a nucleus"
+    ],
+    "answer": "The presence or absence of a nucleus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "24"
+    ],
+    "answer": "24",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs is it biologically impossible for a centipede to have?",
+    "options": [
+      "26",
+      "50",
+      "74",
+      "100"
+    ],
+    "answer": "100",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "options": [
+      "Capsaicin",
+      "Dihydrocapsaicin",
+      "Tinyatoxin",
+      "Resiniferatoxin"
+    ],
+    "answer": "Resiniferatoxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the lowest layer of the Earth&#039;s atmosphere named?",
+    "options": [
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere"
+    ],
+    "answer": "Troposphere",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Endoplasmic Reticulum",
+      "Mitochondria"
+    ],
+    "answer": "Mitochondria",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+    "options": [
+      "Sepal",
+      "Pistil",
+      "Petal",
+      "Stamen"
+    ],
+    "answer": "Stamen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+    "options": [
+      "Cough",
+      "Yawn",
+      "Hiccup",
+      "Sneeze"
+    ],
+    "answer": "Sneeze",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dry ice is the solid form of what substance?",
+    "options": [
+      "Nitrogen",
+      "Ammonia",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "answer": "Carbon dioxide",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+    "options": [
+      "Black",
+      "Orange",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Blue",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the molecular formula of Ozone?",
+    "options": [
+      "C6H2O6",
+      "N2O",
+      "SO4",
+      "O3"
+    ],
+    "answer": "O3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of the element Strontium?",
+    "options": [
+      "73",
+      "47",
+      "11",
+      "38"
+    ],
+    "answer": "38",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Apollo mission was the first one to land on the Moon?",
+    "options": [
+      "Apollo 10",
+      "Apollo 9",
+      "Apollo 13",
+      "Apollo 11"
+    ],
+    "answer": "Apollo 11",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not one of the groups on the periodic table?",
+    "options": [
+      "Alkali Metals",
+      "Halogens",
+      "Noble Gases",
+      "Fluorines"
+    ],
+    "answer": "Fluorines",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for distance?",
+    "options": [
+      "Angstrom",
+      "Foot",
+      "Fathom",
+      "Metre"
+    ],
+    "answer": "Metre",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+    "options": [
+      "Gongoozler",
+      "Jentacular",
+      "Meupareunia",
+      "Gossypiboma"
+    ],
+    "answer": "Gossypiboma",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+    "options": [
+      "Leaves",
+      "Male Flower",
+      "Root Ball",
+      "Female Flower"
+    ],
+    "answer": "Female Flower",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does LASER stand for?",
+    "options": [
+      "Lite analysing by stereo ecorazer",
+      "Light amplifier by standby energy of radio",
+      "Life antimatter by standing entry of range",
+      "Light amplification by stimulated emission of radiation"
+    ],
+    "answer": "Light amplification by stimulated emission of radiation",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did Gregory Mendel use to test genetic crossovers?",
+    "options": [
+      "Cats",
+      "Flowers",
+      "Parrots",
+      "Peas"
+    ],
+    "answer": "Peas",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for time?",
+    "options": [
+      "Minute",
+      "Hour",
+      "Day",
+      "Second"
+    ],
+    "answer": "Second",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Human cells typically have how many copies of each gene?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mineral has the lowest number on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Gypsum",
+      "Talc"
+    ],
+    "answer": "Talc",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets are there in the Solar System?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Tin",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Lithium",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribogenetic Acid",
+      "Deoxyribogenetic Atoms",
+      "Detoxic Acid",
+      "Deoxyribonucleic Acid"
+    ],
+    "answer": "Deoxyribonucleic Acid",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is the Gluteus Maximus muscle located?",
+    "options": [
+      "Arm",
+      "Head",
+      "Torso",
+      "Butt"
+    ],
+    "answer": "Butt",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical inductance?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Mho",
+      "Henry"
+    ],
+    "answer": "Henry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+    "options": [
+      "STS-51-L",
+      "STS-61-C",
+      "STS-109",
+      "STS-107"
+    ],
+    "answer": "STS-107",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The asteroid belt is located between which two planets?",
+    "options": [
+      "Jupiter and Saturn",
+      "Mercury and Venus",
+      "Earth and Mars",
+      "Mars and Jupiter"
+    ],
+    "answer": "Mars and Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The element involved in making human blood red is which of the following?",
+    "options": [
+      "Copper",
+      "Iridium",
+      "Cobalt",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Folic acid is the synthetic form of which vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B"
+    ],
+    "answer": "Vitamin B",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "An organic compound is considered an alcohol if it has what functional group?",
+    "options": [
+      "Carbonyl",
+      "Alkyl",
+      "Aldehyde",
+      "Hydroxyl"
+    ],
+    "answer": "Hydroxyl",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+    "options": [
+      "Polyethylene (PE)",
+      "Polypropylene (PP)",
+      "Polystyrene (PS)",
+      "Polyvinylchloride (PVC) "
+    ],
+    "answer": "Polyvinylchloride (PVC) ",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+    "options": [
+      "Morphine",
+      "Ketamine",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "answer": "Ibuprofen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is &quot;Stenoma&quot;?",
+    "options": [
+      "A combat stimulant from WW2",
+      "A type of seasoning",
+      "A port city in the carribean",
+      "A genus of moths"
+    ],
+    "answer": "A genus of moths",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following are cells of the adaptive immune system?",
+    "options": [
+      "Dendritic cells",
+      "Natural killer cells",
+      "White blood cells",
+      "Cytotoxic T cells"
+    ],
+    "answer": "Cytotoxic T cells",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is a light-year?",
+    "options": [
+      "1 AU",
+      "105.40 Earth-years",
+      "501.2 Million Miles",
+      "9.461 Trillion Kilometres"
+    ],
+    "answer": "9.461 Trillion Kilometres",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+    "options": [
+      "Water",
+      "Trees",
+      "Pollen",
+      "Light"
+    ],
+    "answer": "Light",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "options": [
+      "Saturn",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+    "options": [
+      "23",
+      "15",
+      "24",
+      "21"
+    ],
+    "answer": "21",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "14",
+      "16",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+    "options": [
+      "Z boson",
+      "Tau neutrino",
+      "Gluon",
+      "Graviton"
+    ],
+    "answer": "Graviton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+    "options": [
+      "Joseph John Thomson",
+      "Archimedes",
+      "Niels Henrik David Bohr",
+      "Ernest Rutherford"
+    ],
+    "answer": "Ernest Rutherford",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What organelle aids in synthesis of DNA in cells?",
+    "options": [
+      "Nuclei",
+      "Lysosomes",
+      "Mitochondria",
+      "Ribosomes"
+    ],
+    "answer": "Ribosomes",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+    "options": [
+      "Water",
+      "Mercury",
+      "Benzene",
+      "Acetone"
+    ],
+    "answer": "Acetone",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Lithium",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+    "options": [
+      "The overall size",
+      "The presence or absence of certain organelles",
+      "The mode of reproduction",
+      "The presence or absence of a nucleus"
+    ],
+    "answer": "The presence or absence of a nucleus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+    "options": [
+      "C21H23NO3",
+      "C6H4Cl2",
+      "C13H25NO4",
+      "C18H27NO3"
+    ],
+    "answer": "C18H27NO3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the longest bone in the human body? ",
+    "options": [
+      "Scapula",
+      "Fibula",
+      "Ulna",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+    "options": [
+      "Helium",
+      "Carbon",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": "Nitrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+    "options": [
+      "Tennis Elbow",
+      "Carpal Tunnel",
+      "Housemaid&#039;s Knee",
+      "Shin Splints"
+    ],
+    "answer": "Shin Splints",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the smallest blood vessels in the human body?",
+    "options": [
+      "Arterioles",
+      "Veinules",
+      "Lymphatics",
+      "Capillaries"
+    ],
+    "answer": "Capillaries",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+    "options": [
+      "Gongoozler",
+      "Jentacular",
+      "Meupareunia",
+      "Gossypiboma"
+    ],
+    "answer": "Gossypiboma",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+    "options": [
+      "Flip-Flop Syndrome",
+      "Split-Brain",
+      "Blind Sight",
+      "Cognitive Dissonance"
+    ],
+    "answer": "Cognitive Dissonance",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+    "options": [
+      "low, some",
+      "high, all",
+      "high, some",
+      "low, all"
+    ],
+    "answer": "low, all",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the chemical element Curium named after?",
+    "options": [
+      "The Curiosity Rover",
+      "Curious George",
+      "Stephen Curry",
+      "Marie &amp; Pierre Curie"
+    ],
+    "answer": "Marie &amp; Pierre Curie",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the most abundant element in the universe?",
+    "options": [
+      "Helium",
+      "Lithium",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+    "options": [
+      "Meyers-Briggs effect",
+      "M&uuml;ller-Lyer effect",
+      "Freud-Hall effect",
+      "Dunning-Kruger effect"
+    ],
+    "answer": "Dunning-Kruger effect",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs is it biologically impossible for a centipede to have?",
+    "options": [
+      "26",
+      "50",
+      "74",
+      "100"
+    ],
+    "answer": "100",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these choices is not one of the phases of mitosis?",
+    "options": [
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Diplophase"
+    ],
+    "answer": "Diplophase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Ribosome",
+      "Redbull",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": "Mitochondria",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What name is given to all baby marsupials?",
+    "options": [
+      "Calf",
+      "Pup",
+      "Cub",
+      "Joey"
+    ],
+    "answer": "Joey",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+    "options": [
+      "Science",
+      "Society",
+      "Star",
+      "Space"
+    ],
+    "answer": "Space",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which planet in the Solar System is the closest to the Sun?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "Mercury",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Iron",
+      "Boron"
+    ],
+    "answer": "Boron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who discovered the Law of Gravity?",
+    "options": [
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Albert Einstein",
+      "Sir Isaac Newton"
+    ],
+    "answer": "Sir Isaac Newton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The human right lung has how many lobes?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What element on the periodic table has 92 electrons?",
+    "options": [
+      "Sulfur",
+      "Hydrogen",
+      "Iron",
+      "Uranium"
+    ],
+    "answer": "Uranium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Linnean name of the domestic apple tree?",
+    "options": [
+      "Malus americana",
+      "Pomus domestica",
+      "Appelus delectica",
+      "Malus pumila"
+    ],
+    "answer": "Malus pumila",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+    "options": [
+      "To measure",
+      "To live",
+      "To count",
+      "To know"
+    ],
+    "answer": "To know",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?",
+    "options": [
+      "Love",
+      "Safety",
+      "Physiological",
+      "Esteem"
+    ],
+    "answer": "Esteem",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "options": [
+      "Capsaicin",
+      "Dihydrocapsaicin",
+      "Tinyatoxin",
+      "Resiniferatoxin"
+    ],
+    "answer": "Resiniferatoxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following men does not have a chemical element named after him?",
+    "options": [
+      "Albert Einstein",
+      "Niels Bohr",
+      "Enrico Fermi",
+      "Sir Isaac Newton"
+    ],
+    "answer": "Sir Isaac Newton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hypernatremia?",
+    "options": [
+      "Decrease in blood potassium",
+      "Increase in blood glucose",
+      "Decrease in blood iron",
+      "Increase in blood sodium"
+    ],
+    "answer": "Increase in blood sodium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "options": [
+      "Saturn",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What produces the green colour of most plant leaves?",
+    "options": [
+      "Light refraction",
+      "Natural pigments",
+      "UV radiation",
+      "Chlorophyll"
+    ],
+    "answer": "Chlorophyll",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "options": [
+      "CO2",
+      "NO3",
+      "CH4",
+      "NH3"
+    ],
+    "answer": "NH3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+    "options": [
+      "Deformed Fish",
+      "Strange Crab",
+      "Anomalous Clam",
+      "Abnormal Shrimp"
+    ],
+    "answer": "Abnormal Shrimp",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "24"
+    ],
+    "answer": "24",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who made the discovery of X-rays?",
+    "options": [
+      "Thomas Alva Edison",
+      "James Watt",
+      "Albert Einstein",
+      "Wilhelm Conrad R&ouml;ntgen"
+    ],
+    "answer": "Wilhelm Conrad R&ouml;ntgen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medial meniscus forms which part of what joint in the human body?",
+    "options": [
+      "Elbow",
+      "Ankle",
+      "Shoulder",
+      "Knee"
+    ],
+    "answer": "Knee",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of Uranium ",
+    "options": [
+      "235",
+      "17",
+      "167",
+      "92"
+    ],
+    "answer": "92",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+    "options": [
+      "Haplogroup L",
+      "Haplogroup T",
+      "Haplogroup J",
+      "Haplogroup U"
+    ],
+    "answer": "Haplogroup U",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is an alternative name for multiple personality disorder?",
+    "options": [
+      "Body integrity identity disorder",
+      "Identity crisis",
+      "Schizophrenia",
+      "Dissociative identity disorder"
+    ],
+    "answer": "Dissociative identity disorder",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medical condition osteoporosis affects which part of the body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Heart",
+      "Bones"
+    ],
+    "answer": "Bones",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "If you planted the seeds of Quercus robur what would grow?",
+    "options": [
+      "Flowers",
+      "Vegtables",
+      "Grains",
+      "Trees"
+    ],
+    "answer": "Trees",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these stars is the largest?",
+    "options": [
+      "VY Canis Majoris",
+      "Betelgeuse",
+      "RW Cephei",
+      "UY Scuti"
+    ],
+    "answer": "UY Scuti",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+    "options": [
+      "Rubber",
+      "Nylon",
+      "Bakelite",
+      "Polycarbonate"
+    ],
+    "answer": "Polycarbonate",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Brain",
+      "Pancreas"
+    ],
+    "answer": "Pancreas",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+    "options": [
+      "Dog",
+      "Bat",
+      "Butterfly",
+      "Cat"
+    ],
+    "answer": "Cat",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medical condition osteoporosis affects which part of the body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Heart",
+      "Bones"
+    ],
+    "answer": "Bones",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mineral has the lowest number on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Gypsum",
+      "Talc"
+    ],
+    "answer": "Talc",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is considered classical conditioning?",
+    "options": [
+      "Skinner box experiment",
+      "Schr&ouml;dinger&#039;s cat experiment",
+      "Harlow&rsquo;s monkey experiments",
+      "Pavlov&#039;s dog experiments"
+    ],
+    "answer": "Pavlov&#039;s dog experiments",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What nucleotide pairs with guanine?",
+    "options": [
+      "Thymine",
+      "Adenine",
+      "Uracil",
+      "Cytosine"
+    ],
+    "answer": "Cytosine",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+    "options": [
+      "Flip-Flop Syndrome",
+      "Split-Brain",
+      "Blind Sight",
+      "Cognitive Dissonance"
+    ],
+    "answer": "Cognitive Dissonance",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+    "options": [
+      "low, some",
+      "high, all",
+      "high, some",
+      "low, all"
+    ],
+    "answer": "low, all",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+    "options": [
+      "Rubber",
+      "Nylon",
+      "Bakelite",
+      "Polycarbonate"
+    ],
+    "answer": "Polycarbonate",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "About what percentage of the Earth&#039;s surface is water? ",
+    "options": [
+      "30%",
+      "50%",
+      "90%",
+      "70%"
+    ],
+    "answer": "70%",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the longest bone in the human body? ",
+    "options": [
+      "Scapula",
+      "Fibula",
+      "Ulna",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The human right lung has how many lobes?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official name of the star located closest to the North Celestial Pole?",
+    "options": [
+      "Eridanus",
+      "Gamma Cephei",
+      "Iota Cephei",
+      "Polaris"
+    ],
+    "answer": "Polaris",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+    "options": [
+      "Bell&#039;s Theorem",
+      "Wick&#039;s Theorem",
+      "Carnot&#039;s Theorem",
+      "Noether&#039;s Theorem"
+    ],
+    "answer": "Noether&#039;s Theorem",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard atomic weight of a Plutonium nucleus?",
+    "options": [
+      "94",
+      "481",
+      "128",
+      "244"
+    ],
+    "answer": "244",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which noble gas has the lowest atomic number?",
+    "options": [
+      "Neon",
+      "Argon",
+      "Krypton",
+      "Helium"
+    ],
+    "answer": "Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+    "options": [
+      "23",
+      "15",
+      "24",
+      "21"
+    ],
+    "answer": "21",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+    "options": [
+      "Prophase",
+      "Stasis",
+      "Telophase",
+      "Interphase"
+    ],
+    "answer": "Interphase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets make up our Solar System?",
+    "options": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following blood vessels carries deoxygenated blood?",
+    "options": [
+      "Pulmonary Vein",
+      "Aorta",
+      "Coronary Artery",
+      "Pulmonary Artery"
+    ],
+    "answer": "Pulmonary Artery",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Deuterium is an isotope of which element?",
+    "options": [
+      "Nitrogen",
+      "Helium",
+      "Neon",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals belongs in class Chondrichthyes?",
+    "options": [
+      "Octopus",
+      "Killer whale",
+      "Catfish",
+      "Great white shark"
+    ],
+    "answer": "Great white shark",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical inductance?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Mho",
+      "Henry"
+    ],
+    "answer": "Henry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+    "options": [
+      "Health",
+      "Flammability",
+      "Radioactivity",
+      "Reactivity"
+    ],
+    "answer": "Reactivity",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "options": [
+      "Gallium",
+      "Caesium",
+      "Mercury",
+      "Beryllium"
+    ],
+    "answer": "Beryllium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+    "options": [
+      "Gongoozler",
+      "Jentacular",
+      "Meupareunia",
+      "Gossypiboma"
+    ],
+    "answer": "Gossypiboma",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the knee cap?",
+    "options": [
+      "Femur",
+      "Foramen Magnum",
+      "Scapula",
+      "Patella"
+    ],
+    "answer": "Patella",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Ampere"
+    ],
+    "answer": "Ampere",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are human nails made of?",
+    "options": [
+      "Bone",
+      "Chitin",
+      "Calcium",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many laws of thermodynamics are there?",
+    "options": [
+      "Three",
+      "Two",
+      "Five",
+      "Four"
+    ],
+    "answer": "Four",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dry ice is the solid form of what substance?",
+    "options": [
+      "Nitrogen",
+      "Ammonia",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "answer": "Carbon dioxide",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+    "options": [
+      "Morphine",
+      "Ketamine",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "answer": "Ibuprofen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Ribosome",
+      "Redbull",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": "Mitochondria",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Gannymede is the largest moon of which planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "Uranus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which horizon in a soil profile consists of bedrock?",
+    "options": [
+      "O",
+      "B",
+      "D",
+      "R"
+    ],
+    "answer": "R",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The asteroid belt is located between which two planets?",
+    "options": [
+      "Jupiter and Saturn",
+      "Mercury and Venus",
+      "Earth and Mars",
+      "Mars and Jupiter"
+    ],
+    "answer": "Mars and Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Le",
+      "Pm",
+      "Pb"
+    ],
+    "answer": "Pb",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+    "options": [
+      "Black",
+      "Orange",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Blue",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is a major muscle of the back?",
+    "options": [
+      "Trapezium",
+      "Trapezoid",
+      "Triquetrum",
+      "Trapezius"
+    ],
+    "answer": "Trapezius",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+    "options": [
+      "Cough",
+      "Yawn",
+      "Hiccup",
+      "Sneeze"
+    ],
+    "answer": "Sneeze",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+    "options": [
+      "Christian",
+      "Jewish",
+      "Islamic",
+      "Catholic"
+    ],
+    "answer": "Catholic",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+    "options": [
+      "Lungs",
+      "Skin",
+      "Heart",
+      "Brain"
+    ],
+    "answer": "Brain",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for time?",
+    "options": [
+      "Minute",
+      "Hour",
+      "Day",
+      "Second"
+    ],
+    "answer": "Second",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How much radiation does a banana emit?",
+    "options": [
+      "0.3 Microsievert",
+      "0.5 Microsievert",
+      "0.7 Microsievert",
+      "0.1 Microsievert"
+    ],
+    "answer": "0.1 Microsievert",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Myopia is the scientific term for which condition?",
+    "options": [
+      "Farsightedness",
+      "Double Vision",
+      "Clouded Vision",
+      "Shortsightedness"
+    ],
+    "answer": "Shortsightedness",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest animal currently on Earth?",
+    "options": [
+      "Orca",
+      "Colossal Squid",
+      "Giraffe",
+      "Blue Whale"
+    ],
+    "answer": "Blue Whale",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+    "options": [
+      "Thrust",
+      "Drag",
+      "Weight ",
+      "Lift"
+    ],
+    "answer": "Lift",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Apollo mission was the first one to land on the Moon?",
+    "options": [
+      "Apollo 10",
+      "Apollo 9",
+      "Apollo 13",
+      "Apollo 11"
+    ],
+    "answer": "Apollo 11",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Botanically speaking, which of these fruits is NOT a berry?",
+    "options": [
+      "Blueberry",
+      "Banana",
+      "Concord Grape",
+      "Strawberry"
+    ],
+    "answer": "Strawberry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "At what temperature does water boil?",
+    "options": [
+      "200&deg;F",
+      "181&deg;F",
+      "178&deg;F",
+      "212&deg;F"
+    ],
+    "answer": "212&deg;F",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for mass?",
+    "options": [
+      "Tonne",
+      "Pound",
+      "Gram",
+      "Kilogram"
+    ],
+    "answer": "Kilogram",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which constellation contains the center of the Milky Way?",
+    "options": [
+      "Scorpius",
+      "Ophiuchus",
+      "Capricornus",
+      "Sagittarius"
+    ],
+    "answer": "Sagittarius",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is an alternative name for multiple personality disorder?",
+    "options": [
+      "Body integrity identity disorder",
+      "Identity crisis",
+      "Schizophrenia",
+      "Dissociative identity disorder"
+    ],
+    "answer": "Dissociative identity disorder",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "50,461 m/s",
+      "308,215,043 m/s",
+      "751,665,014,151 m/s",
+      "299,792,458 m/s"
+    ],
+    "answer": "299,792,458 m/s",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+    "options": [
+      "Prophase",
+      "Stasis",
+      "Telophase",
+      "Interphase"
+    ],
+    "answer": "Interphase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hypernatremia?",
+    "options": [
+      "Decrease in blood potassium",
+      "Increase in blood glucose",
+      "Decrease in blood iron",
+      "Increase in blood sodium"
+    ],
+    "answer": "Increase in blood sodium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these two plates are best know for forming earthquakes and tsunami&#039;s? ",
+    "options": [
+      "Divergent Plate Boundaries/Convergent/Oceanic Crust",
+      "Transform Plate Boundaries/Divergent Plate Boundaries",
+      "Oceanic &amp; Continental Crust/Transform Plate Boundaries",
+      "Convergent Plate Boundaries/Oceanic Crust"
+    ],
+    "answer": "Convergent Plate Boundaries/Oceanic Crust",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+    "options": [
+      "Black",
+      "Orange",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Blue",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Linnean name of the domestic apple tree?",
+    "options": [
+      "Malus americana",
+      "Pomus domestica",
+      "Appelus delectica",
+      "Malus pumila"
+    ],
+    "answer": "Malus pumila",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Iron",
+      "Boron"
+    ],
+    "answer": "Boron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did Gregory Mendel use to test genetic crossovers?",
+    "options": [
+      "Cats",
+      "Flowers",
+      "Parrots",
+      "Peas"
+    ],
+    "answer": "Peas",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these bones is hardest to break?",
+    "options": [
+      "Cranium",
+      "Humerus",
+      "Tibia",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Lithium",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+    "options": [
+      "Sepal",
+      "Pistil",
+      "Petal",
+      "Stamen"
+    ],
+    "answer": "Stamen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for time?",
+    "options": [
+      "Minute",
+      "Hour",
+      "Day",
+      "Second"
+    ],
+    "answer": "Second",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which planet in the Solar System is the closest to the Sun?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "Mercury",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Le",
+      "Pm",
+      "Pb"
+    ],
+    "answer": "Pb",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical inductance?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Mho",
+      "Henry"
+    ],
+    "answer": "Henry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+    "options": [
+      "STS-51-L",
+      "STS-61-C",
+      "STS-109",
+      "STS-107"
+    ],
+    "answer": "STS-107",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which chemical element was originally known as Alabamine?",
+    "options": [
+      "Selenium",
+      "Antimony",
+      "Molybdenum",
+      "Astatine"
+    ],
+    "answer": "Astatine",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the hottest planet in the solar system",
+    "options": [
+      "Jupiter",
+      "Mercury ",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Venus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "71% of the Earth&#039;s surface is made up of",
+    "options": [
+      "Deserts",
+      "Continents",
+      "Forests",
+      "Water"
+    ],
+    "answer": "Water",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Coulrophobia is the irrational fear of what?",
+    "options": [
+      "Cemeteries",
+      "Needles",
+      "Tunnels",
+      "Clowns"
+    ],
+    "answer": "Clowns",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these choices is not one of the phases of mitosis?",
+    "options": [
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Diplophase"
+    ],
+    "answer": "Diplophase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many objects are equivalent to one mole?",
+    "options": [
+      "6.002 x 10^22",
+      "6.022 x 10^22",
+      "6.002 x 10^23",
+      "6.022 x 10^23"
+    ],
+    "answer": "6.022 x 10^23",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A positron is an antiparticle of a what?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Photon",
+      "Electron"
+    ],
+    "answer": "Electron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The &quot;Tibia&quot; is found in which part of the body?",
+    "options": [
+      "Arm",
+      "Hand",
+      "Head",
+      "Leg"
+    ],
+    "answer": "Leg",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately how long is a year on Uranus?",
+    "options": [
+      "47 Earth years",
+      "62 Earth years",
+      "109 Earth years",
+      "84 Earth years"
+    ],
+    "answer": "84 Earth years",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What term is best associated with Sigmund Freud?",
+    "options": [
+      "Cognitive-Behavioral Therapy",
+      "Theory of Gravity",
+      "Dialectical Behavior Therapy",
+      "Psychoanalysis"
+    ],
+    "answer": "Psychoanalysis",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a stop codon in DNA?",
+    "options": [
+      "ACT",
+      "ACA",
+      "GTA",
+      "TAA"
+    ],
+    "answer": "TAA",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is a light-year?",
+    "options": [
+      "1 AU",
+      "105.40 Earth-years",
+      "501.2 Million Miles",
+      "9.461 Trillion Kilometres"
+    ],
+    "answer": "9.461 Trillion Kilometres",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "2",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medical condition osteoporosis affects which part of the body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Heart",
+      "Bones"
+    ],
+    "answer": "Bones",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the knee cap?",
+    "options": [
+      "Femur",
+      "Foramen Magnum",
+      "Scapula",
+      "Patella"
+    ],
+    "answer": "Patella",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+    "options": [
+      "Faraday&#039;s Law",
+      "Ampere&#039;s Law",
+      "Biot-Savart Law",
+      "Gauss&#039;s Law"
+    ],
+    "answer": "Gauss&#039;s Law",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Western Lowland Gorilla is scientifically know as?",
+    "options": [
+      "Gorilla Gorilla Diehli",
+      "Gorilla Beringei Graueri",
+      "Gorilla Beringei Beringei",
+      "Gorilla Gorilla Gorilla"
+    ],
+    "answer": "Gorilla Gorilla Gorilla",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets make up our Solar System?",
+    "options": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "options": [
+      "Gallium",
+      "Caesium",
+      "Mercury",
+      "Beryllium"
+    ],
+    "answer": "Beryllium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+    "options": [
+      "Leaves",
+      "Male Flower",
+      "Root Ball",
+      "Female Flower"
+    ],
+    "answer": "Female Flower",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "After which Danish city is the 72th element on the periodic table named?",
+    "options": [
+      "Odense",
+      "Herning",
+      "Skagen",
+      "Copenhagen"
+    ],
+    "answer": "Copenhagen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical capacitance?",
+    "options": [
+      "Gauss",
+      "Henry",
+      "Watt",
+      "Farad"
+    ],
+    "answer": "Farad",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "14",
+      "16",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+    "options": [
+      "Water",
+      "Mercury",
+      "Benzene",
+      "Acetone"
+    ],
+    "answer": "Acetone",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribogenetic Acid",
+      "Deoxyribogenetic Atoms",
+      "Detoxic Acid",
+      "Deoxyribonucleic Acid"
+    ],
+    "answer": "Deoxyribonucleic Acid",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On the periodic table of elements, what is the symbol for Tin?",
+    "options": [
+      "Ti",
+      "Ni",
+      "Na",
+      "Sn"
+    ],
+    "answer": "Sn",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the longest bone in the human body? ",
+    "options": [
+      "Scapula",
+      "Fibula",
+      "Ulna",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Folic acid is the synthetic form of which vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B"
+    ],
+    "answer": "Vitamin B",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+    "options": [
+      "Propane",
+      "Ethanol",
+      "Formaldehyde",
+      "Urea"
+    ],
+    "answer": "Urea",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+    "options": [
+      "Potassium",
+      "Iodine",
+      "Colbalt",
+      "Neon"
+    ],
+    "answer": "Neon",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "About how old is Earth?",
+    "options": [
+      "3.5 Billion Years",
+      "2.5 Billion Years",
+      "5.5 Billion Years",
+      "4.5 Billion Years"
+    ],
+    "answer": "4.5 Billion Years",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical inductance?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Mho",
+      "Henry"
+    ],
+    "answer": "Henry",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+    "options": [
+      "Gongoozler",
+      "Jentacular",
+      "Meupareunia",
+      "Gossypiboma"
+    ],
+    "answer": "Gossypiboma",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "Uranus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT a part of the structure of a typical neuron?",
+    "options": [
+      "Node of Ranvier",
+      "Schwann cell",
+      "Myelin sheath",
+      "Islets of Langerhans"
+    ],
+    "answer": "Islets of Langerhans",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is a light-year?",
+    "options": [
+      "1 AU",
+      "105.40 Earth-years",
+      "501.2 Million Miles",
+      "9.461 Trillion Kilometres"
+    ],
+    "answer": "9.461 Trillion Kilometres",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is radiation measured in?",
+    "options": [
+      "Watt",
+      "Decibel",
+      "Kelvin",
+      "Gray "
+    ],
+    "answer": "Gray ",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the longest bone in the human body? ",
+    "options": [
+      "Scapula",
+      "Fibula",
+      "Ulna",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are human nails made of?",
+    "options": [
+      "Bone",
+      "Chitin",
+      "Calcium",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets are there in the Solar System?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which horizon in a soil profile consists of bedrock?",
+    "options": [
+      "O",
+      "B",
+      "D",
+      "R"
+    ],
+    "answer": "R",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the colour of unoxidized blood?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Red"
+    ],
+    "answer": "Red",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the chemical element Curium named after?",
+    "options": [
+      "The Curiosity Rover",
+      "Curious George",
+      "Stephen Curry",
+      "Marie &amp; Pierre Curie"
+    ],
+    "answer": "Marie &amp; Pierre Curie",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many protons are in an oxygen atom?",
+    "options": [
+      "Four",
+      "Two",
+      "Six",
+      "Eight"
+    ],
+    "answer": "Eight",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most potent toxin known?",
+    "options": [
+      "Ricin",
+      "Cyanide",
+      "Asbestos",
+      "Botulinum toxin"
+    ],
+    "answer": "Botulinum toxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following bones is not in the leg?",
+    "options": [
+      "Patella",
+      "Tibia",
+      "Fibula ",
+      "Radius"
+    ],
+    "answer": "Radius",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What produces the green colour of most plant leaves?",
+    "options": [
+      "Light refraction",
+      "Natural pigments",
+      "UV radiation",
+      "Chlorophyll"
+    ],
+    "answer": "Chlorophyll",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a word used to describe an earthquake?",
+    "options": [
+      "Foreshock",
+      "Strike-slip",
+      "Temblor",
+      "Drop-slide"
+    ],
+    "answer": "Drop-slide",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dry ice is the solid form of what substance?",
+    "options": [
+      "Nitrogen",
+      "Ammonia",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "answer": "Carbon dioxide",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of the element Strontium?",
+    "options": [
+      "73",
+      "47",
+      "11",
+      "38"
+    ],
+    "answer": "38",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for luminous intensity?",
+    "options": [
+      "Lumen",
+      "Faraday",
+      "Coulomb",
+      "Candela"
+    ],
+    "answer": "Candela",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the most abundant element in the universe?",
+    "options": [
+      "Helium",
+      "Lithium",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "24"
+    ],
+    "answer": "24",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+    "options": [
+      "Glissandro Illusion",
+      "Fransen Effect",
+      "McGurck Effect",
+      "Shepard Tone"
+    ],
+    "answer": "Shepard Tone",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first living creature in space?",
+    "options": [
+      "Monkey",
+      "Dog",
+      "Mouse",
+      "Fruit Flies "
+    ],
+    "answer": "Fruit Flies ",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets make up our Solar System?",
+    "options": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you study if you are studying entomology?",
+    "options": [
+      "Humans",
+      "the Brain",
+      "Fish",
+      "Insects"
+    ],
+    "answer": "Insects",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+    "options": [
+      "23",
+      "15",
+      "24",
+      "21"
+    ],
+    "answer": "21",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+    "options": [
+      "Leaves",
+      "Male Flower",
+      "Root Ball",
+      "Female Flower"
+    ],
+    "answer": "Female Flower",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Gannymede is the largest moon of which planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the molecular formula of Ozone?",
+    "options": [
+      "C6H2O6",
+      "N2O",
+      "SO4",
+      "O3"
+    ],
+    "answer": "O3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs is it biologically impossible for a centipede to have?",
+    "options": [
+      "26",
+      "50",
+      "74",
+      "100"
+    ],
+    "answer": "100",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these bones is hardest to break?",
+    "options": [
+      "Cranium",
+      "Humerus",
+      "Tibia",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common name of the chemical compound &quot;dihydrogen monoxide&quot;?",
+    "options": [
+      "Methane",
+      "Ammonia ",
+      "Laughing Gas",
+      "Water"
+    ],
+    "answer": "Water",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+    "options": [
+      "Tennis Elbow",
+      "Carpal Tunnel",
+      "Housemaid&#039;s Knee",
+      "Shin Splints"
+    ],
+    "answer": "Shin Splints",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Tin",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a type of stretch/deep tendon reflex?",
+    "options": [
+      "Gag reflex",
+      "Pupillary light reflex",
+      "Scratch reflex",
+      "Ankle jerk reflex"
+    ],
+    "answer": "Ankle jerk reflex",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+    "options": [
+      "Deformed Fish",
+      "Strange Crab",
+      "Anomalous Clam",
+      "Abnormal Shrimp"
+    ],
+    "answer": "Abnormal Shrimp",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which noble gas has the lowest atomic number?",
+    "options": [
+      "Neon",
+      "Argon",
+      "Krypton",
+      "Helium"
+    ],
+    "answer": "Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Lithium",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On the periodic table of elements, what is the symbol for Tin?",
+    "options": [
+      "Ti",
+      "Ni",
+      "Na",
+      "Sn"
+    ],
+    "answer": "Sn",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Iron",
+      "Boron"
+    ],
+    "answer": "Boron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Venus",
+      "Mars"
+    ],
+    "answer": "Mars",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which continent do sweet potatoes originally come from?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+    ],
+    "answer": "South America",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+    "options": [
+      "The Gobi Desert",
+      "The Yuma Desert",
+      "The Arabian Desert",
+      "The Sonoran Desert"
+    ],
+    "answer": "The Sonoran Desert",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately what percentage of Earth&#039;s atmosphere is Oxygen?",
+    "options": [
+      "54%",
+      "78%",
+      "7%",
+      "21%"
+    ],
+    "answer": "21%",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A positron is an antiparticle of a what?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Photon",
+      "Electron"
+    ],
+    "answer": "Electron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+    "options": [
+      "Hyacinthoides Italica",
+      "Amaranthus Retroflexus",
+      "Amblyomma Americanum",
+      "Sphenopalatine Ganglioneuralgia"
+    ],
+    "answer": "Sphenopalatine Ganglioneuralgia",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a stop codon in DNA?",
+    "options": [
+      "ACT",
+      "ACA",
+      "GTA",
+      "TAA"
+    ],
+    "answer": "TAA",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+    "options": [
+      "Helium",
+      "Carbon",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": "Nitrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is a major muscle of the back?",
+    "options": [
+      "Trapezium",
+      "Trapezoid",
+      "Triquetrum",
+      "Trapezius"
+    ],
+    "answer": "Trapezius",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Deionized water is water with which of the following removed?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Uncharged atoms",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+    "options": [
+      "Glissandro Illusion",
+      "Fransen Effect",
+      "McGurck Effect",
+      "Shepard Tone"
+    ],
+    "answer": "Shepard Tone",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hypernatremia?",
+    "options": [
+      "Decrease in blood potassium",
+      "Increase in blood glucose",
+      "Decrease in blood iron",
+      "Increase in blood sodium"
+    ],
+    "answer": "Increase in blood sodium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What produces the green colour of most plant leaves?",
+    "options": [
+      "Light refraction",
+      "Natural pigments",
+      "UV radiation",
+      "Chlorophyll"
+    ],
+    "answer": "Chlorophyll",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the most abundant element in the universe?",
+    "options": [
+      "Helium",
+      "Lithium",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical capacitance?",
+    "options": [
+      "Gauss",
+      "Henry",
+      "Watt",
+      "Farad"
+    ],
+    "answer": "Farad",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following bones is not in the leg?",
+    "options": [
+      "Patella",
+      "Tibia",
+      "Fibula ",
+      "Radius"
+    ],
+    "answer": "Radius",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+    "options": [
+      "Sepal",
+      "Pistil",
+      "Petal",
+      "Stamen"
+    ],
+    "answer": "Stamen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medial meniscus forms which part of what joint in the human body?",
+    "options": [
+      "Elbow",
+      "Ankle",
+      "Shoulder",
+      "Knee"
+    ],
+    "answer": "Knee",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+    "options": [
+      "Bell&#039;s Theorem",
+      "Wick&#039;s Theorem",
+      "Carnot&#039;s Theorem",
+      "Noether&#039;s Theorem"
+    ],
+    "answer": "Noether&#039;s Theorem",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard atomic weight of a Plutonium nucleus?",
+    "options": [
+      "94",
+      "481",
+      "128",
+      "244"
+    ],
+    "answer": "244",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+    "options": [
+      "Prophase",
+      "Stasis",
+      "Telophase",
+      "Interphase"
+    ],
+    "answer": "Interphase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the hottest planet in the solar system",
+    "options": [
+      "Jupiter",
+      "Mercury ",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Venus",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What lies at the center of our galaxy?",
+    "options": [
+      "A wormhole",
+      "A supernova",
+      "A quasar",
+      "A black hole"
+    ],
+    "answer": "A black hole",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What causes the sound of a heartbeat?",
+    "options": [
+      "Contraction of the heart chambers",
+      "Blood exiting the heart",
+      "Relaxation of the heart chambers",
+      "Closure of the heart valves"
+    ],
+    "answer": "Closure of the heart valves",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which element has the highest melting point?",
+    "options": [
+      "Tungsten",
+      "Platinum",
+      "Osmium",
+      "Carbon"
+    ],
+    "answer": "Carbon",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+    "options": [
+      "Science",
+      "Society",
+      "Star",
+      "Space"
+    ],
+    "answer": "Space",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "2",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the same in Celsius and Fahrenheit?",
+    "options": [
+      "32",
+      "-39",
+      "-42",
+      "-40"
+    ],
+    "answer": "-40",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "options": [
+      "Soyuz 7K-OK",
+      "Zenit-2",
+      "Voskhod 3KV",
+      "Sputnik 1"
+    ],
+    "answer": "Sputnik 1",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+    "options": [
+      "Polyethylene (PE)",
+      "Polypropylene (PP)",
+      "Polystyrene (PS)",
+      "Polyvinylchloride (PVC) "
+    ],
+    "answer": "Polyvinylchloride (PVC) ",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets make up our Solar System?",
+    "options": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which chemical element was originally known as Alabamine?",
+    "options": [
+      "Selenium",
+      "Antimony",
+      "Molybdenum",
+      "Astatine"
+    ],
+    "answer": "Astatine",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Western Lowland Gorilla is scientifically know as?",
+    "options": [
+      "Gorilla Gorilla Diehli",
+      "Gorilla Beringei Graueri",
+      "Gorilla Beringei Beringei",
+      "Gorilla Gorilla Gorilla"
+    ],
+    "answer": "Gorilla Gorilla Gorilla",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for distance?",
+    "options": [
+      "Angstrom",
+      "Foot",
+      "Fathom",
+      "Metre"
+    ],
+    "answer": "Metre",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a passive electrical component?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Transistor"
+    ],
+    "answer": "Transistor",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs is it biologically impossible for a centipede to have?",
+    "options": [
+      "26",
+      "50",
+      "74",
+      "100"
+    ],
+    "answer": "100",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Stars consist mainly of hydrogen and which other gas?",
+    "options": [
+      "Oxygen",
+      "Argon",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The human heart has how many chambers?",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "options": [
+      "203",
+      "209",
+      "200",
+      "206"
+    ],
+    "answer": "206",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the molecular formula of Ozone?",
+    "options": [
+      "C6H2O6",
+      "N2O",
+      "SO4",
+      "O3"
+    ],
+    "answer": "O3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical makeup of water?",
+    "options": [
+      "C12H6O2",
+      "CO2",
+      "H",
+      "H20"
+    ],
+    "answer": "H20",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT a part of the structure of a typical neuron?",
+    "options": [
+      "Node of Ranvier",
+      "Schwann cell",
+      "Myelin sheath",
+      "Islets of Langerhans"
+    ],
+    "answer": "Islets of Langerhans",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+    "options": [
+      "To measure",
+      "To live",
+      "To count",
+      "To know"
+    ],
+    "answer": "To know",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The human right lung has how many lobes?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+    "options": [
+      "Leaves",
+      "Male Flower",
+      "Root Ball",
+      "Female Flower"
+    ],
+    "answer": "Female Flower",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+    "options": [
+      "Z boson",
+      "Tau neutrino",
+      "Gluon",
+      "Graviton"
+    ],
+    "answer": "Graviton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is &quot;Stenoma&quot;?",
+    "options": [
+      "A combat stimulant from WW2",
+      "A type of seasoning",
+      "A port city in the carribean",
+      "A genus of moths"
+    ],
+    "answer": "A genus of moths",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "About what percentage of the Earth&#039;s surface is water? ",
+    "options": [
+      "30%",
+      "50%",
+      "90%",
+      "70%"
+    ],
+    "answer": "70%",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+    "options": [
+      "Morphine",
+      "Ketamine",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "answer": "Ibuprofen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Sun consists of mostly which two elements?",
+    "options": [
+      "Hydrogen &amp; Nitrogen",
+      "Carbon &amp; Nitrogen",
+      "Carbon &amp; Helium",
+      "Hydrogen &amp; Helium"
+    ],
+    "answer": "Hydrogen &amp; Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "14",
+      "16",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The &quot;Tibia&quot; is found in which part of the body?",
+    "options": [
+      "Arm",
+      "Hand",
+      "Head",
+      "Leg"
+    ],
+    "answer": "Leg",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many moons does the Earth have?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "1",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who discovered the Law of Gravity?",
+    "options": [
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Albert Einstein",
+      "Sir Isaac Newton"
+    ],
+    "answer": "Sir Isaac Newton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Mho",
+      "Tesla",
+      "Joule",
+      "Ohm"
+    ],
+    "answer": "Ohm",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the longest bone in the human body? ",
+    "options": [
+      "Scapula",
+      "Fibula",
+      "Ulna",
+      "Femur"
+    ],
+    "answer": "Femur",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which scientific unit is named after an Italian nobleman?",
+    "options": [
+      "Pascal",
+      "Ohm",
+      "Hertz",
+      "Volt"
+    ],
+    "answer": "Volt",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medial meniscus forms which part of what joint in the human body?",
+    "options": [
+      "Elbow",
+      "Ankle",
+      "Shoulder",
+      "Knee"
+    ],
+    "answer": "Knee",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where did the Great Storm of 1987 make landfall at, first?",
+    "options": [
+      "Surrey",
+      "Wales",
+      "The Midlands",
+      "Cornwall"
+    ],
+    "answer": "Cornwall",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a stop codon in DNA?",
+    "options": [
+      "ACT",
+      "ACA",
+      "GTA",
+      "TAA"
+    ],
+    "answer": "TAA",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is a light-year?",
+    "options": [
+      "1 AU",
+      "105.40 Earth-years",
+      "501.2 Million Miles",
+      "9.461 Trillion Kilometres"
+    ],
+    "answer": "9.461 Trillion Kilometres",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Le",
+      "Pm",
+      "Pb"
+    ],
+    "answer": "Pb",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+    "options": [
+      "Europa",
+      "Miranda",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Titan",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the atomic number of Uranium ",
+    "options": [
+      "235",
+      "17",
+      "167",
+      "92"
+    ],
+    "answer": "92",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "At what temperature does water boil?",
+    "options": [
+      "200&deg;F",
+      "181&deg;F",
+      "178&deg;F",
+      "212&deg;F"
+    ],
+    "answer": "212&deg;F",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+    "options": [
+      "C21H23NO3",
+      "C6H4Cl2",
+      "C13H25NO4",
+      "C18H27NO3"
+    ],
+    "answer": "C18H27NO3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is not a type of neuron?",
+    "options": [
+      "Sensory Neuron",
+      "Motor Neuron",
+      "Interneuron",
+      "Perceptual Neuron"
+    ],
+    "answer": "Perceptual Neuron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many laws of thermodynamics are there?",
+    "options": [
+      "Three",
+      "Two",
+      "Five",
+      "Four"
+    ],
+    "answer": "Four",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the thin, outermost layer of the Earth?",
+    "options": [
+      "Exosphere",
+      "Mantle",
+      "Outer Core",
+      "Crust"
+    ],
+    "answer": "Crust",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most potent toxin known?",
+    "options": [
+      "Ricin",
+      "Cyanide",
+      "Asbestos",
+      "Botulinum toxin"
+    ],
+    "answer": "Botulinum toxin",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When was the first mammal successfully cloned?",
+    "options": [
+      "2009",
+      "1999",
+      "1985",
+      "1996"
+    ],
+    "answer": "1996",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Iron",
+      "Boron"
+    ],
+    "answer": "Boron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Elements is a metalloid?",
+    "options": [
+      "Tin",
+      "Bromine",
+      "Rubidium",
+      "Antimony"
+    ],
+    "answer": "Antimony",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which chemical element has the lowest boiling point?",
+    "options": [
+      "Hydrogen",
+      "Neon",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What causes the sound of a heartbeat?",
+    "options": [
+      "Contraction of the heart chambers",
+      "Blood exiting the heart",
+      "Relaxation of the heart chambers",
+      "Closure of the heart valves"
+    ],
+    "answer": "Closure of the heart valves",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+    "options": [
+      "Morphine",
+      "Ketamine",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "answer": "Ibuprofen",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the colour of unoxidized blood?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Red"
+    ],
+    "answer": "Red",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mineral has the lowest number on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Gypsum",
+      "Talc"
+    ],
+    "answer": "Talc",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Sun consists of mostly which two elements?",
+    "options": [
+      "Hydrogen &amp; Nitrogen",
+      "Carbon &amp; Nitrogen",
+      "Carbon &amp; Helium",
+      "Hydrogen &amp; Helium"
+    ],
+    "answer": "Hydrogen &amp; Helium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When the Falcon Heavy was launched on it&#039;s test flight, what was the only part of the operation that failed?",
+    "options": [
+      "Side Booster Landing",
+      "Deployment of Starman",
+      "Ignition and Liftoff",
+      "Center Core Landing"
+    ],
+    "answer": "Center Core Landing",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "options": [
+      "Saturn",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The element involved in making human blood red is which of the following?",
+    "options": [
+      "Copper",
+      "Iridium",
+      "Cobalt",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+    "options": [
+      "France",
+      "Spain",
+      "Russia",
+      "Mexico"
+    ],
+    "answer": "Mexico",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+    "options": [
+      "Cough",
+      "Yawn",
+      "Hiccup",
+      "Sneeze"
+    ],
+    "answer": "Sneeze",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many planets are in our Solar System?",
+    "options": [
+      "Nine",
+      "Seven",
+      "Ten",
+      "Eight"
+    ],
+    "answer": "Eight",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a type of stretch/deep tendon reflex?",
+    "options": [
+      "Gag reflex",
+      "Pupillary light reflex",
+      "Scratch reflex",
+      "Ankle jerk reflex"
+    ],
+    "answer": "Ankle jerk reflex",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals belongs in class Chondrichthyes?",
+    "options": [
+      "Octopus",
+      "Killer whale",
+      "Catfish",
+      "Great white shark"
+    ],
+    "answer": "Great white shark",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+    "options": [
+      "6 Minutes",
+      "2 Minutes",
+      "12 Minutes",
+      "8 Minutes"
+    ],
+    "answer": "8 Minutes",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these choices is not one of the phases of mitosis?",
+    "options": [
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Diplophase"
+    ],
+    "answer": "Diplophase",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the half-life of Uranium-235?",
+    "options": [
+      "4,300,400,000 years",
+      "1,260,900,000 years",
+      "Uranium-235 is a stable isotope",
+      "703,800,000 years"
+    ],
+    "answer": "703,800,000 years",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these stars is the largest?",
+    "options": [
+      "VY Canis Majoris",
+      "Betelgeuse",
+      "RW Cephei",
+      "UY Scuti"
+    ],
+    "answer": "UY Scuti",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who developed the first successful polio vaccine in the 1950s?",
+    "options": [
+      "John F. Enders",
+      "Thomas Weller",
+      "Frederick Robbins",
+      "Jonas Salk"
+    ],
+    "answer": "Jonas Salk",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does LASER stand for?",
+    "options": [
+      "Lite analysing by stereo ecorazer",
+      "Light amplifier by standby energy of radio",
+      "Life antimatter by standing entry of range",
+      "Light amplification by stimulated emission of radiation"
+    ],
+    "answer": "Light amplification by stimulated emission of radiation",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest animal currently on Earth?",
+    "options": [
+      "Orca",
+      "Colossal Squid",
+      "Giraffe",
+      "Blue Whale"
+    ],
+    "answer": "Blue Whale",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who discovered the Law of Gravity?",
+    "options": [
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Albert Einstein",
+      "Sir Isaac Newton"
+    ],
+    "answer": "Sir Isaac Newton",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many types of quarks are there in the standard model of physics?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Venus",
+      "Mars"
+    ],
+    "answer": "Mars",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the standard SI unit for time?",
+    "options": [
+      "Minute",
+      "Hour",
+      "Day",
+      "Second"
+    ],
+    "answer": "Second",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What produces the green colour of most plant leaves?",
+    "options": [
+      "Light refraction",
+      "Natural pigments",
+      "UV radiation",
+      "Chlorophyll"
+    ],
+    "answer": "Chlorophyll",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "24"
+    ],
+    "answer": "24",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The medical condition osteoporosis affects which part of the body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Heart",
+      "Bones"
+    ],
+    "answer": "Bones",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+    "options": [
+      "Faraday&#039;s Law",
+      "Ampere&#039;s Law",
+      "Biot-Savart Law",
+      "Gauss&#039;s Law"
+    ],
+    "answer": "Gauss&#039;s Law",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "options": [
+      "Gallium",
+      "Caesium",
+      "Mercury",
+      "Beryllium"
+    ],
+    "answer": "Beryllium",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The human right lung has how many lobes?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Nature & Science",
+    "source": "OpenTDB"
+  }
+]

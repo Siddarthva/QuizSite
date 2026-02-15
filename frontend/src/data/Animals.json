@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "options": [
+      "Fish",
+      "Reptiles",
+      "Mammals",
+      "Amphibian"
+    ],
+    "answer": "Amphibian",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Insect",
+      "Toad"
+    ],
+    "answer": "Toad",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "options": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "options": [
+      "Head",
+      "Teeth",
+      "Feet",
+      "Tail"
+    ],
+    "answer": "Tail",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Insect",
+      "Toad"
+    ],
+    "answer": "Toad",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "options": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "options": [
+      "Fish",
+      "Reptiles",
+      "Mammals",
+      "Amphibian"
+    ],
+    "answer": "Amphibian",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "options": [
+      "Head",
+      "Teeth",
+      "Feet",
+      "Tail"
+    ],
+    "answer": "Tail",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Insect",
+      "Toad"
+    ],
+    "answer": "Toad",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "options": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ],
+    "answer": "Melopsittacus undulatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "options": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "options": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ],
+    "answer": "Melopsittacus undulatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "options": [
+      "Head",
+      "Teeth",
+      "Feet",
+      "Tail"
+    ],
+    "answer": "Tail",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Insect",
+      "Toad"
+    ],
+    "answer": "Toad",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "options": [
+      "Fish",
+      "Reptiles",
+      "Mammals",
+      "Amphibian"
+    ],
+    "answer": "Amphibian",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "options": [
+      "Fish",
+      "Reptiles",
+      "Mammals",
+      "Amphibian"
+    ],
+    "answer": "Amphibian",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the world&#039;s longest venomous snake?",
+    "options": [
+      "Green Anaconda",
+      "Inland Taipan",
+      "Yellow Bellied Sea Snake",
+      "King Cobra"
+    ],
+    "answer": "King Cobra",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "options": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "options": [
+      "Head",
+      "Teeth",
+      "Feet",
+      "Tail"
+    ],
+    "answer": "Tail",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "options": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ],
+    "answer": "Melopsittacus undulatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "options": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ],
+    "answer": "Melopsittacus undulatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unlike on most salamanders, this part of a newt is flat?",
+    "options": [
+      "Head",
+      "Teeth",
+      "Feet",
+      "Tail"
+    ],
+    "answer": "Tail",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many legs do butterflies have?",
+    "options": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "options": [
+      "Chicken",
+      "Horse",
+      "Fly",
+      "Frog"
+    ],
+    "answer": "Frog",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of animal is a natterjack?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Insect",
+      "Toad"
+    ],
+    "answer": "Toad",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the world&#039;s longest venomous snake?",
+    "options": [
+      "Green Anaconda",
+      "Inland Taipan",
+      "Yellow Bellied Sea Snake",
+      "King Cobra"
+    ],
+    "answer": "King Cobra",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The dish Fugu, is made from what family of fish?",
+    "options": [
+      "Bass",
+      "Salmon",
+      "Mackerel",
+      "Pufferfish"
+    ],
+    "answer": "Pufferfish",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By definition, where does an abyssopelagic animal live?",
+    "options": [
+      "In the desert",
+      "On top of a mountain",
+      "Inside a tree",
+      "At the bottom of the ocean"
+    ],
+    "answer": "At the bottom of the ocean",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "options": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)",
+      "River Horse (Greek)"
+    ],
+    "answer": "River Horse (Greek)",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ],
+    "answer": "Homo Sapiens",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "options": [
+      "Gorilla gorilla",
+      "Pan paniscus",
+      "Panthera leo",
+      "Pan troglodytes"
+    ],
+    "answer": "Pan troglodytes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the world&#039;s longest venomous snake?",
+    "options": [
+      "Green Anaconda",
+      "Inland Taipan",
+      "Yellow Bellied Sea Snake",
+      "King Cobra"
+    ],
+    "answer": "King Cobra",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+    "options": [
+      "Polar Bear",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ],
+    "answer": "Ursus Maritimus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for vultures?",
+    "options": [
+      "Ambush",
+      "Building",
+      "Gaze",
+      "Wake"
+    ],
+    "answer": "Wake",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What bird is born with claws on its wing digits?",
+    "options": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird",
+      "Hoatzin"
+    ],
+    "answer": "Hoatzin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which species of Brown Bear is not extinct?",
+    "options": [
+      "California Grizzly Bear",
+      "Atlas Bear",
+      "Mexican Grizzly Bear",
+      "Syrian Brown Bear"
+    ],
+    "answer": "Syrian Brown Bear",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest  land animal?",
+    "options": [
+      "Lion",
+      "Thomson&rsquo;s Gazelle",
+      "Pronghorn Antelope",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Octopus",
+      "Seahorse"
+    ],
+    "answer": "Seahorse",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the scales on all snakes and most lizards are made of?",
+    "options": [
+      "Ecdysis",
+      "Epidermis",
+      "Ankyloglossia",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "options": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ],
+    "answer": "Chordata",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are rhino&#039;s horn made of?",
+    "options": [
+      "Bone",
+      "Ivory",
+      "Skin",
+      "Keratin"
+    ],
+    "answer": "Keratin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the Budgerigar?",
+    "options": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ],
+    "answer": "Melopsittacus undulatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the scientific name of the cheetah?",
+    "options": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ],
+    "answer": "Acinonyx jubatus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": [
+      "Pack",
+      "Gaggle",
+      "Herd",
+      "Murder"
+    ],
+    "answer": "Murder",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "options": [
+      "Lobsters",
+      "Shrimp",
+      "Crabs",
+      "Krill"
+    ],
+    "answer": "Krill",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these animals is NOT a lizard?",
+    "options": [
+      "Komodo Dragon",
+      "Gila Monster",
+      "Green Iguana",
+      "Tuatara"
+    ],
+    "answer": "Tuatara",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these species is not extinct?",
+    "options": [
+      "Japanese sea lion",
+      "Tasmanian tiger",
+      "Saudi gazelle",
+      "Komodo dragon"
+    ],
+    "answer": "Komodo dragon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name for a male bee that comes from an unfertilized egg?",
+    "options": [
+      "Soldier",
+      "Worker",
+      "Male",
+      "Drone"
+    ],
+    "answer": "Drone",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for bears?",
+    "options": [
+      "Drove",
+      "Tribe",
+      "Husk",
+      "Sloth"
+    ],
+    "answer": "Sloth",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "options": [
+      "Excitement",
+      "Aggression",
+      "Exhaustion",
+      "Nervousness"
+    ],
+    "answer": "Nervousness",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "options": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ],
+    "answer": "Simien Jackel",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many teeth does an adult rabbit have?",
+    "options": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ],
+    "answer": "28",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is true when alligators are behaving territorially?",
+    "options": [
+      "Open their jaws while making a clicking noise",
+      "They run full force at the threat",
+      "Slap their tails on the ground",
+      "They bellow while showing their tail and neck"
+    ],
+    "answer": "They bellow while showing their tail and neck",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many known living species of hyenas are there?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the collective noun for rats?",
+    "options": [
+      "Pack",
+      "Race",
+      "Drift",
+      "Mischief"
+    ],
+    "answer": "Mischief",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "options": [
+      "Pigeons",
+      "Bears",
+      "Alligators",
+      "Foxes"
+    ],
+    "answer": "Foxes",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+    "options": [
+      "Taste the sweet air",
+      "Threaten other species",
+      "Attract female mates",
+      "Capture scent particles"
+    ],
+    "answer": "Capture scent particles",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of a rabbit&#039;s abode?",
+    "options": [
+      "Nest",
+      "Den",
+      "Dray",
+      "Burrow"
+    ],
+    "answer": "Burrow",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "options": [
+      "Sea Wasp",
+      "Irukandji",
+      "Sea Nettle",
+      "Portuguese Man-of-War"
+    ],
+    "answer": "Portuguese Man-of-War",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which class of animals are newts members of?",
+    "options": [
+      "Fish",
+      "Reptiles",
+      "Mammals",
+      "Amphibian"
+    ],
+    "answer": "Amphibian",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "options": [
+      "Weil&#039;s disease",
+      "Milk fever",
+      "Foot-and-mouth disease",
+      "Mad Cow disease"
+    ],
+    "answer": "Mad Cow disease",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "options": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States",
+      "Tasmania, Australia"
+    ],
+    "answer": "Tasmania, Australia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+    "options": [
+      "Cytochrome",
+      "Iron",
+      "Methionine",
+      "Hemocyanin"
+    ],
+    "answer": "Hemocyanin",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "New Zealand",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "options": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ],
+    "answer": "Canis Lupus",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "options": [
+      "Felinae",
+      "Felis",
+      "Cat",
+      "Felidae"
+    ],
+    "answer": "Felidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What do you call a baby bat?",
+    "options": [
+      "Cub",
+      "Chick",
+      "Kid",
+      "Pup"
+    ],
+    "answer": "Pup",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "options": [
+      "White",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of creature is a Bonobo?",
+    "options": [
+      "Lion",
+      "Parrot",
+      "Wildcat",
+      "Ape"
+    ],
+    "answer": "Ape",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Cashmere is the wool from which kind of animal?",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Llama",
+      "Goat"
+    ],
+    "answer": "Goat",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+    "options": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Pugs"
+    ],
+    "answer": "Pugs",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fastest animal?",
+    "options": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly",
+      "Peregrine Falcon"
+    ],
+    "answer": "Peregrine Falcon",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a venomous snake?",
+    "options": [
+      "Malayan Krait",
+      "Yellow bellied sea snake",
+      "Black mamba",
+      "Reticulated python"
+    ],
+    "answer": "Reticulated python",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "options": [
+      "Sauce",
+      "Minnie",
+      "Broccoli",
+      "Tardar Sauce"
+    ],
+    "answer": "Tardar Sauce",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific family does the Aardwolf belong to?",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ],
+    "answer": "Hyaenidae",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "options": [
+      "Nothing",
+      "Fruit",
+      "Seaweed",
+      "Nuts"
+    ],
+    "answer": "Nuts",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+    "options": [
+      "Hopper",
+      "Silver Stripe",
+      "Woebegone",
+      "Gooty"
+    ],
+    "answer": "Gooty",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "options": [
+      "Haplorhini",
+      "Caniformia",
+      "Ciconiiformes",
+      "Feliformia"
+    ],
+    "answer": "Feliformia",
+    "category": "Animals",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the female blackbird?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Brown",
+    "category": "Animals",
+    "source": "OpenTDB"
+  }
+]

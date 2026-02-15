@@ -43,6 +43,14 @@ const PageTransition = ({ children }) => (
   </motion.div>
 );
 
+const ScrollToTop = () => {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+  return null;
+}
+
 export default function App() {
   const { user, logout, updateStats } = useAuth(); // Use Auth Context for user
   const navigate = useNavigate();

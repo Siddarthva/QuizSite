@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+    "options": [
+      "Martin Scorcese",
+      "Steven Spielberg",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "answer": "Quentin Tarantino",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1986 film &quot;The Wraith&quot;, what concept car is used for the Turbo Interceptor?",
+    "options": [
+      "Pontiac Banshee",
+      "General Motors Firebird",
+      "Dodge Copperhead",
+      "Dodge M4S"
+    ],
+    "answer": "Dodge M4S",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+    "options": [
+      "Kathy Griffin",
+      "Pam Grier",
+      "Bridget Fonda",
+      "Uma Thurman"
+    ],
+    "answer": "Uma Thurman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+    "options": [
+      "Big Hero 6",
+      "Fantasia",
+      "Monsters, Inc.",
+      "Tron"
+    ],
+    "answer": "Tron",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Mulan (1998), who is the leader of the Huns?",
+    "options": [
+      "Chien-Po",
+      "Li Shang",
+      "Fa Zhou",
+      "Shan Yu"
+    ],
+    "answer": "Shan Yu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a book?",
+    "options": [
+      "The Godfather",
+      "Forrest Gump",
+      "Jurassic Park",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+    "options": [
+      "Flik",
+      "Hopper",
+      "Dot",
+      "Aphie"
+    ],
+    "answer": "Aphie",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+    "options": [
+      "Three Men and a Baby",
+      "Ferris Bueller&#039;s Day Off",
+      "Pretty in Pink",
+      "Dirty Dancing"
+    ],
+    "answer": "Dirty Dancing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "options": [
+      "Reservoir Dogs",
+      "Heat",
+      "Goodfellas",
+      "Scarface"
+    ],
+    "answer": "Scarface",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+    "options": [
+      "Cylons",
+      "Synthetics",
+      "Skinjobs",
+      "Replicants"
+    ],
+    "answer": "Replicants",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+    "options": [
+      "Charlie Sheen",
+      "Matt Damon",
+      "Johnny Depp",
+      "Willem Dafoe"
+    ],
+    "answer": "Willem Dafoe",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+    "options": [
+      "Too Loud",
+      "Too Harsh",
+      "Too Violent",
+      "Too Agonizing"
+    ],
+    "answer": "Too Agonizing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+    "options": [
+      "Scotland the Brave",
+      "Colonel Bogey March",
+      "The British Grenadiers",
+      "Men of Harlech"
+    ],
+    "answer": "Men of Harlech",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+    "options": [
+      "Cray X-MP",
+      "Cray XK7",
+      "IBM Blue Gene/Q",
+      "Thinking Machines CM-5"
+    ],
+    "answer": "Thinking Machines CM-5",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+    "options": [
+      "William Shatner",
+      "George Takei",
+      "James Doohan",
+      "Leonard Nimoy"
+    ],
+    "answer": "Leonard Nimoy",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+    "options": [
+      "Strawberry Ice Cream",
+      "Cherry Yogurt",
+      "Raspberry Sorbet",
+      "Custard and Raspberry Sauce"
+    ],
+    "answer": "Custard and Raspberry Sauce",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who did the score to the original Blade Runner?",
+    "options": [
+      "Kitaro",
+      "Yanni",
+      "Enya",
+      "Vangelis"
+    ],
+    "answer": "Vangelis",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What Queen song plays during the final fight scene of the film &quot;Hardcore Henry&quot;?",
+    "options": [
+      "Brighton Rock",
+      "Another Bites the Dust",
+      "We Will Rock You",
+      "Don&#039;t Stop Me Now"
+    ],
+    "answer": "Don&#039;t Stop Me Now",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+    "options": [
+      "Self Evolving Thought Helix",
+      "Master Control Program",
+      "West Campus Analog Computer",
+      "War Operation Plan Response"
+    ],
+    "answer": "War Operation Plan Response",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+    "options": [
+      "Platoon",
+      "The Deer Hunter",
+      "Full Metal Jacket",
+      "Apocalypse Now"
+    ],
+    "answer": "Apocalypse Now",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the planet in &quot;Aliens&quot;?",
+    "options": [
+      "Weyland Yutani Corporation Base",
+      "FR-838",
+      "DI-621",
+      "LV-426"
+    ],
+    "answer": "LV-426",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did the first moving picture depict?",
+    "options": [
+      "A woman in a dress",
+      "A man walking",
+      "A crackling fire",
+      "A galloping horse"
+    ],
+    "answer": "A galloping horse",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was another suggested name for, the 1985 film, Back to the Future?",
+    "options": [
+      "Hill Valley Time Travelers",
+      "The Time Travelers",
+      "The Lucky Man",
+      "Spaceman From Pluto"
+    ],
+    "answer": "Spaceman From Pluto",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+    "options": [
+      "France",
+      "Italy",
+      "Germany",
+      "United Kingdom"
+    ],
+    "answer": "United Kingdom",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.",
+    "options": [
+      "3 Ninjas Kick Back",
+      "The Santa Clause",
+      "Richie Rich",
+      "North"
+    ],
+    "answer": "North",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays protagonist Ethan Hunt in the &quot;Mission: Impossible&quot; film-series?",
+    "options": [
+      "Johnny Depp",
+      "Sean Connery",
+      "Pierce Brosnan",
+      "Tom Cruise"
+    ],
+    "answer": "Tom Cruise",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "options": [
+      "Ted",
+      "Spy Kids",
+      "Pirates of the Caribbean ",
+      "Harry Potter"
+    ],
+    "answer": "Harry Potter",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+    "options": [
+      "Gordon Milipp",
+      "Gordon Foster",
+      "Gordon von Gam",
+      "Gordon Shumway"
+    ],
+    "answer": "Gordon Shumway",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+    "options": [
+      "Seth Rogan",
+      "Charlie Day",
+      "Jack Black",
+      "Keegan-Michael Key"
+    ],
+    "answer": "Keegan-Michael Key",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to &quot;Star Wars&quot; lore, which planet does Obi-Wan Kenobi come from?",
+    "options": [
+      "Alderaan",
+      "Tatooine",
+      "Naboo",
+      "Stewjon"
+    ],
+    "answer": "Stewjon",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Star Wars, what&#039;s the name of the new Government created after the defeat of the Galactic Empire?",
+    "options": [
+      "The Rebel Alliance",
+      "The Crimson Dawn",
+      "The First Order",
+      "The New Republic"
+    ],
+    "answer": "The New Republic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",
+    "options": [
+      "Holden Monaro",
+      "Chrysler Valiant Charger",
+      "Pontiac Firebird",
+      "Ford Falcon"
+    ],
+    "answer": "Ford Falcon",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mutated animals act as monsters in the movie &#039;Night of the Lepus&#039;?",
+    "options": [
+      "Dogs",
+      "Rats",
+      "Bats",
+      "Rabbits"
+    ],
+    "answer": "Rabbits",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+    "options": [
+      "Friday",
+      "Jones",
+      "Billy",
+      "Wilson"
+    ],
+    "answer": "Wilson",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first monster to appear alongside Godzilla?",
+    "options": [
+      "King Kong",
+      "Mothra",
+      "King Ghidora",
+      "Anguirus"
+    ],
+    "answer": "Anguirus",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+    "options": [
+      "Freddie Mills",
+      "Terry Spinks",
+      "Don Cockell",
+      "Bombardier Billy Wells"
+    ],
+    "answer": "Bombardier Billy Wells",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+    "options": [
+      "November 6th",
+      "November 4th",
+      "September 5th",
+      "November 5th"
+    ],
+    "answer": "November 5th",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+    "options": [
+      "August 28, 2015",
+      "July 20, 2015",
+      "January 25, 2015",
+      "October 21, 2015"
+    ],
+    "answer": "October 21, 2015",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the f*** a Quarter Pounder is.&quot;",
+    "options": [
+      "Jules Winnfield",
+      "Jimmie Dimmick",
+      "Butch Coolidge",
+      "Vincent Vega"
+    ],
+    "answer": "Vincent Vega",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "options": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional",
+      "Victoria"
+    ],
+    "answer": "Victoria",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+    "options": [
+      "Pete Townshend",
+      "Franc Roddam",
+      "Archie Bunker",
+      "Jimmy Cooper"
+    ],
+    "answer": "Jimmy Cooper",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?",
+    "options": [
+      "Michael Cera",
+      "Jonah Hill",
+      "Zach Galifianakis",
+      "Jesse Eisenberg"
+    ],
+    "answer": "Jesse Eisenberg",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+    "options": [
+      "2",
+      "6",
+      "1",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these films is NOT set in Los Angeles?",
+    "options": [
+      "Blade Runner",
+      "The Terminator",
+      "Predator 2",
+      "RoboCop"
+    ],
+    "answer": "RoboCop",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Jose",
+      "San Francisco"
+    ],
+    "answer": "San Francisco",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+    "options": [
+      "Louis Armstrong",
+      "Frank Sinatra",
+      "Dean Martin",
+      "Bobby Darin"
+    ],
+    "answer": "Bobby Darin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+    "options": [
+      "Atrayu",
+      "Atraiyu",
+      "Atraeyu",
+      "Atreyu"
+    ],
+    "answer": "Atreyu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a novel by Stephen King? ",
+    "options": [
+      "Carrie",
+      "Misery",
+      "The Green Mile",
+      "The Thing"
+    ],
+    "answer": "The Thing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+    "options": [
+      "Gabe &quot;The Glue Man&quot; Degrossi",
+      "Bootleg Duck Dynasty Byeah Batman",
+      "Demon Lord Zeraxos",
+      "Dick Dastardly Richards"
+    ],
+    "answer": "Dick Dastardly Richards",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which star actor was in &quot;Top Gun&quot;, &quot;Jerry Maguire&quot; and &quot;Born on the Fourth of July&quot;?",
+    "options": [
+      "Kelly McGillis",
+      "John Travolta",
+      "George Clooney",
+      "Tom Cruise"
+    ],
+    "answer": "Tom Cruise",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+    "options": [
+      "Anemia",
+      "Constipation",
+      "Acid Reflux ",
+      "Dysentery"
+    ],
+    "answer": "Dysentery",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+    "options": [
+      "George Clooney",
+      "Val Kilmer",
+      "Adam West",
+      "Michael Keaton"
+    ],
+    "answer": "Michael Keaton",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these films are shot entirely in one-take?",
+    "options": [
+      "Good Will Hunting",
+      "Birdman",
+      "Schindler&#039;s List",
+      "Russian Ark"
+    ],
+    "answer": "Russian Ark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+    "options": [
+      "Native American",
+      "Japanese",
+      "Nordic",
+      "Polynesian"
+    ],
+    "answer": "Polynesian",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+    "options": [
+      "Thomas Jefferson Walker",
+      "George Washington Swanson",
+      "John Quincy Beckett",
+      "Benjamin Franklin Gates"
+    ],
+    "answer": "Benjamin Franklin Gates",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+    "options": [
+      "He was punched in the face",
+      "He got mugged",
+      "He needed money",
+      "His puppy is killed and his car was stolen"
+    ],
+    "answer": "His puppy is killed and his car was stolen",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+    "options": [
+      "Psycho",
+      "Vertigo",
+      "Rebecca",
+      "Rope"
+    ],
+    "answer": "Rope",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays Alice in the Resident Evil movies?",
+    "options": [
+      "Madison Derpe",
+      "Milla Johnson",
+      "Kim Demp",
+      "Milla Jovovich"
+    ],
+    "answer": "Milla Jovovich",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+    "options": [
+      "Strider",
+      "Barliman Butterbur",
+      "Celeborn",
+      "Tom Bombadil"
+    ],
+    "answer": "Tom Bombadil",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+    "options": [
+      "Tigger",
+      "Heffalumps",
+      "Rabbit",
+      "Gopher"
+    ],
+    "answer": "Gopher",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "options": [
+      "Reservoir Dogs",
+      "Heat",
+      "Goodfellas",
+      "Scarface"
+    ],
+    "answer": "Scarface",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+    "options": [
+      "Baby monkeys",
+      "Baby ostriches",
+      "Baby bears",
+      "Baby penguins"
+    ],
+    "answer": "Baby penguins",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+    "options": [
+      "Emmett &quot;Doc&quot; Brown",
+      "Biff Tannen",
+      "George McFly",
+      "Marty McFly"
+    ],
+    "answer": "Marty McFly",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+    "options": [
+      "Twin Iron Engine",
+      "Twin Intercepter Engine",
+      "Twin Inception Engine",
+      "Twin Ion Engine"
+    ],
+    "answer": "Twin Ion Engine",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+    "options": [
+      "&quot;Luke, I am your father.&quot;",
+      "&quot;You&#039;re wrong. I am your father.&quot;",
+      "&quot;The truth is that I am your father.&quot;",
+      "&quot;No. I am your father.&quot;"
+    ],
+    "answer": "&quot;No. I am your father.&quot;",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "options": [
+      "Ted",
+      "Spy Kids",
+      "Pirates of the Caribbean ",
+      "Harry Potter"
+    ],
+    "answer": "Harry Potter",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+    "options": [
+      "Shia LeBouf",
+      "Peter Ostrum",
+      "Johnny Depp",
+      "Gene Wilder"
+    ],
+    "answer": "Gene Wilder",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+    "options": [
+      "North Dakota",
+      "South Dakota",
+      "Wisconsin",
+      "Minnesota"
+    ],
+    "answer": "Minnesota",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+    "options": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Michael Cimino",
+      "Oliver Stone"
+    ],
+    "answer": "Oliver Stone",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+    "options": [
+      "Big Hero 6",
+      "Fantasia",
+      "Monsters, Inc.",
+      "Tron"
+    ],
+    "answer": "Tron",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Humphrey Bogart&#039;s middle name?",
+    "options": [
+      "DeWinter",
+      "Steven",
+      "Bryce",
+      "DeForest"
+    ],
+    "answer": "DeForest",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+    "options": [
+      "Liberia",
+      "Burkina Faso",
+      "Central African Republic",
+      "Sierra Leone"
+    ],
+    "answer": "Sierra Leone",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+    "options": [
+      "Ned Stark",
+      "Jim Kane",
+      "Frank Stark",
+      "Jim Stark"
+    ],
+    "answer": "Jim Stark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+    "options": [
+      "Flik",
+      "Hopper",
+      "Dot",
+      "Aphie"
+    ],
+    "answer": "Aphie",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+    "options": [
+      "The Man from Planet X",
+      "It Came from Outer Space",
+      "The Day The Earth Stood Still",
+      "Plan 9 from Outer Space"
+    ],
+    "answer": "Plan 9 from Outer Space",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the original Friday The 13th movie take place?",
+    "options": [
+      "Packanack",
+      "Higgins Haven",
+      "Camp Forest Green",
+      "Camp Crystal Lake"
+    ],
+    "answer": "Camp Crystal Lake",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+    "options": [
+      "Spider-Man 3",
+      "Shrek the Third",
+      "Ratatouille",
+      "The Simpsons Movie"
+    ],
+    "answer": "The Simpsons Movie",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+    "options": [
+      "Peace",
+      "Ancient",
+      "Chakra",
+      "Shambala"
+    ],
+    "answer": "Shambala",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+    "options": [
+      "The Maltese Falcon",
+      "The Treasure of the Sierra Madre",
+      "Citizen Kane",
+      "Casablanca"
+    ],
+    "answer": "Casablanca",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+    "options": [
+      "1975",
+      "1983",
+      "1969",
+      "1971"
+    ],
+    "answer": "1971",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie released in 2016 features Superman and Batman fighting?",
+    "options": [
+      "Batman v Superman: Superapocalypse",
+      "Batman v Superman: Black of Knight",
+      "Batman v Superman: Knightfall",
+      "Batman v Superman: Dawn of Justice"
+    ],
+    "answer": "Batman v Superman: Dawn of Justice",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who Voices the Devil on Devil&#039;s Flight in Final Destination 3?",
+    "options": [
+      "Wendy Christensen",
+      "Ian McKinley",
+      "Kevin Fischer",
+      "Tony Todd"
+    ],
+    "answer": "Tony Todd",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a book?",
+    "options": [
+      "The Godfather",
+      "Forrest Gump",
+      "Jurassic Park",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which DC superhero was NOT included in the 2017 movie &quot;Justice League&quot;?",
+    "options": [
+      "Batman",
+      "Cyborg",
+      "Wonder Woman",
+      "Green Arrow"
+    ],
+    "answer": "Green Arrow",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+    "options": [
+      "1992 Toyota Land Cruiser",
+      "1992 Jeep Wrangler YJ Sahar",
+      "Mercedes M-Class",
+      "1992 Ford Explorer XLT"
+    ],
+    "answer": "1992 Ford Explorer XLT",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+    "options": [
+      "The Fox and the Hound",
+      "The Black Cauldron",
+      "The Great Mouse Detecive",
+      "Animalympics"
+    ],
+    "answer": "Animalympics",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+    "options": [
+      "Christopher Nolan",
+      "David Fincher",
+      "Wes Anderson",
+      "Alejandro G. I&ntilde;&aacute;rritu"
+    ],
+    "answer": "Alejandro G. I&ntilde;&aacute;rritu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which year was the first official Youtube Rewind released?",
+    "options": [
+      "2012",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "answer": "2010",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first feature-length computer-animated movie?",
+    "options": [
+      "Tron",
+      "Lion king",
+      "101 Dalmatians",
+      "Toy Story"
+    ],
+    "answer": "Toy Story",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+    "options": [
+      "1988",
+      "1986",
+      "1993",
+      "1985"
+    ],
+    "answer": "1985",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+    "options": [
+      "Liam Neeson",
+      "Morgan Freeman",
+      "Will Arnet",
+      "Nick Offerman"
+    ],
+    "answer": "Nick Offerman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+    "options": [
+      "You do not talk about FIGHT CLUB",
+      "Only two guys to a fight",
+      "Fights will go on as long as they have to",
+      "Always wear a shirt"
+    ],
+    "answer": "Always wear a shirt",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1986 film &quot;The Wraith&quot;, what concept car is used for the Turbo Interceptor?",
+    "options": [
+      "Pontiac Banshee",
+      "General Motors Firebird",
+      "Dodge Copperhead",
+      "Dodge M4S"
+    ],
+    "answer": "Dodge M4S",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+    "options": [
+      "Evening",
+      "Morning",
+      "Afternoon",
+      "Midnight"
+    ],
+    "answer": "Midnight",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+    "options": [
+      "Dye",
+      "Paint",
+      "CGI Effect",
+      "Gelatin"
+    ],
+    "answer": "Gelatin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Scream&quot; who is Ghost Face?",
+    "options": [
+      "Dewey Riley",
+      "Sidney Prescott",
+      "Archie Prescott and Philip Marv",
+      "Billy Loomis and Stu Macher"
+    ],
+    "answer": "Billy Loomis and Stu Macher",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+    "options": [
+      "Three Men and a Baby",
+      "Ferris Bueller&#039;s Day Off",
+      "Pretty in Pink",
+      "Dirty Dancing"
+    ],
+    "answer": "Dirty Dancing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+    "options": [
+      "The Phantom Menace",
+      "The Force Awakens",
+      "Revenge of the Sith",
+      "A New Hope"
+    ],
+    "answer": "A New Hope",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie did NOT feature the late actor John Candy?",
+    "options": [
+      "Little Shop Of Horrors",
+      "Home Alone",
+      "Planes Trains and Automobiles",
+      "Ghostbusters"
+    ],
+    "answer": "Ghostbusters",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+    "options": [
+      "Mary",
+      "Christine",
+      "Angeline",
+      "Pamela"
+    ],
+    "answer": "Pamela",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie sequel had improved box office results compared to its original film?",
+    "options": [
+      "Sin City: A Dame to Kill For",
+      "Speed 2: Cruise Control",
+      "Son of the Mask",
+      "Toy Story 2"
+    ],
+    "answer": "Toy Story 2",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "options": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Actress Susan Sarandon caught pneumonia during filming of which movie?",
+    "options": [
+      "Thelma and Louise",
+      "Dead Man Walking",
+      "Enchanted",
+      "The Rocky Horror Picture Show"
+    ],
+    "answer": "The Rocky Horror Picture Show",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+    "options": [
+      "Evening",
+      "Morning",
+      "Afternoon",
+      "Midnight"
+    ],
+    "answer": "Midnight",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+    "options": [
+      "Atrayu",
+      "Atraiyu",
+      "Atraeyu",
+      "Atreyu"
+    ],
+    "answer": "Atreyu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+    "options": [
+      "Alfonso Cuar&oacute;n",
+      "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+      " Alejandro Jodorowsky",
+      "Guillermo Del Toro"
+    ],
+    "answer": "Guillermo Del Toro",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+    "options": [
+      "Big Hero 6",
+      "Fantasia",
+      "Monsters, Inc.",
+      "Tron"
+    ],
+    "answer": "Tron",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+    "options": [
+      "He was punched in the face",
+      "He got mugged",
+      "He needed money",
+      "His puppy is killed and his car was stolen"
+    ],
+    "answer": "His puppy is killed and his car was stolen",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor auditioned for the role of Luke Skywalker?",
+    "options": [
+      "Christopher Lambert",
+      "Laurence Fishburne",
+      "James Remar",
+      "Kurt Russell"
+    ],
+    "answer": "Kurt Russell",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who did the score to the original Blade Runner?",
+    "options": [
+      "Kitaro",
+      "Yanni",
+      "Enya",
+      "Vangelis"
+    ],
+    "answer": "Vangelis",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+    "options": [
+      "Gabe &quot;The Glue Man&quot; Degrossi",
+      "Bootleg Duck Dynasty Byeah Batman",
+      "Demon Lord Zeraxos",
+      "Dick Dastardly Richards"
+    ],
+    "answer": "Dick Dastardly Richards",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to &quot;Star Wars&quot; lore, which planet does Obi-Wan Kenobi come from?",
+    "options": [
+      "Alderaan",
+      "Tatooine",
+      "Naboo",
+      "Stewjon"
+    ],
+    "answer": "Stewjon",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+    "options": [
+      "Saxophone",
+      "Violin",
+      "Actual Live Birds Singing",
+      "Drums"
+    ],
+    "answer": "Drums",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
+    "options": [
+      "Buddy &amp; Bobby",
+      "Holly &amp; Jolly",
+      "Snowflake &amp; Icicle",
+      "Jingle &amp; Jangle"
+    ],
+    "answer": "Jingle &amp; Jangle",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+    "options": [
+      "Jackie Brown",
+      "Pulp Fiction",
+      "Reservoir Dogs",
+      "From Dusk till Dawn"
+    ],
+    "answer": "From Dusk till Dawn",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie released in 2016 features Superman and Batman fighting?",
+    "options": [
+      "Batman v Superman: Superapocalypse",
+      "Batman v Superman: Black of Knight",
+      "Batman v Superman: Knightfall",
+      "Batman v Superman: Dawn of Justice"
+    ],
+    "answer": "Batman v Superman: Dawn of Justice",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays protagonist Ethan Hunt in the &quot;Mission: Impossible&quot; film-series?",
+    "options": [
+      "Johnny Depp",
+      "Sean Connery",
+      "Pierce Brosnan",
+      "Tom Cruise"
+    ],
+    "answer": "Tom Cruise",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+    "options": [
+      "The Man from Planet X",
+      "It Came from Outer Space",
+      "The Day The Earth Stood Still",
+      "Plan 9 from Outer Space"
+    ],
+    "answer": "Plan 9 from Outer Space",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first superhero film James Gunn was involved with?",
+    "options": [
+      "Super",
+      "Guardians of the Galaxy",
+      "Brightburn",
+      "The Specials"
+    ],
+    "answer": "The Specials",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+    "options": [
+      "Ned Stark",
+      "Jim Kane",
+      "Frank Stark",
+      "Jim Stark"
+    ],
+    "answer": "Jim Stark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+    "options": [
+      "640 million USD",
+      "456 million USD",
+      "392 million USD",
+      "1.2 billion USD"
+    ],
+    "answer": "1.2 billion USD",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+    "options": [
+      "Too Loud",
+      "Too Harsh",
+      "Too Violent",
+      "Too Agonizing"
+    ],
+    "answer": "Too Agonizing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1986 film &quot;The Wraith&quot;, what concept car is used for the Turbo Interceptor?",
+    "options": [
+      "Pontiac Banshee",
+      "General Motors Firebird",
+      "Dodge Copperhead",
+      "Dodge M4S"
+    ],
+    "answer": "Dodge M4S",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which year was the first official Youtube Rewind released?",
+    "options": [
+      "2012",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "answer": "2010",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the Kill Bill movies?",
+    "options": [
+      "Arnold Schwarzenegger",
+      "David Lean",
+      "Stanley Kubrick",
+      "Quentin Tarantino"
+    ],
+    "answer": "Quentin Tarantino",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+    "options": [
+      "Flash Gordon",
+      "Labyrinth",
+      "Howard the Duck",
+      "Highlander"
+    ],
+    "answer": "Highlander",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the title of the first Bond movie, released in 1962?",
+    "options": [
+      "From Russia with Love",
+      "Goldfinger",
+      "Thunderball",
+      "Dr. No"
+    ],
+    "answer": "Dr. No",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What American actor directed and co-starred alongside Emily Blunt in 2018&#039;s horror film &quot;A Quiet Place&quot;?",
+    "options": [
+      "Keanu Reeves",
+      "Willem Dafoe",
+      "Josh Brolin",
+      "John Krasinski"
+    ],
+    "answer": "John Krasinski",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+    "options": [
+      "Michael Caine",
+      "Ron Dean",
+      "Heath Ledger",
+      "Christian Bale"
+    ],
+    "answer": "Christian Bale",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did the first moving picture depict?",
+    "options": [
+      "A woman in a dress",
+      "A man walking",
+      "A crackling fire",
+      "A galloping horse"
+    ],
+    "answer": "A galloping horse",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+    "options": [
+      "Stanley Kubrick",
+      "James Cameron",
+      "Tim Burton",
+      "Steven Spielberg"
+    ],
+    "answer": "Steven Spielberg",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays Alice in the Resident Evil movies?",
+    "options": [
+      "Madison Derpe",
+      "Milla Johnson",
+      "Kim Demp",
+      "Milla Jovovich"
+    ],
+    "answer": "Milla Jovovich",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie did NOT feature the late actor John Candy?",
+    "options": [
+      "Little Shop Of Horrors",
+      "Home Alone",
+      "Planes Trains and Automobiles",
+      "Ghostbusters"
+    ],
+    "answer": "Ghostbusters",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+    "options": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Michael Cimino",
+      "Oliver Stone"
+    ],
+    "answer": "Oliver Stone",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which James Bond film had the theme song written and performed by English singer-songwriter Adele?",
+    "options": [
+      "Casino Royale",
+      "Quantum Solace",
+      "Spectre",
+      "Skyfall"
+    ],
+    "answer": "Skyfall",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+    "options": [
+      "Star Wars",
+      "Gone with the Wind",
+      "Jaws",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+    "options": [
+      "Dye",
+      "Paint",
+      "CGI Effect",
+      "Gelatin"
+    ],
+    "answer": "Gelatin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+    "options": [
+      "77 mph",
+      "100 mph",
+      "70 mph",
+      "88 mph"
+    ],
+    "answer": "88 mph",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+    "options": [
+      "Christopher Nolan",
+      "David Fincher",
+      "Wes Anderson",
+      "Alejandro G. I&ntilde;&aacute;rritu"
+    ],
+    "answer": "Alejandro G. I&ntilde;&aacute;rritu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these movies did Jeff Bridges not star in?",
+    "options": [
+      "Tron: Legacy",
+      "The Giver",
+      "True Grit",
+      "The Hateful Eight"
+    ],
+    "answer": "The Hateful Eight",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+    "options": [
+      "Alec Guinness",
+      "Hayden Christensen",
+      "Liam Neeson",
+      "Ewan McGregor"
+    ],
+    "answer": "Ewan McGregor",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+    "options": [
+      "Freddie Mills",
+      "Terry Spinks",
+      "Don Cockell",
+      "Bombardier Billy Wells"
+    ],
+    "answer": "Bombardier Billy Wells",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Disney classics was released in 1970?",
+    "options": [
+      "One Hundred and One Dalmatians",
+      "The Fox and the Hound",
+      "The Little Mermaid",
+      "The Aristocats"
+    ],
+    "answer": "The Aristocats",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+    "options": [
+      "The Schwartz",
+      "Princess Lonestar",
+      "Meatballs",
+      "Air"
+    ],
+    "answer": "Air",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+    "options": [
+      "Cocaine",
+      "Marijuana",
+      "Oxycodone",
+      "Heroin"
+    ],
+    "answer": "Heroin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first James Bond film?",
+    "options": [
+      "Goldfinger",
+      "From Russia With Love",
+      "Thunderball",
+      "Dr. No"
+    ],
+    "answer": "Dr. No",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "14"
+    ],
+    "answer": "14",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+    "options": [
+      "Mary",
+      "Christine",
+      "Angeline",
+      "Pamela"
+    ],
+    "answer": "Pamela",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+    "options": [
+      "$20,000",
+      "$1 Million",
+      "$10 Million",
+      "$6 Million"
+    ],
+    "answer": "$6 Million",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+    "options": [
+      "Kathy Griffin",
+      "Pam Grier",
+      "Bridget Fonda",
+      "Uma Thurman"
+    ],
+    "answer": "Uma Thurman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+    "options": [
+      "After Episode 6",
+      "Before Episode 1",
+      "Between Episode 4 and 5",
+      "Between Episode 3 and 4"
+    ],
+    "answer": "Between Episode 3 and 4",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+    "options": [
+      "Cough Fi",
+      "Spear Mint",
+      "Mister E",
+      "Ming Tea"
+    ],
+    "answer": "Ming Tea",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who Voices the Devil on Devil&#039;s Flight in Final Destination 3?",
+    "options": [
+      "Wendy Christensen",
+      "Ian McKinley",
+      "Kevin Fischer",
+      "Tony Todd"
+    ],
+    "answer": "Tony Todd",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
+    "options": [
+      "Dusty, Kirby, and Ralph",
+      "Nuk, Yak, and Sumac",
+      "Jenna, Sylvie, and Dixie",
+      "Kaltag, Nikki, and Star"
+    ],
+    "answer": "Kaltag, Nikki, and Star",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+    "options": [
+      "San Tokyo",
+      "Tokysisco",
+      "Sankyo",
+      "San Fransokyo"
+    ],
+    "answer": "San Fransokyo",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these films are shot entirely in one-take?",
+    "options": [
+      "Good Will Hunting",
+      "Birdman",
+      "Schindler&#039;s List",
+      "Russian Ark"
+    ],
+    "answer": "Russian Ark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?",
+    "options": [
+      "The Wolf Of Wall Street",
+      "Shutter Island",
+      "Inception",
+      "The Revenant"
+    ],
+    "answer": "The Revenant",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+    "options": [
+      "Three Men and a Baby",
+      "Ferris Bueller&#039;s Day Off",
+      "Pretty in Pink",
+      "Dirty Dancing"
+    ],
+    "answer": "Dirty Dancing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+    "options": [
+      "Baby monkeys",
+      "Baby ostriches",
+      "Baby bears",
+      "Baby penguins"
+    ],
+    "answer": "Baby penguins",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+    "options": [
+      "Flash Gordon",
+      "Labyrinth",
+      "Howard the Duck",
+      "Highlander"
+    ],
+    "answer": "Highlander",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+    "options": [
+      "Alan Wake",
+      "Hitman",
+      "God Of War",
+      "Max Payne"
+    ],
+    "answer": "Max Payne",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+    "options": [
+      "1996",
+      "1998",
+      "1999",
+      "1997"
+    ],
+    "answer": "1997",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+    "options": [
+      "Mozart",
+      "Berlioz",
+      "Brahms",
+      "Verdi"
+    ],
+    "answer": "Verdi",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+    "options": [
+      "Smash Mouth",
+      "Oasis",
+      "Air Supply",
+      "Bryan Adams"
+    ],
+    "answer": "Bryan Adams",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which year was the first official Youtube Rewind released?",
+    "options": [
+      "2012",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "answer": "2010",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a novel by Stephen King? ",
+    "options": [
+      "Carrie",
+      "Misery",
+      "The Green Mile",
+      "The Thing"
+    ],
+    "answer": "The Thing",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "options": [
+      "Reservoir Dogs",
+      "Heat",
+      "Goodfellas",
+      "Scarface"
+    ],
+    "answer": "Scarface",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+    "options": [
+      "1975",
+      "1983",
+      "1969",
+      "1971"
+    ],
+    "answer": "1971",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+    "options": [
+      "Gordon Milipp",
+      "Gordon Foster",
+      "Gordon von Gam",
+      "Gordon Shumway"
+    ],
+    "answer": "Gordon Shumway",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+    "options": [
+      "Stanley Kubrick",
+      "Frank Darabont",
+      "Michael Bay",
+      "Jonathan Demme"
+    ],
+    "answer": "Jonathan Demme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+    "options": [
+      "Kevin Spacey",
+      "Benicio Del Toro",
+      "Gabriel Byrne",
+      "Steve Buscemi"
+    ],
+    "answer": "Steve Buscemi",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+    "options": [
+      "Chuck Norris",
+      "Steven Seagal",
+      "Scott Adkins",
+      "Jean-Claude Van Damme"
+    ],
+    "answer": "Jean-Claude Van Damme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?",
+    "options": [
+      "Clown costume",
+      "Santa suit",
+      "Police uniform",
+      "Mining gear"
+    ],
+    "answer": "Mining gear",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+    "options": [
+      "Shia LeBouf",
+      "Peter Ostrum",
+      "Johnny Depp",
+      "Gene Wilder"
+    ],
+    "answer": "Gene Wilder",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+    "options": [
+      "Romans Go Home",
+      "Roxani Ite Domum",
+      "Tomate Ite Domum",
+      "Romani Ite Domum"
+    ],
+    "answer": "Romani Ite Domum",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+    "options": [
+      "The Island",
+      "Unthinkable",
+      "American Pie",
+      "Fight Club"
+    ],
+    "answer": "Fight Club",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is frozen at the end of the movie &quot;Goldeneye&quot;?",
+    "options": [
+      "James Bond",
+      "Natalya Simonova",
+      "Alec Travelyan",
+      "Boris Grishenko"
+    ],
+    "answer": "Boris Grishenko",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+    "options": [
+      "You do not talk about FIGHT CLUB",
+      "Only two guys to a fight",
+      "Fights will go on as long as they have to",
+      "Always wear a shirt"
+    ],
+    "answer": "Always wear a shirt",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What year did the movie &quot;Napoleon Dynamite&quot; come out?",
+    "options": [
+      "2002",
+      "2003",
+      "2005",
+      "2004"
+    ],
+    "answer": "2004",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+    "options": [
+      "August 28, 2015",
+      "July 20, 2015",
+      "January 25, 2015",
+      "October 21, 2015"
+    ],
+    "answer": "October 21, 2015",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+    "options": [
+      "Gabe &quot;The Glue Man&quot; Degrossi",
+      "Bootleg Duck Dynasty Byeah Batman",
+      "Demon Lord Zeraxos",
+      "Dick Dastardly Richards"
+    ],
+    "answer": "Dick Dastardly Richards",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+    "options": [
+      "Isla Sorna",
+      "Isla Muerta",
+      "Isla Pena",
+      "Isla Nublar"
+    ],
+    "answer": "Isla Nublar",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+    "options": [
+      "Michael Keaton",
+      "Val Kilmer",
+      "Christian Bale",
+      "George Clooney"
+    ],
+    "answer": "George Clooney",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+    "options": [
+      "BB-3",
+      "AA-A",
+      "R2-D2",
+      "BB-8"
+    ],
+    "answer": "BB-8",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+    "options": [
+      "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+      "Yul Brynner, Steve McQueen, and Charles Bronson",
+      "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli",
+      "Clint Eastwood, Eli Wallach, and Lee Van Cleef"
+    ],
+    "answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+    "options": [
+      "George Clooney",
+      "Val Kilmer",
+      "Adam West",
+      "Michael Keaton"
+    ],
+    "answer": "Michael Keaton",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+    "options": [
+      "Kathy Griffin",
+      "Pam Grier",
+      "Bridget Fonda",
+      "Uma Thurman"
+    ],
+    "answer": "Uma Thurman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+    "options": [
+      "Liam Neeson",
+      "Morgan Freeman",
+      "Will Arnet",
+      "Nick Offerman"
+    ],
+    "answer": "Nick Offerman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+    "options": [
+      "Superman",
+      "Iron Man",
+      "Spiderman",
+      "Batman"
+    ],
+    "answer": "Batman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Thanos in Avengers: Infinity War and Avengers: End Game?",
+    "options": [
+      "Tom Hiddleston",
+      "Adam Sandler",
+      "Sean Gunn",
+      "Josh Brolin"
+    ],
+    "answer": "Josh Brolin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+    "options": [
+      "Gnarly.",
+      "Perfect.",
+      "Nice.",
+      "Groovy."
+    ],
+    "answer": "Groovy.",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which film has been critically regarded as the best film of all time?",
+    "options": [
+      "Avatar",
+      "The Godfather Part II",
+      "The Room",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the last Marx Brothers film to feature Zeppo?",
+    "options": [
+      "A Night at the Opera",
+      "A Day at the Races",
+      "Monkey Business",
+      "Duck Soup"
+    ],
+    "answer": "Duck Soup",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "options": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional",
+      "Victoria"
+    ],
+    "answer": "Victoria",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+    "options": [
+      "Isla Nublar",
+      "Isla Pena",
+      "Isla Muerta",
+      "Isla Sorna"
+    ],
+    "answer": "Isla Sorna",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays protagonist Ethan Hunt in the &quot;Mission: Impossible&quot; film-series?",
+    "options": [
+      "Johnny Depp",
+      "Sean Connery",
+      "Pierce Brosnan",
+      "Tom Cruise"
+    ],
+    "answer": "Tom Cruise",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+    "options": [
+      "Psycho",
+      "Vertigo",
+      "Rebecca",
+      "Rope"
+    ],
+    "answer": "Rope",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the title of the first Bond movie, released in 1962?",
+    "options": [
+      "From Russia with Love",
+      "Goldfinger",
+      "Thunderball",
+      "Dr. No"
+    ],
+    "answer": "Dr. No",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Johnny Depp made his big-screen acting debut in which film?",
+    "options": [
+      "My Bloody Valentine",
+      "Halloween",
+      "Friday the 13th",
+      "A Nightmare on Elm Street"
+    ],
+    "answer": "A Nightmare on Elm Street",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+    "options": [
+      "Scotland the Brave",
+      "Colonel Bogey March",
+      "The British Grenadiers",
+      "Men of Harlech"
+    ],
+    "answer": "Men of Harlech",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+    "options": [
+      "Kevin Spacey",
+      "Benicio Del Toro",
+      "Gabriel Byrne",
+      "Steve Buscemi"
+    ],
+    "answer": "Steve Buscemi",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+    "options": [
+      "Sandy",
+      "Pearl",
+      "Shelly",
+      "Coral"
+    ],
+    "answer": "Coral",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+    "options": [
+      "2001: A Space Odyssey",
+      " Dr. Strangelove ",
+      "Eyes Wide Shut",
+      "The Shining"
+    ],
+    "answer": "The Shining",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first James Bond film?",
+    "options": [
+      "Goldfinger",
+      "From Russia With Love",
+      "Thunderball",
+      "Dr. No"
+    ],
+    "answer": "Dr. No",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+    "options": [
+      "Stanley Kubrick",
+      "Frank Darabont",
+      "Michael Bay",
+      "Jonathan Demme"
+    ],
+    "answer": "Jonathan Demme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the title of the first Bond movie, released in 1962?",
+    "options": [
+      "From Russia with Love",
+      "Goldfinger",
+      "Thunderball",
+      "Dr. No"
+    ],
+    "answer": "Dr. No",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the Kill Bill movies?",
+    "options": [
+      "Arnold Schwarzenegger",
+      "David Lean",
+      "Stanley Kubrick",
+      "Quentin Tarantino"
+    ],
+    "answer": "Quentin Tarantino",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which year was the first official Youtube Rewind released?",
+    "options": [
+      "2012",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "answer": "2010",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+    "options": [
+      "1975",
+      "1983",
+      "1969",
+      "1971"
+    ],
+    "answer": "1971",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+    "options": [
+      "William Shatner",
+      "George Takei",
+      "James Doohan",
+      "Leonard Nimoy"
+    ],
+    "answer": "Leonard Nimoy",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the first Transformers movie released?",
+    "options": [
+      "2007",
+      "1984",
+      "2009",
+      "1986"
+    ],
+    "answer": "1986",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these films are shot entirely in one-take?",
+    "options": [
+      "Good Will Hunting",
+      "Birdman",
+      "Schindler&#039;s List",
+      "Russian Ark"
+    ],
+    "answer": "Russian Ark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the seaside city the mods are visiting?",
+    "options": [
+      "Eastbourne",
+      "Mousehole",
+      "Bridlington",
+      "Brighton"
+    ],
+    "answer": "Brighton",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+    "options": [
+      "77 mph",
+      "100 mph",
+      "70 mph",
+      "88 mph"
+    ],
+    "answer": "88 mph",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+    "options": [
+      "He was punched in the face",
+      "He got mugged",
+      "He needed money",
+      "His puppy is killed and his car was stolen"
+    ],
+    "answer": "His puppy is killed and his car was stolen",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+    "options": [
+      "Tyler Mane",
+      "Derek Mears",
+      "Gunnar Hansen",
+      "Jackie Earle Haley"
+    ],
+    "answer": "Jackie Earle Haley",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+    "options": [
+      "The Right Stuff",
+      "Capricorn One",
+      "Marooned",
+      "Apollo 13"
+    ],
+    "answer": "Apollo 13",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+    "options": [
+      "After Episode 6",
+      "Before Episode 1",
+      "Between Episode 4 and 5",
+      "Between Episode 3 and 4"
+    ],
+    "answer": "Between Episode 3 and 4",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+    "options": [
+      "Thomas Jefferson Walker",
+      "George Washington Swanson",
+      "John Quincy Beckett",
+      "Benjamin Franklin Gates"
+    ],
+    "answer": "Benjamin Franklin Gates",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1986 film &quot;The Wraith&quot;, what concept car is used for the Turbo Interceptor?",
+    "options": [
+      "Pontiac Banshee",
+      "General Motors Firebird",
+      "Dodge Copperhead",
+      "Dodge M4S"
+    ],
+    "answer": "Dodge M4S",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Thanos in Avengers: Infinity War and Avengers: End Game?",
+    "options": [
+      "Tom Hiddleston",
+      "Adam Sandler",
+      "Sean Gunn",
+      "Josh Brolin"
+    ],
+    "answer": "Josh Brolin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "options": [
+      "Ted",
+      "Spy Kids",
+      "Pirates of the Caribbean ",
+      "Harry Potter"
+    ],
+    "answer": "Harry Potter",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+    "options": [
+      "60 mph",
+      "40 mph",
+      "70 mph",
+      "50 mph"
+    ],
+    "answer": "50 mph",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+    "options": [
+      "Cheddar",
+      "Moon Cheese",
+      "Edam",
+      "Wensleydale"
+    ],
+    "answer": "Wensleydale",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these movies did Jeff Bridges not star in?",
+    "options": [
+      "Tron: Legacy",
+      "The Giver",
+      "True Grit",
+      "The Hateful Eight"
+    ],
+    "answer": "The Hateful Eight",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+    "options": [
+      "Kathy Griffin",
+      "Pam Grier",
+      "Bridget Fonda",
+      "Uma Thurman"
+    ],
+    "answer": "Uma Thurman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+    "options": [
+      "Robby",
+      "Colossus",
+      "Box",
+      "Gort"
+    ],
+    "answer": "Gort",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+    "options": [
+      "640 million USD",
+      "456 million USD",
+      "392 million USD",
+      "1.2 billion USD"
+    ],
+    "answer": "1.2 billion USD",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+    "options": [
+      "Baby monkeys",
+      "Baby ostriches",
+      "Baby bears",
+      "Baby penguins"
+    ],
+    "answer": "Baby penguins",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these actors have NOT played Spiderman in the movies?",
+    "options": [
+      "Tobey Maguire",
+      "Andrew Garfield",
+      "Tom Holland",
+      "Michael Cera"
+    ],
+    "answer": "Michael Cera",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+    "options": [
+      "Psycho",
+      "Vertigo",
+      "Rebecca",
+      "Rope"
+    ],
+    "answer": "Rope",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+    "options": [
+      "Toy Story",
+      "James and the Giant Peach",
+      "The Hunchback of Notre Dame",
+      "Aladdin"
+    ],
+    "answer": "Aladdin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+    "options": [
+      "Macaulay Culkin",
+      "Mel Gibson",
+      "Mark Hamill",
+      "Corey Feldman"
+    ],
+    "answer": "Corey Feldman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a book?",
+    "options": [
+      "The Godfather",
+      "Forrest Gump",
+      "Jurassic Park",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+    "options": [
+      "Jackie Chan",
+      "Jet Li",
+      " Yun-Fat Chow",
+      "Bruce Lee"
+    ],
+    "answer": "Bruce Lee",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+    "options": [
+      "Friday",
+      "Jones",
+      "Billy",
+      "Wilson"
+    ],
+    "answer": "Wilson",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+    "options": [
+      "Stanley Kubrick",
+      "James Cameron",
+      "Tim Burton",
+      "Steven Spielberg"
+    ],
+    "answer": "Steven Spielberg",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+    "options": [
+      "Cray X-MP",
+      "Cray XK7",
+      "IBM Blue Gene/Q",
+      "Thinking Machines CM-5"
+    ],
+    "answer": "Thinking Machines CM-5",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+    "options": [
+      "Alfonso Cuar&oacute;n",
+      "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+      " Alejandro Jodorowsky",
+      "Guillermo Del Toro"
+    ],
+    "answer": "Guillermo Del Toro",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+    "options": [
+      "Emmett &quot;Doc&quot; Brown",
+      "Biff Tannen",
+      "George McFly",
+      "Marty McFly"
+    ],
+    "answer": "Marty McFly",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the movie &quot;Police Academy&quot; released?",
+    "options": [
+      "1986",
+      "1985",
+      "1983",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+    "options": [
+      "Big Hero 6",
+      "Fantasia",
+      "Monsters, Inc.",
+      "Tron"
+    ],
+    "answer": "Tron",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+    "options": [
+      "Biology Synthetics Technologies",
+      "International Genetics Incorporated",
+      "International Genetic Technologies",
+      "Masrani Global Corporation "
+    ],
+    "answer": "Masrani Global Corporation ",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?",
+    "options": [
+      "Dr Frankenstein",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Count Dracula"
+    ],
+    "answer": "Count Dracula",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+    "options": [
+      "Alec Guinness",
+      "Hayden Christensen",
+      "Liam Neeson",
+      "Ewan McGregor"
+    ],
+    "answer": "Ewan McGregor",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+    "options": [
+      "Pam Bouvier",
+      "Mary Goodnight",
+      "Wai Lin",
+      "Vanessa Kensington"
+    ],
+    "answer": "Vanessa Kensington",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+    "options": [
+      "Kent Mansley",
+      "Dean McCoppin",
+      "Annie Hughes",
+      "Hogarth Hughes"
+    ],
+    "answer": "Hogarth Hughes",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first monster to appear alongside Godzilla?",
+    "options": [
+      "King Kong",
+      "Mothra",
+      "King Ghidora",
+      "Anguirus"
+    ],
+    "answer": "Anguirus",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+    "options": [
+      "The Schwartz",
+      "Princess Lonestar",
+      "Meatballs",
+      "Air"
+    ],
+    "answer": "Air",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+    "options": [
+      "2007",
+      "2015",
+      "2020",
+      "2005"
+    ],
+    "answer": "2005",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+    "options": [
+      "Alec Guinness",
+      "Hayden Christensen",
+      "Liam Neeson",
+      "Ewan McGregor"
+    ],
+    "answer": "Ewan McGregor",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the first Indian movie submitted for an Oscar?",
+    "options": [
+      "1962",
+      "1938",
+      "1954",
+      "1957"
+    ],
+    "answer": "1957",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+    "options": [
+      "Hop",
+      "Rise of the Guardians",
+      "Alice in Wonderland",
+      "My Neighbor Totoro"
+    ],
+    "answer": "My Neighbor Totoro",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+    "options": [
+      "The Great Muppet Caper",
+      "The Muppet Christmas Carol",
+      "The Muppet Movie",
+      "The Muppets Take Manhattan"
+    ],
+    "answer": "The Muppets Take Manhattan",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following James Bond villains is not affiliated with the SPECTRE organization?",
+    "options": [
+      "Dr. Julius No",
+      "Rosa Klebb",
+      "Emilio Largo",
+      "Auric Goldfinger"
+    ],
+    "answer": "Auric Goldfinger",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+    "options": [
+      "Harrison Ford",
+      "Harvey Keitel",
+      "Martin Landau",
+      "Tommy Lee Jones"
+    ],
+    "answer": "Tommy Lee Jones",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+    "options": [
+      "Cheddar",
+      "Moon Cheese",
+      "Edam",
+      "Wensleydale"
+    ],
+    "answer": "Wensleydale",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+    "options": [
+      "Ned Stark",
+      "Jim Kane",
+      "Frank Stark",
+      "Jim Stark"
+    ],
+    "answer": "Jim Stark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Before getting the shotgun, what did the titular hobo in &#039;Hobo with a Shotgun&#039; want to purchase?",
+    "options": [
+      "a revolver",
+      "a guitar",
+      "a suit",
+      "a lawnmower"
+    ],
+    "answer": "a lawnmower",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays Jack Burton in the movie &quot;Big Trouble in Little China?&quot;",
+    "options": [
+      "Patrick Swayze",
+      "John Cusack",
+      "Harrison Ford",
+      "Kurt Russell"
+    ],
+    "answer": "Kurt Russell",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the main antagonist of Christopher Nolan&#039;s 2012 film &quot;The Dark Knight Rises&quot;?",
+    "options": [
+      "The Joker",
+      "CIA",
+      "The Riddler",
+      "Bane"
+    ],
+    "answer": "Bane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+    "options": [
+      "2001: A Space Odyssey",
+      " Dr. Strangelove ",
+      "Eyes Wide Shut",
+      "The Shining"
+    ],
+    "answer": "The Shining",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+    "options": [
+      "November 6th",
+      "November 4th",
+      "September 5th",
+      "November 5th"
+    ],
+    "answer": "November 5th",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+    "options": [
+      "The Girl with the Dragon Tattoo",
+      "Thor",
+      "The King&#039;s Speech",
+      "Jack and Jill"
+    ],
+    "answer": "Jack and Jill",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who Voices the Devil on Devil&#039;s Flight in Final Destination 3?",
+    "options": [
+      "Wendy Christensen",
+      "Ian McKinley",
+      "Kevin Fischer",
+      "Tony Todd"
+    ],
+    "answer": "Tony Todd",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+    "options": [
+      "You do not talk about FIGHT CLUB",
+      "Only two guys to a fight",
+      "Fights will go on as long as they have to",
+      "Always wear a shirt"
+    ],
+    "answer": "Always wear a shirt",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+    "options": [
+      "Anemia",
+      "Constipation",
+      "Acid Reflux ",
+      "Dysentery"
+    ],
+    "answer": "Dysentery",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Jose",
+      "San Francisco"
+    ],
+    "answer": "San Francisco",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+    "options": [
+      "Steve McQueen",
+      "Charles Bronson",
+      "Robert Vaughn",
+      "Clint Eastwood"
+    ],
+    "answer": "Clint Eastwood",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
+    "options": [
+      "Bowling for Soup",
+      "Sum 41",
+      "Linkin Park",
+      "Smash Mouth"
+    ],
+    "answer": "Smash Mouth",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+    "options": [
+      "1975",
+      "1983",
+      "1969",
+      "1971"
+    ],
+    "answer": "1971",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+    "options": [
+      "The Island",
+      "Unthinkable",
+      "American Pie",
+      "Fight Club"
+    ],
+    "answer": "Fight Club",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+    "options": [
+      "Ron Howard",
+      "Francis Ford Coppola",
+      "Steven Spielberg",
+      "George Lucas"
+    ],
+    "answer": "George Lucas",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+    "options": [
+      "Doug Jones",
+      "Doug Savant",
+      "Doug Benson",
+      "Doug Bradley"
+    ],
+    "answer": "Doug Bradley",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+    "options": [
+      "George Clooney",
+      "Val Kilmer",
+      "Adam West",
+      "Michael Keaton"
+    ],
+    "answer": "Michael Keaton",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?",
+    "options": [
+      "Indiana Jones",
+      "James Bond",
+      "Harry Potter",
+      "Dirty Harry"
+    ],
+    "answer": "Dirty Harry",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+    "options": [
+      "Golden Retriever",
+      "Dalmatian",
+      "Shiba Inu",
+      "Labrador Retriever"
+    ],
+    "answer": "Labrador Retriever",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+    "options": [
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogan",
+      "Edgar Wright"
+    ],
+    "answer": "Edgar Wright",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+    "options": [
+      "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+      "Yul Brynner, Steve McQueen, and Charles Bronson",
+      "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli",
+      "Clint Eastwood, Eli Wallach, and Lee Van Cleef"
+    ],
+    "answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+    "options": [
+      "Alan Wake",
+      "Hitman",
+      "God Of War",
+      "Max Payne"
+    ],
+    "answer": "Max Payne",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?",
+    "options": [
+      "Dr Frankenstein",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Count Dracula"
+    ],
+    "answer": "Count Dracula",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+    "options": [
+      "Cocaine",
+      "Marijuana",
+      "Oxycodone",
+      "Heroin"
+    ],
+    "answer": "Heroin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+    "options": [
+      "Stanley Kubrick",
+      "Frank Darabont",
+      "Michael Bay",
+      "Jonathan Demme"
+    ],
+    "answer": "Jonathan Demme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+    "options": [
+      "Flik",
+      "Hopper",
+      "Dot",
+      "Aphie"
+    ],
+    "answer": "Aphie",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+    "options": [
+      "Pete Townshend",
+      "Franc Roddam",
+      "Archie Bunker",
+      "Jimmy Cooper"
+    ],
+    "answer": "Jimmy Cooper",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the last Marx Brothers film to feature Zeppo?",
+    "options": [
+      "A Night at the Opera",
+      "A Day at the Races",
+      "Monkey Business",
+      "Duck Soup"
+    ],
+    "answer": "Duck Soup",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+    "options": [
+      "2007",
+      "2015",
+      "2020",
+      "2005"
+    ],
+    "answer": "2005",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+    "options": [
+      "Louis Armstrong",
+      "Frank Sinatra",
+      "Dean Martin",
+      "Bobby Darin"
+    ],
+    "answer": "Bobby Darin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?",
+    "options": [
+      "To destroy the Enterprise",
+      "To become Picard&#039;s friend ",
+      "To steal the Enterprise",
+      "To replace Picard as a Romulan Agent"
+    ],
+    "answer": "To replace Picard as a Romulan Agent",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+    "options": [
+      "Lady Gaga",
+      "Rihanna",
+      "Justin Bieber",
+      "Elton John"
+    ],
+    "answer": "Elton John",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+    "options": [
+      "The Schwartz",
+      "Princess Lonestar",
+      "Meatballs",
+      "Air"
+    ],
+    "answer": "Air",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+    "options": [
+      "Kent Mansley",
+      "Dean McCoppin",
+      "Annie Hughes",
+      "Hogarth Hughes"
+    ],
+    "answer": "Hogarth Hughes",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "options": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+    "options": [
+      "Stanley Kubrick",
+      "James Cameron",
+      "Tim Burton",
+      "Steven Spielberg"
+    ],
+    "answer": "Steven Spielberg",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+    "options": [
+      "Perkins",
+      "Day",
+      "Parker",
+      "Gale"
+    ],
+    "answer": "Gale",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays the Nemesis in the Resident Evil movies?",
+    "options": [
+      "Jason Dip",
+      "Eric Mabius",
+      "Jimmy Matts",
+      "Matthew Taylor"
+    ],
+    "answer": "Matthew Taylor",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first feature-length computer-animated movie?",
+    "options": [
+      "Tron",
+      "Lion king",
+      "101 Dalmatians",
+      "Toy Story"
+    ],
+    "answer": "Toy Story",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+    "options": [
+      "Seth Rogan",
+      "Charlie Day",
+      "Jack Black",
+      "Keegan-Michael Key"
+    ],
+    "answer": "Keegan-Michael Key",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What Queen song plays during the final fight scene of the film &quot;Hardcore Henry&quot;?",
+    "options": [
+      "Brighton Rock",
+      "Another Bites the Dust",
+      "We Will Rock You",
+      "Don&#039;t Stop Me Now"
+    ],
+    "answer": "Don&#039;t Stop Me Now",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+    "options": [
+      "Shia LeBouf",
+      "Peter Ostrum",
+      "Johnny Depp",
+      "Gene Wilder"
+    ],
+    "answer": "Gene Wilder",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+    "options": [
+      "Tom Jones",
+      "John Barry",
+      "Sheena Easton",
+      "Shirley Basey"
+    ],
+    "answer": "Shirley Basey",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+    "options": [
+      "Chuck Norris",
+      "Steven Seagal",
+      "Scott Adkins",
+      "Jean-Claude Van Damme"
+    ],
+    "answer": "Jean-Claude Van Damme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first monster to appear alongside Godzilla?",
+    "options": [
+      "King Kong",
+      "Mothra",
+      "King Ghidora",
+      "Anguirus"
+    ],
+    "answer": "Anguirus",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+    "options": [
+      "Star Wars",
+      "Gone with the Wind",
+      "Jaws",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+    "options": [
+      "Michael Caine",
+      "Ron Dean",
+      "Heath Ledger",
+      "Christian Bale"
+    ],
+    "answer": "Christian Bale",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This trope refers to minor characters that are killed off to show how a monster works.",
+    "options": [
+      "Minions",
+      "Expendables",
+      "Cannon Fodder",
+      "Red Shirt"
+    ],
+    "answer": "Red Shirt",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the first Indian movie submitted for an Oscar?",
+    "options": [
+      "1962",
+      "1938",
+      "1954",
+      "1957"
+    ],
+    "answer": "1957",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+    "options": [
+      "Thomas Jefferson Walker",
+      "George Washington Swanson",
+      "John Quincy Beckett",
+      "Benjamin Franklin Gates"
+    ],
+    "answer": "Benjamin Franklin Gates",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+    "options": [
+      "Smash Mouth",
+      "Oasis",
+      "Air Supply",
+      "Bryan Adams"
+    ],
+    "answer": "Bryan Adams",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mutated animals act as monsters in the movie &#039;Night of the Lepus&#039;?",
+    "options": [
+      "Dogs",
+      "Rats",
+      "Bats",
+      "Rabbits"
+    ],
+    "answer": "Rabbits",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+    "options": [
+      "Pete Townshend",
+      "Franc Roddam",
+      "Archie Bunker",
+      "Jimmy Cooper"
+    ],
+    "answer": "Jimmy Cooper",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+    "options": [
+      "Twin Iron Engine",
+      "Twin Intercepter Engine",
+      "Twin Inception Engine",
+      "Twin Ion Engine"
+    ],
+    "answer": "Twin Ion Engine",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+    "options": [
+      "$20,000",
+      "$1 Million",
+      "$10 Million",
+      "$6 Million"
+    ],
+    "answer": "$6 Million",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+    "options": [
+      "Tyler Mane",
+      "Derek Mears",
+      "Gunnar Hansen",
+      "Jackie Earle Haley"
+    ],
+    "answer": "Jackie Earle Haley",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+    "options": [
+      "Cocaine",
+      "Marijuana",
+      "Oxycodone",
+      "Heroin"
+    ],
+    "answer": "Heroin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "options": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?",
+    "options": [
+      " Spider-Man: Homecoming (2017)",
+      "The Incredible Hulk (2008)",
+      "Captain Marvel (2019)",
+      "Fantastic Four (2015)"
+    ],
+    "answer": "Fantastic Four (2015)",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+    "options": [
+      "Tyrannosaurus Rex",
+      "Velociraptor",
+      "Suchomimus",
+      "Baryonyx"
+    ],
+    "answer": "Baryonyx",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which 90&#039;s comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+    "options": [
+      "Bill &amp; Ted&#039;s Excellent Adventure",
+      "Dumb and Dumber",
+      "Austin Powers: International Man of Mystery",
+      "Wayne&#039;s World"
+    ],
+    "answer": "Wayne&#039;s World",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+    "options": [
+      "Superman",
+      "Iron Man",
+      "Spiderman",
+      "Batman"
+    ],
+    "answer": "Batman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is frozen at the end of the movie &quot;Goldeneye&quot;?",
+    "options": [
+      "James Bond",
+      "Natalya Simonova",
+      "Alec Travelyan",
+      "Boris Grishenko"
+    ],
+    "answer": "Boris Grishenko",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "options": [
+      "Ted",
+      "Spy Kids",
+      "Pirates of the Caribbean ",
+      "Harry Potter"
+    ],
+    "answer": "Harry Potter",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+    "options": [
+      "Tommy",
+      "Teddy",
+      "Toto",
+      "Terry"
+    ],
+    "answer": "Terry",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+    "options": [
+      "640 million USD",
+      "456 million USD",
+      "392 million USD",
+      "1.2 billion USD"
+    ],
+    "answer": "1.2 billion USD",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+    "options": [
+      "The Great Muppet Caper",
+      "The Muppet Christmas Carol",
+      "The Muppet Movie",
+      "The Muppets Take Manhattan"
+    ],
+    "answer": "The Muppets Take Manhattan",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+    "options": [
+      "Estelle",
+      "Jimmy",
+      "Henry",
+      "Akan"
+    ],
+    "answer": "Akan",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+    "options": [
+      "1992 Toyota Land Cruiser",
+      "1992 Jeep Wrangler YJ Sahar",
+      "Mercedes M-Class",
+      "1992 Ford Explorer XLT"
+    ],
+    "answer": "1992 Ford Explorer XLT",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+    "options": [
+      "Michael Keaton",
+      "Val Kilmer",
+      "Christian Bale",
+      "George Clooney"
+    ],
+    "answer": "George Clooney",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Johnny Depp made his big-screen acting debut in which film?",
+    "options": [
+      "My Bloody Valentine",
+      "Halloween",
+      "Friday the 13th",
+      "A Nightmare on Elm Street"
+    ],
+    "answer": "A Nightmare on Elm Street",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Humphrey Bogart&#039;s middle name?",
+    "options": [
+      "DeWinter",
+      "Steven",
+      "Bryce",
+      "DeForest"
+    ],
+    "answer": "DeForest",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "options": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional",
+      "Victoria"
+    ],
+    "answer": "Victoria",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+    "options": [
+      "Strider",
+      "Barliman Butterbur",
+      "Celeborn",
+      "Tom Bombadil"
+    ],
+    "answer": "Tom Bombadil",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+    "options": [
+      "The Island",
+      "Unthinkable",
+      "American Pie",
+      "Fight Club"
+    ],
+    "answer": "Fight Club",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Before getting the shotgun, what did the titular hobo in &#039;Hobo with a Shotgun&#039; want to purchase?",
+    "options": [
+      "a revolver",
+      "a guitar",
+      "a suit",
+      "a lawnmower"
+    ],
+    "answer": "a lawnmower",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+    "options": [
+      "Isla Sorna",
+      "Isla Muerta",
+      "Isla Pena",
+      "Isla Nublar"
+    ],
+    "answer": "Isla Nublar",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+    "options": [
+      "Self Evolving Thought Helix",
+      "Master Control Program",
+      "West Campus Analog Computer",
+      "War Operation Plan Response"
+    ],
+    "answer": "War Operation Plan Response",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the movie &quot;Police Academy&quot; released?",
+    "options": [
+      "1986",
+      "1985",
+      "1983",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+    "options": [
+      "Freddie Mills",
+      "Terry Spinks",
+      "Don Cockell",
+      "Bombardier Billy Wells"
+    ],
+    "answer": "Bombardier Billy Wells",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+    "options": [
+      "Carson",
+      "Jackson",
+      "Willy",
+      "Wilson"
+    ],
+    "answer": "Wilson",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+    "options": [
+      "Alfonso Cuar&oacute;n",
+      "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+      " Alejandro Jodorowsky",
+      "Guillermo Del Toro"
+    ],
+    "answer": "Guillermo Del Toro",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+    "options": [
+      "Macaulay Culkin",
+      "Mel Gibson",
+      "Mark Hamill",
+      "Corey Feldman"
+    ],
+    "answer": "Corey Feldman",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+    "options": [
+      "Golden Retriever",
+      "Dalmatian",
+      "Shiba Inu",
+      "Labrador Retriever"
+    ],
+    "answer": "Labrador Retriever",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was another suggested name for, the 1985 film, Back to the Future?",
+    "options": [
+      "Hill Valley Time Travelers",
+      "The Time Travelers",
+      "The Lucky Man",
+      "Spaceman From Pluto"
+    ],
+    "answer": "Spaceman From Pluto",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+    "options": [
+      "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+      "Yul Brynner, Steve McQueen, and Charles Bronson",
+      "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli",
+      "Clint Eastwood, Eli Wallach, and Lee Van Cleef"
+    ],
+    "answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+    "options": [
+      "Harrison Ford",
+      "Harvey Keitel",
+      "Martin Landau",
+      "Tommy Lee Jones"
+    ],
+    "answer": "Tommy Lee Jones",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+    "options": [
+      "Martin Scorcese",
+      "Steven Spielberg",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "answer": "Quentin Tarantino",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+    "options": [
+      "Charlie Sheen",
+      "Matt Damon",
+      "Johnny Depp",
+      "Willem Dafoe"
+    ],
+    "answer": "Willem Dafoe",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+    "options": [
+      "August 28, 2015",
+      "July 20, 2015",
+      "January 25, 2015",
+      "October 21, 2015"
+    ],
+    "answer": "October 21, 2015",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+    "options": [
+      "Ted Wiggins",
+      "The Once-Ler",
+      "Grammy Norma",
+      "Aloysius O&#039;Hare"
+    ],
+    "answer": "Aloysius O&#039;Hare",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+    "options": [
+      "North Dakota",
+      "South Dakota",
+      "Wisconsin",
+      "Minnesota"
+    ],
+    "answer": "Minnesota",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+    "options": [
+      "Jared Leto",
+      "Will Smith",
+      "Margot Robbie",
+      "Scarlett Johansson"
+    ],
+    "answer": "Scarlett Johansson",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+    "options": [
+      "The Girl with the Dragon Tattoo",
+      "Thor",
+      "The King&#039;s Speech",
+      "Jack and Jill"
+    ],
+    "answer": "Jack and Jill",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+    "options": [
+      "Mozart",
+      "Berlioz",
+      "Brahms",
+      "Verdi"
+    ],
+    "answer": "Verdi",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which DC superhero was NOT included in the 2017 movie &quot;Justice League&quot;?",
+    "options": [
+      "Batman",
+      "Cyborg",
+      "Wonder Woman",
+      "Green Arrow"
+    ],
+    "answer": "Green Arrow",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the main antagonist of Christopher Nolan&#039;s 2012 film &quot;The Dark Knight Rises&quot;?",
+    "options": [
+      "The Joker",
+      "CIA",
+      "The Riddler",
+      "Bane"
+    ],
+    "answer": "Bane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+    "options": [
+      "Sandy",
+      "Pearl",
+      "Shelly",
+      "Coral"
+    ],
+    "answer": "Coral",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+    "options": [
+      "Honey",
+      "Caramel",
+      "Candy",
+      "Sugar"
+    ],
+    "answer": "Sugar",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+    "options": [
+      "After Episode 6",
+      "Before Episode 1",
+      "Between Episode 4 and 5",
+      "Between Episode 3 and 4"
+    ],
+    "answer": "Between Episode 3 and 4",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+    "options": [
+      "Stanley Kubrick",
+      "Frank Darabont",
+      "Michael Bay",
+      "Jonathan Demme"
+    ],
+    "answer": "Jonathan Demme",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?",
+    "options": [
+      "Dr Frankenstein",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Count Dracula"
+    ],
+    "answer": "Count Dracula",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is frozen at the end of the movie &quot;Goldeneye&quot;?",
+    "options": [
+      "James Bond",
+      "Natalya Simonova",
+      "Alec Travelyan",
+      "Boris Grishenko"
+    ],
+    "answer": "Boris Grishenko",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+    "options": [
+      "Cyclops",
+      "Iceman",
+      "Daredevil",
+      "Human Torch"
+    ],
+    "answer": "Human Torch",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the first Transformers movie released?",
+    "options": [
+      "2007",
+      "1984",
+      "2009",
+      "1986"
+    ],
+    "answer": "1986",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Brendan Fraser starred in the following movies, except which one?",
+    "options": [
+      "Monkeybone",
+      "Encino Man",
+      "Mrs. Winterbourne",
+      "Titanic"
+    ],
+    "answer": "Titanic",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+    "options": [
+      "Kent Mansley",
+      "Dean McCoppin",
+      "Annie Hughes",
+      "Hogarth Hughes"
+    ],
+    "answer": "Hogarth Hughes",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+    "options": [
+      "Carson",
+      "Jackson",
+      "Willy",
+      "Wilson"
+    ],
+    "answer": "Wilson",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+    "options": [
+      "Dye",
+      "Paint",
+      "CGI Effect",
+      "Gelatin"
+    ],
+    "answer": "Gelatin",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "options": [
+      "Reservoir Dogs",
+      "Heat",
+      "Goodfellas",
+      "Scarface"
+    ],
+    "answer": "Scarface",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+    "options": [
+      "Ned Stark",
+      "Jim Kane",
+      "Frank Stark",
+      "Jim Stark"
+    ],
+    "answer": "Jim Stark",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+    "options": [
+      "Jessica Chastain",
+      "Melissa Beckett",
+      "Alyssa Monroe ",
+      "Sigourney Weaver"
+    ],
+    "answer": "Sigourney Weaver",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+    "options": [
+      "Hop",
+      "Rise of the Guardians",
+      "Alice in Wonderland",
+      "My Neighbor Totoro"
+    ],
+    "answer": "My Neighbor Totoro",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+    "options": [
+      "John",
+      "Will",
+      "Carl",
+      "Dave"
+    ],
+    "answer": "Dave",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+    "options": [
+      "Scotland the Brave",
+      "Colonel Bogey March",
+      "The British Grenadiers",
+      "Men of Harlech"
+    ],
+    "answer": "Men of Harlech",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+    "options": [
+      "The Island",
+      "Unthinkable",
+      "American Pie",
+      "Fight Club"
+    ],
+    "answer": "Fight Club",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+    "options": [
+      "Strawberry Ice Cream",
+      "Cherry Yogurt",
+      "Raspberry Sorbet",
+      "Custard and Raspberry Sauce"
+    ],
+    "answer": "Custard and Raspberry Sauce",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Mulan (1998), who is the leader of the Huns?",
+    "options": [
+      "Chien-Po",
+      "Li Shang",
+      "Fa Zhou",
+      "Shan Yu"
+    ],
+    "answer": "Shan Yu",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+    "options": [
+      "He was punched in the face",
+      "He got mugged",
+      "He needed money",
+      "His puppy is killed and his car was stolen"
+    ],
+    "answer": "His puppy is killed and his car was stolen",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what year was the first Indian movie submitted for an Oscar?",
+    "options": [
+      "1962",
+      "1938",
+      "1954",
+      "1957"
+    ],
+    "answer": "1957",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the original Friday The 13th movie take place?",
+    "options": [
+      "Packanack",
+      "Higgins Haven",
+      "Camp Forest Green",
+      "Camp Crystal Lake"
+    ],
+    "answer": "Camp Crystal Lake",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+    "options": [
+      "The Right Stuff",
+      "Capricorn One",
+      "Marooned",
+      "Apollo 13"
+    ],
+    "answer": "Apollo 13",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which film has been critically regarded as the best film of all time?",
+    "options": [
+      "Avatar",
+      "The Godfather Part II",
+      "The Room",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+    "options": [
+      "Runaway",
+      "Android",
+      "The Terminators",
+      "Westworld"
+    ],
+    "answer": "Westworld",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+    "options": [
+      "BB-3",
+      "AA-A",
+      "R2-D2",
+      "BB-8"
+    ],
+    "answer": "BB-8",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+    "options": [
+      "Tigger",
+      "Heffalumps",
+      "Rabbit",
+      "Gopher"
+    ],
+    "answer": "Gopher",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following movies was not based on a book?",
+    "options": [
+      "The Godfather",
+      "Forrest Gump",
+      "Jurassic Park",
+      "Citizen Kane"
+    ],
+    "answer": "Citizen Kane",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+    "options": [
+      "Ron Howard",
+      "Francis Ford Coppola",
+      "Steven Spielberg",
+      "George Lucas"
+    ],
+    "answer": "George Lucas",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+    "options": [
+      "Jackie Brown",
+      "Pulp Fiction",
+      "Reservoir Dogs",
+      "From Dusk till Dawn"
+    ],
+    "answer": "From Dusk till Dawn",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+    "options": [
+      "Alan Wake",
+      "Hitman",
+      "God Of War",
+      "Max Payne"
+    ],
+    "answer": "Max Payne",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+    "options": [
+      "77 mph",
+      "100 mph",
+      "70 mph",
+      "88 mph"
+    ],
+    "answer": "88 mph",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie sequel had improved box office results compared to its original film?",
+    "options": [
+      "Sin City: A Dame to Kill For",
+      "Speed 2: Cruise Control",
+      "Son of the Mask",
+      "Toy Story 2"
+    ],
+    "answer": "Toy Story 2",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who plays the Nemesis in the Resident Evil movies?",
+    "options": [
+      "Jason Dip",
+      "Eric Mabius",
+      "Jimmy Matts",
+      "Matthew Taylor"
+    ],
+    "answer": "Matthew Taylor",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+    "options": [
+      "Michael Keaton",
+      "Val Kilmer",
+      "Christian Bale",
+      "George Clooney"
+    ],
+    "answer": "George Clooney",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which movie released in 2016 features Superman and Batman fighting?",
+    "options": [
+      "Batman v Superman: Superapocalypse",
+      "Batman v Superman: Black of Knight",
+      "Batman v Superman: Knightfall",
+      "Batman v Superman: Dawn of Justice"
+    ],
+    "answer": "Batman v Superman: Dawn of Justice",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+    "options": [
+      "640 million USD",
+      "456 million USD",
+      "392 million USD",
+      "1.2 billion USD"
+    ],
+    "answer": "1.2 billion USD",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+    "options": [
+      "1996",
+      "1998",
+      "1999",
+      "1997"
+    ],
+    "answer": "1997",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+    "options": [
+      "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
+      "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
+      "&quot;Round up the usual suspects.&quot;",
+      "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;"
+    ],
+    "answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+    "options": [
+      "August 28, 2015",
+      "July 20, 2015",
+      "January 25, 2015",
+      "October 21, 2015"
+    ],
+    "answer": "October 21, 2015",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+    "options": [
+      "Thomas Jefferson Walker",
+      "George Washington Swanson",
+      "John Quincy Beckett",
+      "Benjamin Franklin Gates"
+    ],
+    "answer": "Benjamin Franklin Gates",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these films did David Lynch direct, but not write?",
+    "options": [
+      "Inland Empire",
+      "Lost Highway",
+      "Twin Peaks Fire Walk With Me",
+      "The Straight Story"
+    ],
+    "answer": "The Straight Story",
+    "category": "Film",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the protagonist in the movie Commando (1985)?",
+    "options": [
+      "Ben Richards",
+      "Douglas Quaid",
+      "Harry Tasker",
+      "John Matrix"
+    ],
+    "answer": "John Matrix",
+    "category": "Film",
+    "source": "OpenTDB"
+  }
+]

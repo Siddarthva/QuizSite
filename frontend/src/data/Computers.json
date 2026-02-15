@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "This mobile OS held the largest market share in 2012.",
+    "options": [
+      "Android",
+      "BlackBerry",
+      "Symbian",
+      "iOS"
+    ],
+    "answer": "iOS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+    "options": [
+      "Super Dense Coding",
+      "Quantum Entanglement",
+      "Quantum Programming",
+      "Quantum Teleportation"
+    ],
+    "answer": "Quantum Teleportation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "options": [
+      "static",
+      "absolute",
+      "relative",
+      "center"
+    ],
+    "answer": "center",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In networking, what does OSPF stand for?",
+    "options": [
+      "Order State Part First",
+      "Order Sense Ping Find",
+      "Open Signal Path Finder",
+      "Open Shortest Path First"
+    ],
+    "answer": "Open Shortest Path First",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately how many Apple I personal computers were created?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "200"
+    ],
+    "answer": "200",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is an IPv6 address?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bytes",
+      "128 bits"
+    ],
+    "answer": "128 bits",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "options": [
+      "Four Years",
+      "Two Years",
+      "Eight Years",
+      "Year"
+    ],
+    "answer": "Year",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In any programming language, what is the most common way to iterate through an array?",
+    "options": [
+      "&#039;If&#039; Statements",
+      "&#039;Do-while&#039; loops",
+      "&#039;While&#039; loops",
+      "&#039;For&#039; loops"
+    ],
+    "answer": "&#039;For&#039; loops",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which data structure does FILO apply to?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Tree",
+      "Stack"
+    ],
+    "answer": "Stack",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+    "options": [
+      "Region 1",
+      "Region 2",
+      "Region 4",
+      "Region 3"
+    ],
+    "answer": "Region 3",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+    "options": [
+      "1999",
+      "2002",
+      "2008",
+      "2005"
+    ],
+    "answer": "2005",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which computer hardware device is the BIOS chip located?",
+    "options": [
+      "Hard Disk Drive",
+      "Central Processing Unit",
+      "Graphics Processing Unit",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+    "options": [
+      "Zilog Z80",
+      "Yamaha YM2612",
+      "Intel 8088",
+      "Motorola 68000"
+    ],
+    "answer": "Motorola 68000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first commerically available computer processor?",
+    "options": [
+      "Intel 486SX",
+      "TMS 1000",
+      "AMD AM386",
+      "Intel 4004"
+    ],
+    "answer": "Intel 4004",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+    "options": [
+      "Cherry MX Black",
+      "Cherry MX Red",
+      "Cherry MX Brown",
+      "Cherry MX Blue"
+    ],
+    "answer": "Cherry MX Blue",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+    "options": [
+      "Sinclair Research",
+      "Amstrad PLC",
+      "Commodore Business Machines",
+      "Acorn Computers"
+    ],
+    "answer": "Acorn Computers",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+    "options": [
+      "Static",
+      "Private",
+      "Public",
+      "Final"
+    ],
+    "answer": "Final",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+    "options": [
+      "Paul Vixie",
+      "Vint Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ],
+    "answer": "Radia Perlman",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+    "options": [
+      "Azul",
+      "Red moon desert",
+      "Tulips",
+      "Bliss"
+    ],
+    "answer": "Bliss",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "options": [
+      "Address",
+      "Data",
+      "Control",
+      "Instruction"
+    ],
+    "answer": "Instruction",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &quot;MP&quot; stand for in MP3?",
+    "options": [
+      "Music Player",
+      "Multi Pass",
+      "Micro Point",
+      "Moving Picture"
+    ],
+    "answer": "Moving Picture",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The teapot often seen in many 3D modeling applications is called what?",
+    "options": [
+      "Pixar Teapot",
+      "3D Teapot",
+      "Tennessee Teapot",
+      "Utah Teapot"
+    ],
+    "answer": "Utah Teapot",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "options": [
+      "512",
+      "1024",
+      "500",
+      "1000"
+    ],
+    "answer": "1000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing terms, typically what does CLI stand for?",
+    "options": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface",
+      "Command Line Interface"
+    ],
+    "answer": "Command Line Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a key value of Agile software development?",
+    "options": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change",
+      "Comprehensive documentation"
+    ],
+    "answer": "Comprehensive documentation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which SQL keyword is used to fetch data from a database?",
+    "options": [
+      "INDEX",
+      "VALUES",
+      "EXEC",
+      "SELECT"
+    ],
+    "answer": "SELECT",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does MIDI stand for?",
+    "options": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface",
+      "Musical Instrument Digital Interface"
+    ],
+    "answer": "Musical Instrument Digital Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "options": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
+    ],
+    "answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "options": [
+      "Impact printer",
+      "Daisywheel printer",
+      "Dot matrix printer",
+      "Non-impact printer"
+    ],
+    "answer": "Non-impact printer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+    "options": [
+      "eBay",
+      "Overstock",
+      "Shopify",
+      "Amazon"
+    ],
+    "answer": "Amazon",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a layer in the OSI model for data communications?",
+    "options": [
+      "Application Layer",
+      "Transport Layer",
+      "Physical Layer",
+      "Connection Layer"
+    ],
+    "answer": "Connection Layer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+    "options": [
+      "Stencyl",
+      "Construct",
+      "Torque 2D",
+      "Game Maker"
+    ],
+    "answer": "Game Maker",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the number of keys on a standard Windows Keyboard?",
+    "options": [
+      "64",
+      "94",
+      "76",
+      "104"
+    ],
+    "answer": "104",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many bits make up the significand portion of a single precision floating point number?",
+    "options": [
+      "8",
+      "53",
+      "15",
+      "23"
+    ],
+    "answer": "23",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the domain name for the country Tuvalu?",
+    "options": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ],
+    "answer": ".tv",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "options": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ],
+    "answer": "10 Gb/s",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many cores does the Intel i7-6950X have?",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "10"
+    ],
+    "answer": "10",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+    "options": [
+      "FM Synthesizer",
+      "Programmable Sound Generator (PSG)",
+      "PCM Sampler",
+      "ADPCM Sampler"
+    ],
+    "answer": "ADPCM Sampler",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The acronym &quot;RIP&quot; stands for which of these?",
+    "options": [
+      "Runtime Instance Processes",
+      "Regular Interval Processes",
+      "Routine Inspection Protocol",
+      "Routing Information Protocol"
+    ],
+    "answer": "Routing Information Protocol",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processor Unit",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these people was NOT a founder of Apple Inc?",
+    "options": [
+      "Steve Jobs",
+      "Ronald Wayne",
+      "Steve Wozniak",
+      "Jonathan Ive"
+    ],
+    "answer": "Jonathan Ive",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+    "options": [
+      "Secure",
+      "Schottky",
+      "Stable",
+      "Shamir"
+    ],
+    "answer": "Shamir",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+    "options": [
+      "Hashing algorithm",
+      "Asymmetric encryption",
+      "Stream cipher",
+      "Secret sharing scheme"
+    ],
+    "answer": "Secret sharing scheme",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which operating system was released first?",
+    "options": [
+      "Windows",
+      "Linux",
+      "OS/2",
+      "Mac OS"
+    ],
+    "answer": "Mac OS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "options": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ],
+    "answer": "Windows XP",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+    "options": [
+      "Palo Alto",
+      "Cupertino",
+      "Mountain View",
+      "Santa Clara"
+    ],
+    "answer": "Santa Clara",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the oldest of these computers by release date?",
+    "options": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Apple 3",
+      "TRS-80"
+    ],
+    "answer": "TRS-80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+    "options": [
+      "Dollar Sign",
+      "Percent Sign",
+      "Asterisk",
+      "Exclamation Mark"
+    ],
+    "answer": "Exclamation Mark",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer language would you associate Django framework with?",
+    "options": [
+      "C#",
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which SQL keyword is used to fetch data from a database?",
+    "options": [
+      "INDEX",
+      "VALUES",
+      "EXEC",
+      "SELECT"
+    ],
+    "answer": "SELECT",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the acronym CDN stand for in terms of networking?",
+    "options": [
+      "Content Distribution Network",
+      "Computational Data Network",
+      "Compressed Data Network",
+      "Content Delivery Network"
+    ],
+    "answer": "Content Delivery Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "options": [
+      "Enigma Machine",
+      "Skipjack",
+      "Nautilus",
+      "Clipper Chip"
+    ],
+    "answer": "Clipper Chip",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "options": [
+      "512",
+      "1024",
+      "500",
+      "1000"
+    ],
+    "answer": "1000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+    "options": [
+      "Region 1",
+      "Region 2",
+      "Region 4",
+      "Region 3"
+    ],
+    "answer": "Region 3",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which computer hardware device is the BIOS chip located?",
+    "options": [
+      "Hard Disk Drive",
+      "Central Processing Unit",
+      "Graphics Processing Unit",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which RAID array type is associated with data mirroring?",
+    "options": [
+      "RAID 0",
+      "RAID 10",
+      "RAID 5",
+      "RAID 1"
+    ],
+    "answer": "RAID 1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does AD stand for in relation to Windows Operating Systems? ",
+    "options": [
+      "Alternative Drive",
+      "Automated Database",
+      "Active Department",
+      "Active Directory"
+    ],
+    "answer": "Active Directory",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+    "options": [
+      "32.0 kHz",
+      "1.5 MHz",
+      "20.5 kHz",
+      "44.1 kHz"
+    ],
+    "answer": "44.1 kHz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Windows OS was delevoped by which company?",
+    "options": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Microsoft"
+    ],
+    "answer": "Microsoft",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+    "options": [
+      "C#",
+      "Python",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "JavaScript",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+    "options": [
+      "Binary",
+      "Duodecimal",
+      "Octal",
+      "Hexidecimal"
+    ],
+    "answer": "Hexidecimal",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+    "options": [
+      "Midnight, July 4, 1976",
+      "Midnight on the creator of Unix&#039;s birthday",
+      "Midnight, July 4, 1980",
+      "Midnight, January 1, 1970"
+    ],
+    "answer": "Midnight, January 1, 1970",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The name of technology company HP stands for what?",
+    "options": [
+      "Howard Packmann",
+      "Husker-Pollosk",
+      "Hellman-Pohl",
+      "Hewlett-Packard"
+    ],
+    "answer": "Hewlett-Packard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+    "options": [
+      "Shellshock",
+      "Corrupted Blood",
+      "Shellscript",
+      "Heartbleed"
+    ],
+    "answer": "Heartbleed",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Bitcoin&#039;s block size limit in 2010?",
+    "options": [
+      "1GB",
+      "1 KB",
+      "1 TB",
+      "1 MB"
+    ],
+    "answer": "1 MB",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "options": [
+      "Motherboard",
+      "Graphics Processing Unit",
+      "Keyboard",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "options": [
+      "Four Years",
+      "Two Years",
+      "Eight Years",
+      "Year"
+    ],
+    "answer": "Year",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+    "options": [
+      "Washington",
+      "Colorado",
+      "Arizona",
+      "New Mexico"
+    ],
+    "answer": "New Mexico",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "options": [
+      "Central Processing Unit",
+      "Hard Disk Drive",
+      "Random Access Memory",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following computer components can be built using only NAND gates?",
+    "options": [
+      "CPU",
+      "RAM",
+      "Register",
+      "ALU"
+    ],
+    "answer": "ALU",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+    "options": [
+      "1999",
+      "2002",
+      "2008",
+      "2005"
+    ],
+    "answer": "2005",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "options": [
+      "Impact printer",
+      "Daisywheel printer",
+      "Dot matrix printer",
+      "Non-impact printer"
+    ],
+    "answer": "Non-impact printer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The teapot often seen in many 3D modeling applications is called what?",
+    "options": [
+      "Pixar Teapot",
+      "3D Teapot",
+      "Tennessee Teapot",
+      "Utah Teapot"
+    ],
+    "answer": "Utah Teapot",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The acronym &quot;RIP&quot; stands for which of these?",
+    "options": [
+      "Runtime Instance Processes",
+      "Regular Interval Processes",
+      "Routine Inspection Protocol",
+      "Routing Information Protocol"
+    ],
+    "answer": "Routing Information Protocol",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What programming language was GitHub written in?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Lua",
+      "Ruby"
+    ],
+    "answer": "Ruby",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+    "options": [
+      "FM Synthesizer",
+      "Programmable Sound Generator (PSG)",
+      "PCM Sampler",
+      "ADPCM Sampler"
+    ],
+    "answer": "ADPCM Sampler",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "options": [
+      "Click",
+      "Logic",
+      "Pixel",
+      "Think"
+    ],
+    "answer": "Think",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which operating system was released first?",
+    "options": [
+      "Windows",
+      "Linux",
+      "OS/2",
+      "Mac OS"
+    ],
+    "answer": "Mac OS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first commerically available computer processor?",
+    "options": [
+      "Intel 486SX",
+      "TMS 1000",
+      "AMD AM386",
+      "Intel 4004"
+    ],
+    "answer": "Intel 4004",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+    "options": [
+      "Paul Vixie",
+      "Vint Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ],
+    "answer": "Radia Perlman",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which programming language was developed by Sun Microsystems in 1995?",
+    "options": [
+      "Python",
+      "Solaris OS",
+      "C++",
+      "Java"
+    ],
+    "answer": "Java",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the default theme that is installed with Windows XP?",
+    "options": [
+      "Neptune",
+      "Whistler",
+      "Bliss",
+      "Luna"
+    ],
+    "answer": "Luna",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+    "options": [
+      "Hashing algorithm",
+      "Asymmetric encryption",
+      "Stream cipher",
+      "Secret sharing scheme"
+    ],
+    "answer": "Secret sharing scheme",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the domain name for the country Tuvalu?",
+    "options": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ],
+    "answer": ".tv",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What amount of bits commonly equals one byte?",
+    "options": [
+      "1",
+      "2",
+      "64",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "HTML is what type of language?",
+    "options": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language",
+      "Markup Language"
+    ],
+    "answer": "Markup Language",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+    "options": [
+      "A&#039;B + B&#039;A",
+      "A&#039;B&#039;",
+      "AB&#039; + AB",
+      "A&#039; + B&#039;"
+    ],
+    "answer": "A&#039; + B&#039;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When was the programming language &quot;C#&quot; released?",
+    "options": [
+      "1998",
+      "1999",
+      "2001",
+      "2000"
+    ],
+    "answer": "2000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does LAN stand for?",
+    "options": [
+      "Long Antenna Node",
+      "Light Access Node",
+      "Land Address Navigation",
+      "Local Area Network"
+    ],
+    "answer": "Local Area Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In networking, what does OSPF stand for?",
+    "options": [
+      "Order State Part First",
+      "Order Sense Ping Find",
+      "Open Signal Path Finder",
+      "Open Shortest Path First"
+    ],
+    "answer": "Open Shortest Path First",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "options": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
+    ],
+    "answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these programming languages is a low-level language?",
+    "options": [
+      "Python",
+      "C#",
+      "Pascal",
+      "Assembly"
+    ],
+    "answer": "Assembly",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "options": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ],
+    "answer": "Windows XP",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What port does HTTP run on?",
+    "options": [
+      "53",
+      "443",
+      "23",
+      "80"
+    ],
+    "answer": "80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first Android version specifically optimized for tablets?",
+    "options": [
+      "Eclair",
+      "Froyo",
+      "Marshmellow",
+      "Honeycomb"
+    ],
+    "answer": "Honeycomb",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "options": [
+      "Click",
+      "Logic",
+      "Pixel",
+      "Think"
+    ],
+    "answer": "Think",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+    "options": [
+      "United States",
+      "Germany",
+      "China (People&#039;s Republic of)",
+      "Taiwan"
+    ],
+    "answer": "Taiwan",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "options": [
+      "Central Processing Unit",
+      "Hard Disk Drive",
+      "Random Access Memory",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+    "options": [
+      "Dollar Sign",
+      "Percent Sign",
+      "Asterisk",
+      "Exclamation Mark"
+    ],
+    "answer": "Exclamation Mark",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Windows OS was delevoped by which company?",
+    "options": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Microsoft"
+    ],
+    "answer": "Microsoft",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the default theme that is installed with Windows XP?",
+    "options": [
+      "Neptune",
+      "Whistler",
+      "Bliss",
+      "Luna"
+    ],
+    "answer": "Luna",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "options": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ],
+    "answer": "Windows XP",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer language would you associate Django framework with?",
+    "options": [
+      "C#",
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "options": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ],
+    "answer": "10 Gb/s",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the International System of Quantities refer 1024 bytes as?",
+    "options": [
+      "Kylobyte",
+      "Kilobyte",
+      "Kelobyte",
+      "Kibibyte"
+    ],
+    "answer": "Kibibyte",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "options": [
+      "1024",
+      "1000",
+      "1048576",
+      "1000000"
+    ],
+    "answer": "1000000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately how many Apple I personal computers were created?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "200"
+    ],
+    "answer": "200",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "options": [
+      "512",
+      "1024",
+      "500",
+      "1000"
+    ],
+    "answer": "1000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+    "options": [
+      "Broken Authentication",
+      "Cross-Site Scripting",
+      "Insecure Direct Object References",
+      "Injection "
+    ],
+    "answer": "Injection ",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "options": [
+      "HD Graphics 700 ",
+      "HD Graphics 600",
+      "HD Graphics 7000",
+      "HD Graphics 500"
+    ],
+    "answer": "HD Graphics 500",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which RAID array type is associated with data mirroring?",
+    "options": [
+      "RAID 0",
+      "RAID 10",
+      "RAID 5",
+      "RAID 1"
+    ],
+    "answer": "RAID 1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "America Online (AOL) started out as which of these online service providers?",
+    "options": [
+      "CompuServe",
+      "Prodigy",
+      "GEnie",
+      "Quantum Link"
+    ],
+    "answer": "Quantum Link",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+    "options": [
+      "C#",
+      "Python",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "JavaScript",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many values can a single byte represent?",
+    "options": [
+      "8",
+      "1",
+      "1024",
+      "256"
+    ],
+    "answer": "256",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+    "options": [
+      "32.0 kHz",
+      "1.5 MHz",
+      "20.5 kHz",
+      "44.1 kHz"
+    ],
+    "answer": "44.1 kHz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+    "options": [
+      "Azul",
+      "Red moon desert",
+      "Tulips",
+      "Bliss"
+    ],
+    "answer": "Bliss",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name given to Android 4.3?",
+    "options": [
+      "Lollipop",
+      "Nutella",
+      "Froyo",
+      "Jelly Bean"
+    ],
+    "answer": "Jelly Bean",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Hz does the video standard PAL support?",
+    "options": [
+      "59",
+      "60",
+      "25",
+      "50"
+    ],
+    "answer": "50",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the security vulnerability found in Bash in 2014?",
+    "options": [
+      "Heartbleed",
+      "Bashbug",
+      "Stagefright",
+      "Shellshock"
+    ],
+    "answer": "Shellshock",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+    "options": [
+      "Stencyl",
+      "Construct",
+      "Torque 2D",
+      "Game Maker"
+    ],
+    "answer": "Game Maker",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On Twitter, what was the original character limit for a Tweet?",
+    "options": [
+      "120",
+      "160",
+      "100",
+      "140"
+    ],
+    "answer": "140",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a computer science algorithm?",
+    "options": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "Float Sort"
+    ],
+    "answer": "Float Sort",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The name of technology company HP stands for what?",
+    "options": [
+      "Howard Packmann",
+      "Husker-Pollosk",
+      "Hellman-Pohl",
+      "Hewlett-Packard"
+    ],
+    "answer": "Hewlett-Packard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the founder of Palantir?",
+    "options": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Peter Thiel"
+    ],
+    "answer": "Peter Thiel",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which day did the World Wide Web go online?",
+    "options": [
+      "December 17, 1996",
+      "November 12, 1990",
+      "November 24, 1995",
+      "December 20, 1990"
+    ],
+    "answer": "December 20, 1990",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which operating system was released first?",
+    "options": [
+      "Windows",
+      "Linux",
+      "OS/2",
+      "Mac OS"
+    ],
+    "answer": "Mac OS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the computer software acronym JVM stand for?",
+    "options": [
+      "Java Vendor Machine",
+      "Java Visual Machine",
+      "Just Virtual Machine",
+      "Java Virtual Machine"
+    ],
+    "answer": "Java Virtual Machine",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Google",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processor Unit",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+    "options": [
+      "Super Dense Coding",
+      "Quantum Entanglement",
+      "Quantum Programming",
+      "Quantum Teleportation"
+    ],
+    "answer": "Quantum Teleportation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these programming languages is a low-level language?",
+    "options": [
+      "Python",
+      "C#",
+      "Pascal",
+      "Assembly"
+    ],
+    "answer": "Assembly",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a key value of Agile software development?",
+    "options": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change",
+      "Comprehensive documentation"
+    ],
+    "answer": "Comprehensive documentation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+    "options": [
+      "CPU Vent",
+      "Temperature Decipator",
+      "Heat Vent",
+      "Heat Sink"
+    ],
+    "answer": "Heat Sink",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does LAN stand for?",
+    "options": [
+      "Long Antenna Node",
+      "Light Access Node",
+      "Land Address Navigation",
+      "Local Area Network"
+    ],
+    "answer": "Local Area Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What amount of bits commonly equals one byte?",
+    "options": [
+      "1",
+      "2",
+      "64",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+    "options": [
+      "Fiji",
+      "Tuvalu",
+      "Marshall Islands",
+      "Micronesia"
+    ],
+    "answer": "Micronesia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This mobile OS held the largest market share in 2012.",
+    "options": [
+      "Android",
+      "BlackBerry",
+      "Symbian",
+      "iOS"
+    ],
+    "answer": "iOS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+    "options": [
+      "Java",
+      "C++",
+      "Objective-C",
+      "C#"
+    ],
+    "answer": "C#",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+    "options": [
+      "Static",
+      "Private",
+      "Public",
+      "Final"
+    ],
+    "answer": "Final",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the acronym CDN stand for in terms of networking?",
+    "options": [
+      "Content Distribution Network",
+      "Computational Data Network",
+      "Compressed Data Network",
+      "Content Delivery Network"
+    ],
+    "answer": "Content Delivery Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the domain name for the country Tuvalu?",
+    "options": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ],
+    "answer": ".tv",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Green",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the first Bulgarian personal computer?",
+    "options": [
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030",
+      "IMKO-1"
+    ],
+    "answer": "IMKO-1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In programming, what do you call functions with the same name but different implementations?",
+    "options": [
+      "Overriding",
+      "Abstracting",
+      "Inheriting",
+      "Overloading"
+    ],
+    "answer": "Overloading",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the Prt Sc button do?",
+    "options": [
+      "Nothing",
+      "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+      "Closes all windows",
+      "Captures what&#039;s on the screen and copies it to your clipboard"
+    ],
+    "answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+    "options": [
+      "32.0 kHz",
+      "1.5 MHz",
+      "20.5 kHz",
+      "44.1 kHz"
+    ],
+    "answer": "44.1 kHz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "options": [
+      "Impact printer",
+      "Daisywheel printer",
+      "Dot matrix printer",
+      "Non-impact printer"
+    ],
+    "answer": "Non-impact printer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In web design, what does CSS stand for?",
+    "options": [
+      "Counter Strike: Source",
+      "Corrective Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
+    ],
+    "answer": "Cascading Style Sheet",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which SQL keyword is used to fetch data from a database?",
+    "options": [
+      "INDEX",
+      "VALUES",
+      "EXEC",
+      "SELECT"
+    ],
+    "answer": "SELECT",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing terms, typically what does CLI stand for?",
+    "options": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface",
+      "Command Line Interface"
+    ],
+    "answer": "Command Line Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+    "options": [
+      "Dollar Sign",
+      "Percent Sign",
+      "Asterisk",
+      "Exclamation Mark"
+    ],
+    "answer": "Exclamation Mark",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the code name for the mobile operating system Android 7.0?",
+    "options": [
+      "Ice Cream Sandwich",
+      "Jelly Bean",
+      "Marshmallow",
+      "Nougat"
+    ],
+    "answer": "Nougat",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "options": [
+      "HD Graphics 700 ",
+      "HD Graphics 600",
+      "HD Graphics 7000",
+      "HD Graphics 500"
+    ],
+    "answer": "HD Graphics 500",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "options": [
+      "512",
+      "1024",
+      "500",
+      "1000"
+    ],
+    "answer": "1000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which RAID array type is associated with data mirroring?",
+    "options": [
+      "RAID 0",
+      "RAID 10",
+      "RAID 5",
+      "RAID 1"
+    ],
+    "answer": "RAID 1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": ".rs is the top-level domain for what country?",
+    "options": [
+      "Romania",
+      "Russia",
+      "Rwanda",
+      "Serbia"
+    ],
+    "answer": "Serbia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "options": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ],
+    "answer": "10 Gb/s",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the server hosting industry IaaS stands for...",
+    "options": [
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server",
+      "Infrastructure as a Service"
+    ],
+    "answer": "Infrastructure as a Service",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The name of technology company HP stands for what?",
+    "options": [
+      "Howard Packmann",
+      "Husker-Pollosk",
+      "Hellman-Pohl",
+      "Hewlett-Packard"
+    ],
+    "answer": "Hewlett-Packard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "options": [
+      "Central Processing Unit",
+      "Hard Disk Drive",
+      "Random Access Memory",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many bits make up the significand portion of a single precision floating point number?",
+    "options": [
+      "8",
+      "53",
+      "15",
+      "23"
+    ],
+    "answer": "23",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Python",
+      "Binary"
+    ],
+    "answer": "Binary",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+    "options": [
+      "Fiji",
+      "Tuvalu",
+      "Marshall Islands",
+      "Micronesia"
+    ],
+    "answer": "Micronesia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+    "options": [
+      "Session",
+      "Data link",
+      "Network",
+      "Transport"
+    ],
+    "answer": "Transport",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Google",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a layer in the OSI model for data communications?",
+    "options": [
+      "Application Layer",
+      "Transport Layer",
+      "Physical Layer",
+      "Connection Layer"
+    ],
+    "answer": "Connection Layer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "HTML is what type of language?",
+    "options": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language",
+      "Markup Language"
+    ],
+    "answer": "Markup Language",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the security vulnerability found in Bash in 2014?",
+    "options": [
+      "Heartbleed",
+      "Bashbug",
+      "Stagefright",
+      "Shellshock"
+    ],
+    "answer": "Shellshock",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+    "options": [
+      "Hashing algorithm",
+      "Asymmetric encryption",
+      "Stream cipher",
+      "Secret sharing scheme"
+    ],
+    "answer": "Secret sharing scheme",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these people was NOT a founder of Apple Inc?",
+    "options": [
+      "Steve Jobs",
+      "Ronald Wayne",
+      "Steve Wozniak",
+      "Jonathan Ive"
+    ],
+    "answer": "Jonathan Ive",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "options": [
+      "Microsoft",
+      "Atari",
+      "Commodore",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does GHz stand for?",
+    "options": [
+      "Gigahotz",
+      "Gigahetz",
+      "Gigahatz",
+      "Gigahertz"
+    ],
+    "answer": "Gigahertz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does LAN stand for?",
+    "options": [
+      "Long Antenna Node",
+      "Light Access Node",
+      "Land Address Navigation",
+      "Local Area Network"
+    ],
+    "answer": "Local Area Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "options": [
+      "Motherboard",
+      "Graphics Processing Unit",
+      "Keyboard",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+    "options": [
+      "A&#039;B + B&#039;A",
+      "A&#039;B&#039;",
+      "AB&#039; + AB",
+      "A&#039; + B&#039;"
+    ],
+    "answer": "A&#039; + B&#039;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+    "options": [
+      "Secure",
+      "Schottky",
+      "Stable",
+      "Shamir"
+    ],
+    "answer": "Shamir",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Hz does the video standard PAL support?",
+    "options": [
+      "59",
+      "60",
+      "25",
+      "50"
+    ],
+    "answer": "50",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term GPU stand for?",
+    "options": [
+      "Gaming Processor Unit",
+      "Graphite Producing Unit",
+      "Graphical Proprietary Unit",
+      "Graphics Processing Unit"
+    ],
+    "answer": "Graphics Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately how many Apple I personal computers were created?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "200"
+    ],
+    "answer": "200",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+    "options": [
+      "Region 1",
+      "Region 2",
+      "Region 4",
+      "Region 3"
+    ],
+    "answer": "Region 3",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+    "options": [
+      "FM Synthesizer",
+      "Programmable Sound Generator (PSG)",
+      "PCM Sampler",
+      "ADPCM Sampler"
+    ],
+    "answer": "ADPCM Sampler",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Generally, which component of a computer draws the most power?",
+    "options": [
+      "Hard Drive",
+      "Processor",
+      "Power Supply",
+      "Video Card"
+    ],
+    "answer": "Video Card",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which operating system was released first?",
+    "options": [
+      "Windows",
+      "Linux",
+      "OS/2",
+      "Mac OS"
+    ],
+    "answer": "Mac OS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+    "options": [
+      "Zilog Z80",
+      "Yamaha YM2612",
+      "Intel 8088",
+      "Motorola 68000"
+    ],
+    "answer": "Motorola 68000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the founder of Palantir?",
+    "options": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Peter Thiel"
+    ],
+    "answer": "Peter Thiel",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+    "options": [
+      "Palo Alto",
+      "Cupertino",
+      "Mountain View",
+      "Santa Clara"
+    ],
+    "answer": "Santa Clara",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+    "options": [
+      "The Only Router",
+      "The Orange Router",
+      "The Ominous Router",
+      "The Onion Router"
+    ],
+    "answer": "The Onion Router",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does LTS stand for in the software market?",
+    "options": [
+      "Long Taco Service",
+      "Ludicrous Transfer Speed",
+      "Ludicrous Turbo Speed",
+      "Long Term Support"
+    ],
+    "answer": "Long Term Support",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which programming language shares its name with an island in Indonesia?",
+    "options": [
+      "Python",
+      "C",
+      "Jakarta",
+      "Java"
+    ],
+    "answer": "Java",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+    "options": [
+      "console.log(&quot;Hello World&quot;)",
+      "echo &quot;Hello World&quot;",
+      "printf(&quot;Hello World&quot;)",
+      "print(&quot;Hello World&quot;)"
+    ],
+    "answer": "print(&quot;Hello World&quot;)",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This mobile OS held the largest market share in 2012.",
+    "options": [
+      "Android",
+      "BlackBerry",
+      "Symbian",
+      "iOS"
+    ],
+    "answer": "iOS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+    "options": [
+      "Broken Authentication",
+      "Cross-Site Scripting",
+      "Insecure Direct Object References",
+      "Injection "
+    ],
+    "answer": "Injection ",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+    "options": [
+      "Cherry MX Black",
+      "Cherry MX Red",
+      "Cherry MX Brown",
+      "Cherry MX Blue"
+    ],
+    "answer": "Cherry MX Blue",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What amount of bits commonly equals one byte?",
+    "options": [
+      "1",
+      "2",
+      "64",
+      "8"
+    ],
+    "answer": "8",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On Twitter, what was the original character limit for a Tweet?",
+    "options": [
+      "120",
+      "160",
+      "100",
+      "140"
+    ],
+    "answer": "140",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term GPU stand for?",
+    "options": [
+      "Gaming Processor Unit",
+      "Graphite Producing Unit",
+      "Graphical Proprietary Unit",
+      "Graphics Processing Unit"
+    ],
+    "answer": "Graphics Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "options": [
+      "Click",
+      "Logic",
+      "Pixel",
+      "Think"
+    ],
+    "answer": "Think",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the domain name for the country Tuvalu?",
+    "options": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ],
+    "answer": ".tv",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When was the programming language &quot;C#&quot; released?",
+    "options": [
+      "1998",
+      "1999",
+      "2001",
+      "2000"
+    ],
+    "answer": "2000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "HTML is what type of language?",
+    "options": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language",
+      "Markup Language"
+    ],
+    "answer": "Markup Language",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+    "options": [
+      "Sandy Bridge",
+      "Skylake",
+      "Broadwell",
+      "Coffee Lake"
+    ],
+    "answer": "Coffee Lake",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the server hosting industry IaaS stands for...",
+    "options": [
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server",
+      "Infrastructure as a Service"
+    ],
+    "answer": "Infrastructure as a Service",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the original author of the realtime physics engine called PhysX?",
+    "options": [
+      "Ageia",
+      "Nvidia",
+      "AMD",
+      "NovodeX"
+    ],
+    "answer": "NovodeX",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+    "options": [
+      "Java",
+      "C++",
+      "Objective-C",
+      "C#"
+    ],
+    "answer": "C#",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the code name for the mobile operating system Android 7.0?",
+    "options": [
+      "Ice Cream Sandwich",
+      "Jelly Bean",
+      "Marshmallow",
+      "Nougat"
+    ],
+    "answer": "Nougat",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+    "options": [
+      "CPU Vent",
+      "Temperature Decipator",
+      "Heat Vent",
+      "Heat Sink"
+    ],
+    "answer": "Heat Sink",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "options": [
+      "2013",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2016",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This mobile OS held the largest market share in 2012.",
+    "options": [
+      "Android",
+      "BlackBerry",
+      "Symbian",
+      "iOS"
+    ],
+    "answer": "iOS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "options": [
+      "Four Years",
+      "Two Years",
+      "Eight Years",
+      "Year"
+    ],
+    "answer": "Year",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "options": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
+    ],
+    "answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the default theme that is installed with Windows XP?",
+    "options": [
+      "Neptune",
+      "Whistler",
+      "Bliss",
+      "Luna"
+    ],
+    "answer": "Luna",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a computer science algorithm?",
+    "options": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "Float Sort"
+    ],
+    "answer": "Float Sort",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name given to Android 4.3?",
+    "options": [
+      "Lollipop",
+      "Nutella",
+      "Froyo",
+      "Jelly Bean"
+    ],
+    "answer": "Jelly Bean",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which programming language shares its name with an island in Indonesia?",
+    "options": [
+      "Python",
+      "C",
+      "Jakarta",
+      "Java"
+    ],
+    "answer": "Java",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the security vulnerability found in Bash in 2014?",
+    "options": [
+      "Heartbleed",
+      "Bashbug",
+      "Stagefright",
+      "Shellshock"
+    ],
+    "answer": "Shellshock",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does MIDI stand for?",
+    "options": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface",
+      "Musical Instrument Digital Interface"
+    ],
+    "answer": "Musical Instrument Digital Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The C programming language was created by this American computer scientist. ",
+    "options": [
+      "Tim Berners Lee",
+      "al-Khw\u0101rizm\u012b",
+      "Willis Ware",
+      "Dennis Ritchie"
+    ],
+    "answer": "Dennis Ritchie",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following physical typologies are used with Ethernet Networks?",
+    "options": [
+      "Ring",
+      "Mesh",
+      "Hex",
+      "Star"
+    ],
+    "answer": "Star",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "options": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ],
+    "answer": "10 Gb/s",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Approximately how many Apple I personal computers were created?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "200"
+    ],
+    "answer": "200",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing terms, typically what does CLI stand for?",
+    "options": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface",
+      "Command Line Interface"
+    ],
+    "answer": "Command Line Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+    "options": [
+      "Enceladus",
+      "Pollux",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Neptune",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+    "options": [
+      "Region 1",
+      "Region 2",
+      "Region 4",
+      "Region 3"
+    ],
+    "answer": "Region 3",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Windows OS was delevoped by which company?",
+    "options": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Microsoft"
+    ],
+    "answer": "Microsoft",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+    "options": [
+      "Paul Vixie",
+      "Vint Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ],
+    "answer": "Radia Perlman",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "options": [
+      "1024",
+      "1000",
+      "1048576",
+      "1000000"
+    ],
+    "answer": "1000000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+    "options": [
+      "Dollar Sign",
+      "Percent Sign",
+      "Asterisk",
+      "Exclamation Mark"
+    ],
+    "answer": "Exclamation Mark",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does GHz stand for?",
+    "options": [
+      "Gigahotz",
+      "Gigahetz",
+      "Gigahatz",
+      "Gigahertz"
+    ],
+    "answer": "Gigahertz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "options": [
+      "Motherboard",
+      "Graphics Processing Unit",
+      "Keyboard",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+    "options": [
+      "Shellshock",
+      "Corrupted Blood",
+      "Shellscript",
+      "Heartbleed"
+    ],
+    "answer": "Heartbleed",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Generally, which component of a computer draws the most power?",
+    "options": [
+      "Hard Drive",
+      "Processor",
+      "Power Supply",
+      "Video Card"
+    ],
+    "answer": "Video Card",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In programming, what do you call functions with the same name but different implementations?",
+    "options": [
+      "Overriding",
+      "Abstracting",
+      "Inheriting",
+      "Overloading"
+    ],
+    "answer": "Overloading",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+    "options": [
+      "Puma",
+      "Tiger",
+      "Leopard",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What major programming language does Unreal Engine 4 use?",
+    "options": [
+      "Assembly",
+      "C#",
+      "ECMAScript",
+      "C++"
+    ],
+    "answer": "C++",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+    "options": [
+      "C#",
+      "Python",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "JavaScript",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the oldest of these computers by release date?",
+    "options": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Apple 3",
+      "TRS-80"
+    ],
+    "answer": "TRS-80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+    "options": [
+      "Azul",
+      "Red moon desert",
+      "Tulips",
+      "Bliss"
+    ],
+    "answer": "Bliss",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first commerically available computer processor?",
+    "options": [
+      "Intel 486SX",
+      "TMS 1000",
+      "AMD AM386",
+      "Intel 4004"
+    ],
+    "answer": "Intel 4004",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the founder of Palantir?",
+    "options": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Peter Thiel"
+    ],
+    "answer": "Peter Thiel",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "options": [
+      "2013",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2016",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The C programming language was created by this American computer scientist. ",
+    "options": [
+      "Tim Berners Lee",
+      "al-Khw\u0101rizm\u012b",
+      "Willis Ware",
+      "Dennis Ritchie"
+    ],
+    "answer": "Dennis Ritchie",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does RAID stand for?",
+    "options": [
+      "Rapid Access for Indexed Devices",
+      "Range of Applications with Identical Designs",
+      "Randomized Abstract Identification Description",
+      "Redundant Array of Independent Disks"
+    ],
+    "answer": "Redundant Array of Independent Disks",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+    "options": [
+      "console.log(&quot;Hello World&quot;)",
+      "echo &quot;Hello World&quot;",
+      "printf(&quot;Hello World&quot;)",
+      "print(&quot;Hello World&quot;)"
+    ],
+    "answer": "print(&quot;Hello World&quot;)",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which day did the World Wide Web go online?",
+    "options": [
+      "December 17, 1996",
+      "November 12, 1990",
+      "November 24, 1995",
+      "December 20, 1990"
+    ],
+    "answer": "December 20, 1990",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "options": [
+      "Four Years",
+      "Two Years",
+      "Eight Years",
+      "Year"
+    ],
+    "answer": "Year",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+    "options": [
+      "Sandy Bridge",
+      "Skylake",
+      "Broadwell",
+      "Coffee Lake"
+    ],
+    "answer": "Coffee Lake",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+    "options": [
+      "A&#039;B + B&#039;A",
+      "A&#039;B&#039;",
+      "AB&#039; + AB",
+      "A&#039; + B&#039;"
+    ],
+    "answer": "A&#039; + B&#039;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which data structure does FILO apply to?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Tree",
+      "Stack"
+    ],
+    "answer": "Stack",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+    "options": [
+      "32.0 kHz",
+      "1.5 MHz",
+      "20.5 kHz",
+      "44.1 kHz"
+    ],
+    "answer": "44.1 kHz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+    "options": [
+      "PC-9801",
+      "Xmillennium ",
+      "MSX",
+      "FM-7"
+    ],
+    "answer": "FM-7",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": ".rs is the top-level domain for what country?",
+    "options": [
+      "Romania",
+      "Russia",
+      "Rwanda",
+      "Serbia"
+    ],
+    "answer": "Serbia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does MIDI stand for?",
+    "options": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface",
+      "Musical Instrument Digital Interface"
+    ],
+    "answer": "Musical Instrument Digital Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "options": [
+      "Central Processing Unit",
+      "Hard Disk Drive",
+      "Random Access Memory",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "HTML is what type of language?",
+    "options": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language",
+      "Markup Language"
+    ],
+    "answer": "Markup Language",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Google",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does GHz stand for?",
+    "options": [
+      "Gigahotz",
+      "Gigahetz",
+      "Gigahatz",
+      "Gigahertz"
+    ],
+    "answer": "Gigahertz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "options": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
+    ],
+    "answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a key value of Agile software development?",
+    "options": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change",
+      "Comprehensive documentation"
+    ],
+    "answer": "Comprehensive documentation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &quot;MP&quot; stand for in MP3?",
+    "options": [
+      "Music Player",
+      "Multi Pass",
+      "Micro Point",
+      "Moving Picture"
+    ],
+    "answer": "Moving Picture",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following physical typologies are used with Ethernet Networks?",
+    "options": [
+      "Ring",
+      "Mesh",
+      "Hex",
+      "Star"
+    ],
+    "answer": "Star",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Green",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "options": [
+      "Click",
+      "Logic",
+      "Pixel",
+      "Think"
+    ],
+    "answer": "Think",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When Gmail first launched, how much storage did it provide for your email?",
+    "options": [
+      "512MB",
+      "5GB",
+      "Unlimited",
+      "1GB"
+    ],
+    "answer": "1GB",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the number of keys on a standard Windows Keyboard?",
+    "options": [
+      "64",
+      "94",
+      "76",
+      "104"
+    ],
+    "answer": "104",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first Android version specifically optimized for tablets?",
+    "options": [
+      "Eclair",
+      "Froyo",
+      "Marshmellow",
+      "Honeycomb"
+    ],
+    "answer": "Honeycomb",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In any programming language, what is the most common way to iterate through an array?",
+    "options": [
+      "&#039;If&#039; Statements",
+      "&#039;Do-while&#039; loops",
+      "&#039;While&#039; loops",
+      "&#039;For&#039; loops"
+    ],
+    "answer": "&#039;For&#039; loops",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": ".at is the top-level domain for what country?",
+    "options": [
+      "Argentina",
+      "Australia",
+      "Angola",
+      "Austria"
+    ],
+    "answer": "Austria",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which RAID array type is associated with data mirroring?",
+    "options": [
+      "RAID 0",
+      "RAID 10",
+      "RAID 5",
+      "RAID 1"
+    ],
+    "answer": "RAID 1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+    "options": [
+      "Zilog Z80",
+      "Yamaha YM2612",
+      "Intel 8088",
+      "Motorola 68000"
+    ],
+    "answer": "Motorola 68000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+    "options": [
+      "Azul",
+      "Red moon desert",
+      "Tulips",
+      "Bliss"
+    ],
+    "answer": "Bliss",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is an IPv6 address?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bytes",
+      "128 bits"
+    ],
+    "answer": "128 bits",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+    "options": [
+      "Washington",
+      "Colorado",
+      "Arizona",
+      "New Mexico"
+    ],
+    "answer": "New Mexico",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+    "options": [
+      "Static",
+      "Private",
+      "Public",
+      "Final"
+    ],
+    "answer": "Final",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+    "options": [
+      "Fiji",
+      "Tuvalu",
+      "Marshall Islands",
+      "Micronesia"
+    ],
+    "answer": "Micronesia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "options": [
+      "Address",
+      "Data",
+      "Control",
+      "Instruction"
+    ],
+    "answer": "Instruction",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+    "options": [
+      "Midnight, July 4, 1976",
+      "Midnight on the creator of Unix&#039;s birthday",
+      "Midnight, July 4, 1980",
+      "Midnight, January 1, 1970"
+    ],
+    "answer": "Midnight, January 1, 1970",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Windows OS was delevoped by which company?",
+    "options": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Microsoft"
+    ],
+    "answer": "Microsoft",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Generally, which component of a computer draws the most power?",
+    "options": [
+      "Hard Drive",
+      "Processor",
+      "Power Supply",
+      "Video Card"
+    ],
+    "answer": "Video Card",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The acronym &quot;RIP&quot; stands for which of these?",
+    "options": [
+      "Runtime Instance Processes",
+      "Regular Interval Processes",
+      "Routine Inspection Protocol",
+      "Routing Information Protocol"
+    ],
+    "answer": "Routing Information Protocol",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "options": [
+      "Motherboard",
+      "Graphics Processing Unit",
+      "Keyboard",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+    "options": [
+      "Session",
+      "Data link",
+      "Network",
+      "Transport"
+    ],
+    "answer": "Transport",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many values can a single byte represent?",
+    "options": [
+      "8",
+      "1",
+      "1024",
+      "256"
+    ],
+    "answer": "256",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+    "options": [
+      "Paul Vixie",
+      "Vint Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ],
+    "answer": "Radia Perlman",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+    "options": [
+      "eBay",
+      "Overstock",
+      "Shopify",
+      "Amazon"
+    ],
+    "answer": "Amazon",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What programming language was GitHub written in?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Lua",
+      "Ruby"
+    ],
+    "answer": "Ruby",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "options": [
+      "1024",
+      "1000",
+      "1048576",
+      "1000000"
+    ],
+    "answer": "1000000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+    "options": [
+      "Enceladus",
+      "Pollux",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Neptune",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the server hosting industry IaaS stands for...",
+    "options": [
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server",
+      "Infrastructure as a Service"
+    ],
+    "answer": "Infrastructure as a Service",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": ".at is the top-level domain for what country?",
+    "options": [
+      "Argentina",
+      "Australia",
+      "Angola",
+      "Austria"
+    ],
+    "answer": "Austria",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "options": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ],
+    "answer": "Windows XP",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the acronym CDN stand for in terms of networking?",
+    "options": [
+      "Content Distribution Network",
+      "Computational Data Network",
+      "Compressed Data Network",
+      "Content Delivery Network"
+    ],
+    "answer": "Content Delivery Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Green",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "options": [
+      "Enigma Machine",
+      "Skipjack",
+      "Nautilus",
+      "Clipper Chip"
+    ],
+    "answer": "Clipper Chip",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term GPU stand for?",
+    "options": [
+      "Gaming Processor Unit",
+      "Graphite Producing Unit",
+      "Graphical Proprietary Unit",
+      "Graphics Processing Unit"
+    ],
+    "answer": "Graphics Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What five letter word is the motto of the IBM Computer company?",
+    "options": [
+      "Click",
+      "Logic",
+      "Pixel",
+      "Think"
+    ],
+    "answer": "Think",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the original author of the realtime physics engine called PhysX?",
+    "options": [
+      "Ageia",
+      "Nvidia",
+      "AMD",
+      "NovodeX"
+    ],
+    "answer": "NovodeX",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which programming language shares its name with an island in Indonesia?",
+    "options": [
+      "Python",
+      "C",
+      "Jakarta",
+      "Java"
+    ],
+    "answer": "Java",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+    "options": [
+      "Stencyl",
+      "Construct",
+      "Torque 2D",
+      "Game Maker"
+    ],
+    "answer": "Game Maker",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a key value of Agile software development?",
+    "options": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change",
+      "Comprehensive documentation"
+    ],
+    "answer": "Comprehensive documentation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "options": [
+      "HD Graphics 700 ",
+      "HD Graphics 600",
+      "HD Graphics 7000",
+      "HD Graphics 500"
+    ],
+    "answer": "HD Graphics 500",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which data structure does FILO apply to?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Tree",
+      "Stack"
+    ],
+    "answer": "Stack",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "options": [
+      "Address",
+      "Data",
+      "Control",
+      "Instruction"
+    ],
+    "answer": "Instruction",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Generally, which component of a computer draws the most power?",
+    "options": [
+      "Hard Drive",
+      "Processor",
+      "Power Supply",
+      "Video Card"
+    ],
+    "answer": "Video Card",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Bitcoin&#039;s block size limit in 2010?",
+    "options": [
+      "1GB",
+      "1 KB",
+      "1 TB",
+      "1 MB"
+    ],
+    "answer": "1 MB",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the founder of Palantir?",
+    "options": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Peter Thiel"
+    ],
+    "answer": "Peter Thiel",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+    "options": [
+      "32.0 kHz",
+      "1.5 MHz",
+      "20.5 kHz",
+      "44.1 kHz"
+    ],
+    "answer": "44.1 kHz",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the domain name for the country Tuvalu?",
+    "options": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ],
+    "answer": ".tv",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+    "options": [
+      "Dollar Sign",
+      "Percent Sign",
+      "Asterisk",
+      "Exclamation Mark"
+    ],
+    "answer": "Exclamation Mark",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+    "options": [
+      "Paint.NET",
+      "GIMP",
+      "Adobe Photoshop",
+      "Inkscape"
+    ],
+    "answer": "Inkscape",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following physical typologies are used with Ethernet Networks?",
+    "options": [
+      "Ring",
+      "Mesh",
+      "Hex",
+      "Star"
+    ],
+    "answer": "Star",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+    "options": [
+      "Azul",
+      "Red moon desert",
+      "Tulips",
+      "Bliss"
+    ],
+    "answer": "Bliss",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "options": [
+      "static",
+      "absolute",
+      "relative",
+      "center"
+    ],
+    "answer": "center",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Windows OS was delevoped by which company?",
+    "options": [
+      "Apple",
+      "Nokia",
+      "IBM",
+      "Microsoft"
+    ],
+    "answer": "Microsoft",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Python",
+      "Binary"
+    ],
+    "answer": "Binary",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+    "options": [
+      "Paul Vixie",
+      "Vint Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ],
+    "answer": "Radia Perlman",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+    "options": [
+      "1999",
+      "2002",
+      "2008",
+      "2005"
+    ],
+    "answer": "2005",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What internet protocol was documented in RFC 1459?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "IRC"
+    ],
+    "answer": "IRC",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+    "options": [
+      "The Only Router",
+      "The Orange Router",
+      "The Ominous Router",
+      "The Onion Router"
+    ],
+    "answer": "The Onion Router",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+    "options": [
+      "Sinclair Research",
+      "Amstrad PLC",
+      "Commodore Business Machines",
+      "Acorn Computers"
+    ],
+    "answer": "Acorn Computers",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+    "options": [
+      "eBay",
+      "Overstock",
+      "Shopify",
+      "Amazon"
+    ],
+    "answer": "Amazon",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+    "options": [
+      "Microsoft",
+      "Atari",
+      "Commodore",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When was the programming language &quot;C#&quot; released?",
+    "options": [
+      "1998",
+      "1999",
+      "2001",
+      "2000"
+    ],
+    "answer": "2000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The teapot often seen in many 3D modeling applications is called what?",
+    "options": [
+      "Pixar Teapot",
+      "3D Teapot",
+      "Tennessee Teapot",
+      "Utah Teapot"
+    ],
+    "answer": "Utah Teapot",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the computer software acronym JVM stand for?",
+    "options": [
+      "Java Vendor Machine",
+      "Java Visual Machine",
+      "Just Virtual Machine",
+      "Java Virtual Machine"
+    ],
+    "answer": "Java Virtual Machine",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "options": [
+      "1024",
+      "1000",
+      "1048576",
+      "1000000"
+    ],
+    "answer": "1000000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "options": [
+      "512",
+      "1024",
+      "500",
+      "1000"
+    ],
+    "answer": "1000",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+    "options": [
+      "C#",
+      "Ruby",
+      "C++",
+      "Objective-C"
+    ],
+    "answer": "Objective-C",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the oldest of these computers by release date?",
+    "options": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Apple 3",
+      "TRS-80"
+    ],
+    "answer": "TRS-80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On Twitter, what was the original character limit for a Tweet?",
+    "options": [
+      "120",
+      "160",
+      "100",
+      "140"
+    ],
+    "answer": "140",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+    "options": [
+      "Binary",
+      "Duodecimal",
+      "Octal",
+      "Hexidecimal"
+    ],
+    "answer": "Hexidecimal",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a layer in the OSI model for data communications?",
+    "options": [
+      "Application Layer",
+      "Transport Layer",
+      "Physical Layer",
+      "Connection Layer"
+    ],
+    "answer": "Connection Layer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+    "options": [
+      "Region 1",
+      "Region 2",
+      "Region 4",
+      "Region 3"
+    ],
+    "answer": "Region 3",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+    "options": [
+      "Static",
+      "Private",
+      "Public",
+      "Final"
+    ],
+    "answer": "Final",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the number of keys on a standard Windows Keyboard?",
+    "options": [
+      "64",
+      "94",
+      "76",
+      "104"
+    ],
+    "answer": "104",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "options": [
+      "static",
+      "absolute",
+      "relative",
+      "center"
+    ],
+    "answer": "center",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many bytes are in a single Kibibyte?",
+    "options": [
+      "2400",
+      "1000",
+      "1240",
+      "1024"
+    ],
+    "answer": "1024",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "options": [
+      "2013",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2016",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the Prt Sc button do?",
+    "options": [
+      "Nothing",
+      "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+      "Closes all windows",
+      "Captures what&#039;s on the screen and copies it to your clipboard"
+    ],
+    "answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processor Unit",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the first Bulgarian personal computer?",
+    "options": [
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030",
+      "IMKO-1"
+    ],
+    "answer": "IMKO-1",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the International System of Quantities refer 1024 bytes as?",
+    "options": [
+      "Kylobyte",
+      "Kilobyte",
+      "Kelobyte",
+      "Kibibyte"
+    ],
+    "answer": "Kibibyte",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the default theme that is installed with Windows XP?",
+    "options": [
+      "Neptune",
+      "Whistler",
+      "Bliss",
+      "Luna"
+    ],
+    "answer": "Luna",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the original author of the realtime physics engine called PhysX?",
+    "options": [
+      "Ageia",
+      "Nvidia",
+      "AMD",
+      "NovodeX"
+    ],
+    "answer": "NovodeX",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "options": [
+      "Motherboard",
+      "Graphics Processing Unit",
+      "Keyboard",
+      "Central Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The teapot often seen in many 3D modeling applications is called what?",
+    "options": [
+      "Pixar Teapot",
+      "3D Teapot",
+      "Tennessee Teapot",
+      "Utah Teapot"
+    ],
+    "answer": "Utah Teapot",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+    "options": [
+      "Secure",
+      "Schottky",
+      "Stable",
+      "Shamir"
+    ],
+    "answer": "Shamir",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Bitcoin&#039;s block size limit in 2010?",
+    "options": [
+      "1GB",
+      "1 KB",
+      "1 TB",
+      "1 MB"
+    ],
+    "answer": "1 MB",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which data structure does FILO apply to?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Tree",
+      "Stack"
+    ],
+    "answer": "Stack",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "options": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ],
+    "answer": ".svg",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing, what does MIDI stand for?",
+    "options": [
+      "Musical Interface of Digital Instruments",
+      "Modular Interface of Digital Instruments",
+      "Musical Instrument Data Interface",
+      "Musical Instrument Digital Interface"
+    ],
+    "answer": "Musical Instrument Digital Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+    "options": [
+      "Shellshock",
+      "Corrupted Blood",
+      "Shellscript",
+      "Heartbleed"
+    ],
+    "answer": "Heartbleed",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "options": [
+      "Central Processing Unit",
+      "Hard Disk Drive",
+      "Random Access Memory",
+      "Motherboard"
+    ],
+    "answer": "Motherboard",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "options": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ],
+    "answer": "10 Gb/s",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In web design, what does CSS stand for?",
+    "options": [
+      "Counter Strike: Source",
+      "Corrective Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
+    ],
+    "answer": "Cascading Style Sheet",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+    "options": [
+      "CPU Vent",
+      "Temperature Decipator",
+      "Heat Vent",
+      "Heat Sink"
+    ],
+    "answer": "Heat Sink",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is not a layer in the OSI model for data communications?",
+    "options": [
+      "Application Layer",
+      "Transport Layer",
+      "Physical Layer",
+      "Connection Layer"
+    ],
+    "answer": "Connection Layer",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Layer 7 of the OSI model?",
+    "options": [
+      "Session",
+      "Network",
+      "Present",
+      "Application"
+    ],
+    "answer": "Application",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "options": [
+      "Address",
+      "Data",
+      "Control",
+      "Instruction"
+    ],
+    "answer": "Instruction",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+    "options": [
+      "Broken Authentication",
+      "Cross-Site Scripting",
+      "Insecure Direct Object References",
+      "Injection "
+    ],
+    "answer": "Injection ",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the server hosting industry IaaS stands for...",
+    "options": [
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server",
+      "Infrastructure as a Service"
+    ],
+    "answer": "Infrastructure as a Service",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What port does HTTP run on?",
+    "options": [
+      "53",
+      "443",
+      "23",
+      "80"
+    ],
+    "answer": "80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "options": [
+      "Enigma Machine",
+      "Skipjack",
+      "Nautilus",
+      "Clipper Chip"
+    ],
+    "answer": "Clipper Chip",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the &quot;MP&quot; stand for in MP3?",
+    "options": [
+      "Music Player",
+      "Multi Pass",
+      "Micro Point",
+      "Moving Picture"
+    ],
+    "answer": "Moving Picture",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the acronym CDN stand for in terms of networking?",
+    "options": [
+      "Content Distribution Network",
+      "Computational Data Network",
+      "Compressed Data Network",
+      "Content Delivery Network"
+    ],
+    "answer": "Content Delivery Network",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "options": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;",
+      "&lt;marquee&gt;&lt;/marquee&gt;"
+    ],
+    "answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What language does Node.js use?",
+    "options": [
+      "Java",
+      "Java Source",
+      "Joomla Source Code",
+      "JavaScript"
+    ],
+    "answer": "JavaScript",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the founder of Palantir?",
+    "options": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Peter Thiel"
+    ],
+    "answer": "Peter Thiel",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "options": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ],
+    "answer": "Windows XP",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What does LTS stand for in the software market?",
+    "options": [
+      "Long Taco Service",
+      "Ludicrous Transfer Speed",
+      "Ludicrous Turbo Speed",
+      "Long Term Support"
+    ],
+    "answer": "Long Term Support",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What programming language was GitHub written in?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Lua",
+      "Ruby"
+    ],
+    "answer": "Ruby",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How long is an IPv6 address?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bytes",
+      "128 bits"
+    ],
+    "answer": "128 bits",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many values can a single byte represent?",
+    "options": [
+      "8",
+      "1",
+      "1024",
+      "256"
+    ],
+    "answer": "256",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first Android version specifically optimized for tablets?",
+    "options": [
+      "Eclair",
+      "Froyo",
+      "Marshmellow",
+      "Honeycomb"
+    ],
+    "answer": "Honeycomb",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The acronym &quot;RIP&quot; stands for which of these?",
+    "options": [
+      "Runtime Instance Processes",
+      "Regular Interval Processes",
+      "Routine Inspection Protocol",
+      "Routing Information Protocol"
+    ],
+    "answer": "Routing Information Protocol",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This mobile OS held the largest market share in 2012.",
+    "options": [
+      "Android",
+      "BlackBerry",
+      "Symbian",
+      "iOS"
+    ],
+    "answer": "iOS",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When Gmail first launched, how much storage did it provide for your email?",
+    "options": [
+      "512MB",
+      "5GB",
+      "Unlimited",
+      "1GB"
+    ],
+    "answer": "1GB",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the oldest of these computers by release date?",
+    "options": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Apple 3",
+      "TRS-80"
+    ],
+    "answer": "TRS-80",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these programming languages is a low-level language?",
+    "options": [
+      "Python",
+      "C#",
+      "Pascal",
+      "Assembly"
+    ],
+    "answer": "Assembly",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": ".rs is the top-level domain for what country?",
+    "options": [
+      "Romania",
+      "Russia",
+      "Rwanda",
+      "Serbia"
+    ],
+    "answer": "Serbia",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+    "options": [
+      "Super Dense Coding",
+      "Quantum Entanglement",
+      "Quantum Programming",
+      "Quantum Teleportation"
+    ],
+    "answer": "Quantum Teleportation",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In computing terms, typically what does CLI stand for?",
+    "options": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface",
+      "Command Line Interface"
+    ],
+    "answer": "Command Line Interface",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these is not an official development name for a Ubuntu release?",
+    "options": [
+      "Trusty Tahr",
+      "Utopic Unicorn",
+      "Wily Werewolf",
+      "Mystic Mansion"
+    ],
+    "answer": "Mystic Mansion",
+    "category": "Computers",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The C programming language was created by this American computer scientist. ",
+    "options": [
+      "Tim Berners Lee",
+      "al-Khw\u0101rizm\u012b",
+      "Willis Ware",
+      "Dennis Ritchie"
+    ],
+    "answer": "Dennis Ritchie",
+    "category": "Computers",
+    "source": "OpenTDB"
+  }
+]

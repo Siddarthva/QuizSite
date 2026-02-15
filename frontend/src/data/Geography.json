@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "options": [
+      "Croatia",
+      "Serbia",
+      "Macedonia",
+      "Albania"
+    ],
+    "answer": "Albania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "options": [
+      "Canada",
+      "China",
+      "United States",
+      "Russia"
+    ],
+    "answer": "Russia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Mauritius?",
+    "options": [
+      "Port Moresby",
+      "Port Vila",
+      "Port-au-Prince",
+      "Port Louis"
+    ],
+    "answer": "Port Louis",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Kuala Lumpur is the capital of which country?",
+    "options": [
+      "Indonesia",
+      "Singapore",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": "Malaysia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+    "options": [
+      "Malaysia",
+      "Vietnam",
+      "Philippines",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "options": [
+      "Moon Walk River",
+      "Otaku Central ",
+      "Big Eyes",
+      "Electric Town"
+    ],
+    "answer": "Electric Town",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara&iacute;so",
+      "Copiap&oacute;",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "answer": "Santiago",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city  has the busiest airport in the world?",
+    "options": [
+      "London, England",
+      "Chicago,Illinois ISA",
+      "Tokyo,Japan",
+      "Atlanta, Georgia USA"
+    ],
+    "answer": "Atlanta, Georgia USA",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is not a country in Africa?",
+    "options": [
+      "Senegal",
+      "Liberia",
+      "Somalia",
+      "Guyana"
+    ],
+    "answer": "Guyana",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Broome is a town in which state of Australia?",
+    "options": [
+      "Northern Territory",
+      "South Australia",
+      "Tasmania",
+      "Western Australia"
+    ],
+    "answer": "Western Australia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+    "options": [
+      "Hungarian",
+      "Finnish",
+      "Estonian",
+      "Samoyedic"
+    ],
+    "answer": "Samoyedic",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the African nation of Zimbabwe formerly known as?",
+    "options": [
+      "Zambia",
+      "Mozambique",
+      " Bulawayo",
+      "Rhodesia"
+    ],
+    "answer": "Rhodesia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the ocean that Hawaii is located in?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state is nicknamed &quot;The Golden State&quot;?",
+    "options": [
+      "Florida",
+      "New Mexico",
+      "Alaska",
+      "California"
+    ],
+    "answer": "California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which German city is located on the River Isar?",
+    "options": [
+      "Berlin",
+      "Hamburg",
+      "Dortmund",
+      "Munich"
+    ],
+    "answer": "Munich",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What state is the largest state of the United States of America?",
+    "options": [
+      "California",
+      "Texas",
+      "Washington",
+      "Alaska"
+    ],
+    "answer": "Alaska",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the State of Washington, United States?",
+    "options": [
+      "Washington D.C.",
+      "Seattle",
+      "Yukon",
+      "Olympia"
+    ],
+    "answer": "Olympia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which country is Tallinn located?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Poland",
+      "Estonia"
+    ],
+    "answer": "Estonia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which English county is Stonehenge?",
+    "options": [
+      "Somerset",
+      "Cumbria",
+      "Herefordshire",
+      "Wiltshire"
+    ],
+    "answer": "Wiltshire",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT a city in India?",
+    "options": [
+      "Hyderabad",
+      "Ahmedabad",
+      "Ghaziabad",
+      "Islamabad"
+    ],
+    "answer": "Islamabad",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Harvard University is located in which city?",
+    "options": [
+      "Providence",
+      "New York",
+      "Washington D.C.",
+      "Cambridge"
+    ],
+    "answer": "Cambridge",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US State of New York?",
+    "options": [
+      "Buffalo",
+      "New York",
+      "Rochester",
+      "Albany"
+    ],
+    "answer": "Albany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries does Mexico border?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Into which basin does the Jordan River flow into?",
+    "options": [
+      "Aral Sea",
+      "Caspian Sea",
+      "Salton Sea",
+      "Dead Sea"
+    ],
+    "answer": "Dead Sea",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many counties in the Republic of Ireland.",
+    "options": [
+      "32",
+      "28",
+      "30",
+      "26"
+    ],
+    "answer": "26",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the longest river in Europe?",
+    "options": [
+      "Danube",
+      "Ural",
+      "Dnieper",
+      "Volga"
+    ],
+    "answer": "Volga",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of New Zealand&#039;s indigenous people?",
+    "options": [
+      "Vikings",
+      "Polynesians",
+      "Samoans",
+      "Maori"
+    ],
+    "answer": "Maori",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Lake Titicaca is located between which two nations?",
+    "options": [
+      "Kenya and Uganda",
+      "Mexico and the United States",
+      "India and Bangladesh",
+      "Peru and Bolivia"
+    ],
+    "answer": "Peru and Bolivia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Vatican City, the smallest country in the world, is fully enclosed by which country?",
+    "options": [
+      "France",
+      "Spain",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "Italy",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the land connecting North America and South America?",
+    "options": [
+      "Isthmus of Suez",
+      "Urals",
+      "Australasia",
+      "Isthmus of Panama"
+    ],
+    "answer": "Isthmus of Panama",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Greenland?",
+    "options": [
+      "Sisimiut",
+      "Narsaq",
+      "Maniitsoq",
+      "Nuuk"
+    ],
+    "answer": "Nuuk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries are larger than Australia?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": "5",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Finnish word for &quot;Finland&quot;?",
+    "options": [
+      "Eesti",
+      "Magyarorsz&aacute;g",
+      "Sverige",
+      "Suomi"
+    ],
+    "answer": "Suomi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these cities has a 4&deg; East longitude. ",
+    "options": [
+      "Rio de Janero",
+      "Toronto",
+      "Hong Kong",
+      "Amsterdam"
+    ],
+    "answer": "Amsterdam",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state has the highest population?",
+    "options": [
+      "New York",
+      "Texas",
+      "Florida",
+      "California"
+    ],
+    "answer": "California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Jamaica?",
+    "options": [
+      "San Juan",
+      "Port-au-Prince",
+      "Bridgetown",
+      "Kingston"
+    ],
+    "answer": "Kingston",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which ocean borders the west coast of the United States?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does Finland celebrate their independence day?",
+    "options": [
+      "January 2nd",
+      "November 12th",
+      "February 8th",
+      "December 6th"
+    ],
+    "answer": "December 6th",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the first National Park designated in the United States?",
+    "options": [
+      "Sequoia ",
+      "Yosemite",
+      "Rocky Mountain",
+      "Yellowstone"
+    ],
+    "answer": "Yellowstone",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "options": [
+      "Santiago",
+      "Montevideo",
+      "Buenos Aires",
+      "Lima"
+    ],
+    "answer": "Lima",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+    "options": [
+      "Togo &amp; Benin",
+      "Lesotho &amp; Swaziland",
+      "Rwanda &amp; Burundi",
+      "Zambia &amp; Zimbabwe"
+    ],
+    "answer": "Zambia &amp; Zimbabwe",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mountain range lines the border between Spain and France?",
+    "options": [
+      "Alps",
+      "Carpathians",
+      "Urals",
+      "Pyrenees"
+    ],
+    "answer": "Pyrenees",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land mass of modern day Turkey is called what?",
+    "options": [
+      "Ismuth of Ottoma",
+      "Ottoma",
+      "Ismuth of Anatolia",
+      "Anatolia"
+    ],
+    "answer": "Anatolia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "answer": "Canberra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Mediterranian islands is under the sovereign rule of France?",
+    "options": [
+      "Majorca",
+      "Sardinia",
+      "Malta",
+      "Corsica"
+    ],
+    "answer": "Corsica",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these cities is NOT in England?",
+    "options": [
+      "Oxford",
+      "Manchester",
+      "Southampton",
+      "Edinburgh"
+    ],
+    "answer": "Edinburgh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+    "options": [
+      "Fuerteventura",
+      "Gran Canaria",
+      "Maui",
+      "Tenerife"
+    ],
+    "answer": "Tenerife",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is the Taedong River in?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "North Korea"
+    ],
+    "answer": "North Korea",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Da Nang",
+      "Hai Phong",
+      "Ho Chi Minh City",
+      "Hanoi"
+    ],
+    "answer": "Hanoi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+    "options": [
+      "Florida",
+      "Idaho",
+      "New Mexico",
+      "Ohio"
+    ],
+    "answer": "Ohio",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many sovereign states are members of the United Nations?",
+    "options": [
+      "201",
+      "153",
+      "178",
+      "195"
+    ],
+    "answer": "195",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What country is not a part of Scandinavia?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Denmark",
+      "Finland"
+    ],
+    "answer": "Finland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which small country is located between the borders of France and Spain?",
+    "options": [
+      "San Marino",
+      "Vatican City",
+      "Lichtenstein",
+      "Andorra"
+    ],
+    "answer": "Andorra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land of Gotland is located in which European country?",
+    "options": [
+      "Denmark",
+      "Norway",
+      "Germany",
+      "Sweden"
+    ],
+    "answer": "Sweden",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What African country has Portuguese as its official language?",
+    "options": [
+      "Botswana",
+      "Gabon",
+      "Togo",
+      "Mozambique"
+    ],
+    "answer": "Mozambique",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the only remaining Grand Duchy in the world ?",
+    "options": [
+      "Montenegro",
+      "Liechtenstein",
+      "Andorra",
+      "Luxembourg"
+    ],
+    "answer": "Luxembourg",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official language of Costa Rica?",
+    "options": [
+      "English",
+      "Portuguese",
+      "Creole",
+      "Spanish"
+    ],
+    "answer": "Spanish",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country does Austria not border?",
+    "options": [
+      "Slovenia",
+      "Switzerland",
+      "Slovakia",
+      "France"
+    ],
+    "answer": "France",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Lithuania?",
+    "options": [
+      "Tallinn",
+      "Helsinki",
+      "Riga",
+      "Vilnius"
+    ],
+    "answer": "Vilnius",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries does the United States share a land border with?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "2",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Indonesia",
+      "India"
+    ],
+    "answer": "India",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state is nicknamed &quot;The Golden State&quot;?",
+    "options": [
+      "Florida",
+      "New Mexico",
+      "Alaska",
+      "California"
+    ],
+    "answer": "California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Estonia?",
+    "options": [
+      "Helsinki",
+      "Tartu",
+      "Riga",
+      "Tallinn"
+    ],
+    "answer": "Tallinn",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What continent is the country Lesotho in?",
+    "options": [
+      "Asia",
+      "South America",
+      "Europe",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is not written in its native language?",
+    "options": [
+      "Suomi",
+      "Schweiz",
+      "Ell&aacute;da",
+      "Slova&scaron;ko"
+    ],
+    "answer": "Slova&scaron;ko",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Canada&#039;s smallest province?",
+    "options": [
+      "New Brunswick",
+      "Nova Scotia",
+      "Yukon",
+      "Prince Edward Island"
+    ],
+    "answer": "Prince Edward Island",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Mauritius?",
+    "options": [
+      "Port Moresby",
+      "Port Vila",
+      "Port-au-Prince",
+      "Port Louis"
+    ],
+    "answer": "Port Louis",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the county seat of King County, Washington?",
+    "options": [
+      "Bellevue",
+      "Enumclaw",
+      "Skykomish",
+      "Seattle"
+    ],
+    "answer": "Seattle",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "options": [
+      "Canada",
+      "China",
+      "United States",
+      "Russia"
+    ],
+    "answer": "Russia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does Finland celebrate their independence day?",
+    "options": [
+      "January 2nd",
+      "November 12th",
+      "February 8th",
+      "December 6th"
+    ],
+    "answer": "December 6th",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is completely landlocked by South Africa?",
+    "options": [
+      "Swaziland",
+      "Botswana",
+      "Zimbabwe",
+      "Lesotho"
+    ],
+    "answer": "Lesotho",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Vatican City, the smallest country in the world, is fully enclosed by which country?",
+    "options": [
+      "France",
+      "Spain",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "Italy",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+    "options": [
+      "10",
+      "59",
+      "79",
+      "103"
+    ],
+    "answer": "103",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The mountainous Khyber Pass connects which of the two following countries?",
+    "options": [
+      "India and Nepal",
+      "Pakistan and India",
+      "Tajikistan and Kyrgyzstan",
+      "Afghanistan and Pakistan"
+    ],
+    "answer": "Afghanistan and Pakistan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these country&#039;s capitals starts with the letter B?",
+    "options": [
+      "Jordan",
+      "Kuwait",
+      "Qatar",
+      "Lebanon"
+    ],
+    "answer": "Lebanon",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many counties in the Republic of Ireland.",
+    "options": [
+      "32",
+      "28",
+      "30",
+      "26"
+    ],
+    "answer": "26",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What mountain range lines the border between Spain and France?",
+    "options": [
+      "Alps",
+      "Carpathians",
+      "Urals",
+      "Pyrenees"
+    ],
+    "answer": "Pyrenees",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+    "options": [
+      "Peru",
+      "Mexico",
+      "South Africa",
+      "Thailand"
+    ],
+    "answer": "Thailand",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The towns of Brugelette, Arlon and Ath are located in which country?",
+    "options": [
+      "Andorra",
+      "France",
+      "Luxembourg",
+      "Belgium"
+    ],
+    "answer": "Belgium",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US State of New York?",
+    "options": [
+      "Buffalo",
+      "New York",
+      "Rochester",
+      "Albany"
+    ],
+    "answer": "Albany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official national language of Pakistan?",
+    "options": [
+      "Indian",
+      "Punjabi",
+      "Pashto",
+      "Urdu"
+    ],
+    "answer": "Urdu",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest of these 4 islands?",
+    "options": [
+      "Great Britain",
+      "Cuba",
+      "Madagascar",
+      "Borneo"
+    ],
+    "answer": "Borneo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+    "options": [
+      "Barry",
+      "Bardsey",
+      "Caldey",
+      "Anglesey"
+    ],
+    "answer": "Anglesey",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the tallest mountain in Canada?",
+    "options": [
+      "Mont Tremblant",
+      "Whistler Mountain",
+      "Blue Mountain",
+      "Mount Logan"
+    ],
+    "answer": "Mount Logan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest non-continental island in the world?",
+    "options": [
+      "New Guinea",
+      "Borneo",
+      "Madagascar",
+      "Greenland"
+    ],
+    "answer": "Greenland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many stars are featured on New Zealand&#039;s flag?",
+    "options": [
+      "5",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the ocean that Hawaii is located in?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the most populous city in the Americas in 2015?",
+    "options": [
+      "New York",
+      "Mexico City",
+      "Los Angeles",
+      "S&atilde;o Paulo"
+    ],
+    "answer": "S&atilde;o Paulo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is not a United Nations member state?",
+    "options": [
+      "Tuvalu",
+      "South Sudan",
+      "Montenegro",
+      "Niue"
+    ],
+    "answer": "Niue",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Wisconsin, USA?",
+    "options": [
+      "Milwaukee",
+      "Wisconsin Dells",
+      "Green Bay",
+      "Madison"
+    ],
+    "answer": "Madison",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these Mediterranian islands is under the sovereign rule of France?",
+    "options": [
+      "Majorca",
+      "Sardinia",
+      "Malta",
+      "Corsica"
+    ],
+    "answer": "Corsica",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which European city has the highest mileage of canals in the world?",
+    "options": [
+      "Venice",
+      "Amsterdam",
+      "Berlin",
+      "Birmingham"
+    ],
+    "answer": "Birmingham",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What European country is not a part of the EU?",
+    "options": [
+      "Lithuania",
+      "Ireland",
+      "Czechia",
+      "Norway"
+    ],
+    "answer": "Norway",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Scotland?",
+    "options": [
+      "Glasgow",
+      "Dundee",
+      "London",
+      "Edinburgh"
+    ],
+    "answer": "Edinburgh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official German name of the Swiss Federal Railways?",
+    "options": [
+      "Schweizerische Nationalbahnen",
+      "Bundesbahnen der Schweiz",
+      "Schweizerische Staatsbahnen",
+      "Schweizerische Bundesbahnen"
+    ],
+    "answer": "Schweizerische Bundesbahnen",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+    "options": [
+      "Panama",
+      "Angola",
+      "Egypt",
+      "Nepal"
+    ],
+    "answer": "Nepal",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following language families is the most controversial amongst modern linguists?",
+    "options": [
+      "Sino-Tibetan",
+      "Dravidian",
+      "Indo-European",
+      "Altaic"
+    ],
+    "answer": "Altaic",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the first National Park designated in the United States?",
+    "options": [
+      "Sequoia ",
+      "Yosemite",
+      "Rocky Mountain",
+      "Yellowstone"
+    ],
+    "answer": "Yellowstone",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent is the country of Angola located?",
+    "options": [
+      "South America",
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following languages does NOT use the Latin alphabet?",
+    "options": [
+      "Turkish",
+      "Swahili",
+      "Vietnamese",
+      "Georgian"
+    ],
+    "answer": "Georgian",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Russian oblast forms a border with Poland?",
+    "options": [
+      "Samara",
+      "Nizhny Novgorod",
+      "Omsk",
+      "Kaliningrad"
+    ],
+    "answer": "Kaliningrad",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+    "options": [
+      "Iran",
+      "Turkey",
+      "Azerbaijan",
+      "Pakistan"
+    ],
+    "answer": "Pakistan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country was NOT part of the Soviet Union?",
+    "options": [
+      "Turkmenistan",
+      "Belarus",
+      "Tajikistan",
+      "Romania"
+    ],
+    "answer": "Romania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest non-continental island in the world?",
+    "options": [
+      "New Guinea",
+      "Borneo",
+      "Madagascar",
+      "Greenland"
+    ],
+    "answer": "Greenland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+    "options": [
+      "Magic Line",
+      "Cesen Route",
+      "Polish Line",
+      "Abruzzi Spur"
+    ],
+    "answer": "Abruzzi Spur",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world ?",
+    "options": [
+      "China",
+      "Canada",
+      "Brazil",
+      "Russian Federation"
+    ],
+    "answer": "Russian Federation",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the circle on the Japanese flag?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Red"
+    ],
+    "answer": "Red",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the longest river in Europe?",
+    "options": [
+      "Danube",
+      "Rhine",
+      "Thames",
+      "Volga"
+    ],
+    "answer": "Volga",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Pyongyang",
+      "Taegu",
+      "Kitakyushu",
+      "Seoul"
+    ],
+    "answer": "Seoul",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+    "options": [
+      "2,400",
+      "90,000",
+      "323,400",
+      "36,600"
+    ],
+    "answer": "36,600",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Harvard University is located in which city?",
+    "options": [
+      "Providence",
+      "New York",
+      "Washington D.C.",
+      "Cambridge"
+    ],
+    "answer": "Cambridge",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the county seat of King County, Washington?",
+    "options": [
+      "Bellevue",
+      "Enumclaw",
+      "Skykomish",
+      "Seattle"
+    ],
+    "answer": "Seattle",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The longest shared border in the world can be found between which two nations?",
+    "options": [
+      "Chile and Argentina",
+      "Russia and China",
+      "India and Pakistan",
+      "Canada and the United States"
+    ],
+    "answer": "Canada and the United States",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does Finland celebrate their independence day?",
+    "options": [
+      "January 2nd",
+      "November 12th",
+      "February 8th",
+      "December 6th"
+    ],
+    "answer": "December 6th",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "options": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania",
+      "San Francisco, California"
+    ],
+    "answer": "San Francisco, California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara&iacute;so",
+      "Copiap&oacute;",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "answer": "Santiago",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Finnish word for &quot;Finland&quot;?",
+    "options": [
+      "Eesti",
+      "Magyarorsz&aacute;g",
+      "Sverige",
+      "Suomi"
+    ],
+    "answer": "Suomi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What country is the second largest in the world by area?",
+    "options": [
+      "Russia",
+      "China",
+      "United States of America",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital city of the U.S. state of Texas?",
+    "options": [
+      "Dallas",
+      "Houston",
+      "San Antonio",
+      "Austin"
+    ],
+    "answer": "Austin",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+    "options": [
+      "Europe, Africa and Asia",
+      "Europe",
+      "Europe and Asia",
+      "Europe and Africa"
+    ],
+    "answer": "Europe and Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which European city is known as the &quot;City of Light&quot;?",
+    "options": [
+      "Rome",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "Paris",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What African country has Portuguese as its official language?",
+    "options": [
+      "Botswana",
+      "Gabon",
+      "Togo",
+      "Mozambique"
+    ],
+    "answer": "Mozambique",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The historical city Timbuktu is located in which West African country?",
+    "options": [
+      "Senegal",
+      "Niger",
+      "Burkina Faso",
+      "Mali"
+    ],
+    "answer": "Mali",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land of Gotland is located in which European country?",
+    "options": [
+      "Denmark",
+      "Norway",
+      "Germany",
+      "Sweden"
+    ],
+    "answer": "Sweden",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which small country is located between the borders of France and Spain?",
+    "options": [
+      "San Marino",
+      "Vatican City",
+      "Lichtenstein",
+      "Andorra"
+    ],
+    "answer": "Andorra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US state Nevada?",
+    "options": [
+      "Las Vegas",
+      "Henderson",
+      "Reno",
+      "Carson City"
+    ],
+    "answer": "Carson City",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many federal states does Germany have?",
+    "options": [
+      "13",
+      "32",
+      "25",
+      "16"
+    ],
+    "answer": "16",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
+    "options": [
+      "Pembrokeshire",
+      "Wrexham",
+      "Bridgend",
+      "Anglesey"
+    ],
+    "answer": "Anglesey",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the African nation of Zimbabwe formerly known as?",
+    "options": [
+      "Zambia",
+      "Mozambique",
+      " Bulawayo",
+      "Rhodesia"
+    ],
+    "answer": "Rhodesia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country claims ownership of the disputed state Kosovo?",
+    "options": [
+      "Croatia",
+      "Albania",
+      "Macedonia",
+      "Serbia"
+    ],
+    "answer": "Serbia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Wisconsin, USA?",
+    "options": [
+      "Milwaukee",
+      "Wisconsin Dells",
+      "Green Bay",
+      "Madison"
+    ],
+    "answer": "Madison",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+    "options": [
+      "Austria",
+      "Canada",
+      "Sweden",
+      "Germany"
+    ],
+    "answer": "Germany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Maldives",
+      "Monaco",
+      "Malta",
+      "Vatican City"
+    ],
+    "answer": "Vatican City",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Gambia is a nation found on which continent?",
+    "options": [
+      "Asia",
+      "South America",
+      "Europe",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which German city is located on the River Isar?",
+    "options": [
+      "Berlin",
+      "Hamburg",
+      "Dortmund",
+      "Munich"
+    ],
+    "answer": "Munich",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Lithuania?",
+    "options": [
+      "Tallinn",
+      "Helsinki",
+      "Riga",
+      "Vilnius"
+    ],
+    "answer": "Vilnius",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official German name of the Swiss Federal Railways?",
+    "options": [
+      "Schweizerische Nationalbahnen",
+      "Bundesbahnen der Schweiz",
+      "Schweizerische Staatsbahnen",
+      "Schweizerische Bundesbahnen"
+    ],
+    "answer": "Schweizerische Bundesbahnen",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+    "options": [
+      "Israel and Jordan",
+      "Chad and Libya",
+      "Iraq and Saudi Arabia",
+      "Egypt and Sudan"
+    ],
+    "answer": "Egypt and Sudan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is NOT a part of the Asian continent?",
+    "options": [
+      "Georgia",
+      "Russia",
+      "Singapore",
+      "Suriname"
+    ],
+    "answer": "Suriname",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which state of the United States is the smallest?",
+    "options": [
+      "Maine",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island "
+    ],
+    "answer": "Rhode Island ",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What are the four corner states of the US?",
+    "options": [
+      "Oregon, Idaho, Nevada, Utah",
+      "Kansas, Oklahoma, Arkansas, Louisiana",
+      "South Dakota, Minnesota, Nebraska, Iowa",
+      "Utah, Colorado, Arizona, New Mexico"
+    ],
+    "answer": "Utah, Colorado, Arizona, New Mexico",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest hot desert in the world?",
+    "options": [
+      "Gobi",
+      "Mojave",
+      "Kalahari",
+      "Sahara"
+    ],
+    "answer": "Sahara",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+    "options": [
+      "H&uuml;davendigar",
+      "S&ouml;\u011f&uuml;t",
+      "Adrianople",
+      "Constantinople"
+    ],
+    "answer": "Constantinople",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest freshwater lake in the world?",
+    "options": [
+      "Caspian Sea",
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Superior "
+    ],
+    "answer": "Lake Superior ",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the northernmost human settlement with year round inhabitants?",
+    "options": [
+      "Nagurskoye, Russia",
+      "McMurdo Station, Antarctica ",
+      "Honningsv&aring;g, Norway",
+      "Alert, Canada"
+    ],
+    "answer": "Alert, Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many independent countries are there within the continent of South America?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?",
+    "options": [
+      "Medford, Oregon",
+      "Braxton County, Virgina",
+      "Lemon Grove, California",
+      "Fairfax County, Virginia"
+    ],
+    "answer": "Fairfax County, Virginia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country, by area, that has only one time zone?",
+    "options": [
+      "Canada",
+      "India",
+      "Russia",
+      "China"
+    ],
+    "answer": "China",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US State of New York?",
+    "options": [
+      "Buffalo",
+      "New York",
+      "Rochester",
+      "Albany"
+    ],
+    "answer": "Albany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fifth largest country by area?",
+    "options": [
+      "United States",
+      "Australia",
+      "India",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The mountainous Khyber Pass connects which of the two following countries?",
+    "options": [
+      "India and Nepal",
+      "Pakistan and India",
+      "Tajikistan and Kyrgyzstan",
+      "Afghanistan and Pakistan"
+    ],
+    "answer": "Afghanistan and Pakistan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state is also known as the &quot;Lone Star State&quot;?",
+    "options": [
+      "Alabama",
+      "Tennessee",
+      "Kentucky",
+      "Texas"
+    ],
+    "answer": "Texas",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries are larger than Australia?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": "5",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest lake in the African continent?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Victoria"
+    ],
+    "answer": "Lake Victoria",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world ?",
+    "options": [
+      "China",
+      "Canada",
+      "Brazil",
+      "Russian Federation"
+    ],
+    "answer": "Russian Federation",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara&iacute;so",
+      "Copiap&oacute;",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "answer": "Santiago",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is the Taedong River in?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "North Korea"
+    ],
+    "answer": "North Korea",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which city is the Big Nickel located in Canada?",
+    "options": [
+      "Calgary, Alberta",
+      "Halifax, Nova Scotia ",
+      "Victoria, British Columbia",
+      "Sudbury, Ontario"
+    ],
+    "answer": "Sudbury, Ontario",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is the world&#039;s oldest still operational space launch facility located?",
+    "options": [
+      "Russia",
+      "Iran",
+      "United States",
+      "Kazakhstan"
+    ],
+    "answer": "Kazakhstan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the ocean that Hawaii is located in?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the county seat of King County, Washington?",
+    "options": [
+      "Bellevue",
+      "Enumclaw",
+      "Skykomish",
+      "Seattle"
+    ],
+    "answer": "Seattle",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is not written in its native language?",
+    "options": [
+      "Suomi",
+      "Schweiz",
+      "Ell&aacute;da",
+      "Slova&scaron;ko"
+    ],
+    "answer": "Slova&scaron;ko",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Space Needle is located in which city?",
+    "options": [
+      "Los Angles",
+      "Toronto",
+      "Vancouver",
+      "Seattle"
+    ],
+    "answer": "Seattle",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the northernmost human settlement with year round inhabitants?",
+    "options": [
+      "Nagurskoye, Russia",
+      "McMurdo Station, Antarctica ",
+      "Honningsv&aring;g, Norway",
+      "Alert, Canada"
+    ],
+    "answer": "Alert, Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the State of Washington, United States?",
+    "options": [
+      "Washington D.C.",
+      "Seattle",
+      "Yukon",
+      "Olympia"
+    ],
+    "answer": "Olympia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What country has a horizontal bicolor red and white flag?",
+    "options": [
+      "Bahrain",
+      "Malta",
+      "Liechenstein",
+      "Monaco"
+    ],
+    "answer": "Monaco",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The following Spanish provinces are located in the northern area of Spain except:",
+    "options": [
+      "Asturias",
+      "Navarre",
+      "Le&oacute;n",
+      "Murcia"
+    ],
+    "answer": "Murcia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which English county will you find the University of East Anglia?",
+    "options": [
+      "Suffolk",
+      "Essex",
+      "Cambridgeshire",
+      "Norfolk"
+    ],
+    "answer": "Norfolk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest freshwater lake by volume?",
+    "options": [
+      "Lake Superior",
+      "Lake Huron",
+      "Lake Michigan",
+      "Lake Baikal"
+    ],
+    "answer": "Lake Baikal",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Alps are a mountain range on which continent?",
+    "options": [
+      "North America",
+      "Asia",
+      "Africa",
+      "Europe"
+    ],
+    "answer": "Europe",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "options": [
+      "Moon Walk River",
+      "Otaku Central ",
+      "Big Eyes",
+      "Electric Town"
+    ],
+    "answer": "Electric Town",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country has three capital cities?",
+    "options": [
+      "Somalia",
+      "China",
+      "United Kingdom",
+      "South Africa"
+    ],
+    "answer": "South Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these country&#039;s capitals starts with the letter B?",
+    "options": [
+      "Jordan",
+      "Kuwait",
+      "Qatar",
+      "Lebanon"
+    ],
+    "answer": "Lebanon",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the right way to spell the capital of Hungary?",
+    "options": [
+      "Boodapest",
+      "Bhudapest",
+      "Budapast",
+      "Budapest"
+    ],
+    "answer": "Budapest",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent is the country of Angola located?",
+    "options": [
+      "South America",
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city is known as the Rose Capital of the World?",
+    "options": [
+      "San Diego, California",
+      "Miami, Florida",
+      "Anaheim, California",
+      "Tyler, Texas"
+    ],
+    "answer": "Tyler, Texas",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+    "options": [
+      "2,400",
+      "90,000",
+      "323,400",
+      "36,600"
+    ],
+    "answer": "36,600",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "options": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania",
+      "San Francisco, California"
+    ],
+    "answer": "San Francisco, California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land of Gotland is located in which European country?",
+    "options": [
+      "Denmark",
+      "Norway",
+      "Germany",
+      "Sweden"
+    ],
+    "answer": "Sweden",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which UK country features a dragon on their flag?",
+    "options": [
+      "England",
+      "North Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answer": "Wales",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Greenland?",
+    "options": [
+      "Sisimiut",
+      "Narsaq",
+      "Maniitsoq",
+      "Nuuk"
+    ],
+    "answer": "Nuuk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Pyongyang",
+      "Taegu",
+      "Kitakyushu",
+      "Seoul"
+    ],
+    "answer": "Seoul",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country does Austria not border?",
+    "options": [
+      "Slovenia",
+      "Switzerland",
+      "Slovakia",
+      "France"
+    ],
+    "answer": "France",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US state Nevada?",
+    "options": [
+      "Las Vegas",
+      "Henderson",
+      "Reno",
+      "Carson City"
+    ],
+    "answer": "Carson City",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the only remaining Grand Duchy in the world ?",
+    "options": [
+      "Montenegro",
+      "Liechtenstein",
+      "Andorra",
+      "Luxembourg"
+    ],
+    "answer": "Luxembourg",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+    "options": [
+      "H&uuml;davendigar",
+      "S&ouml;\u011f&uuml;t",
+      "Adrianople",
+      "Constantinople"
+    ],
+    "answer": "Constantinople",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest freshwater lake in the world?",
+    "options": [
+      "Caspian Sea",
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Superior "
+    ],
+    "answer": "Lake Superior ",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Toledo",
+      "Madrid"
+    ],
+    "answer": "Madrid",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "options": [
+      "Canada",
+      "China",
+      "United States",
+      "Russia"
+    ],
+    "answer": "Russia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Canadian province has Charlottetown as its capital?",
+    "options": [
+      "Saskachewan",
+      "Northwest Terrirories",
+      "Ontario",
+      "Prince Edward Island"
+    ],
+    "answer": "Prince Edward Island",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the official language of Bhutan?",
+    "options": [
+      "Ladakhi",
+      "Karen",
+      "Groma",
+      "Dzongkha"
+    ],
+    "answer": "Dzongkha",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries does Mexico border?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country features a maple leaf on its flag?",
+    "options": [
+      "Mexico",
+      "Brazil",
+      "India",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest hot desert in the world?",
+    "options": [
+      "Gobi",
+      "Mojave",
+      "Kalahari",
+      "Sahara"
+    ],
+    "answer": "Sahara",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where would you find the &quot;Spanish Steps&quot;?",
+    "options": [
+      "Barcelona, Spain",
+      "Berlin, Germany",
+      "London, England",
+      "Rome, Italy"
+    ],
+    "answer": "Rome, Italy",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fifth largest country by area?",
+    "options": [
+      "United States",
+      "Australia",
+      "India",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Finnish word for &quot;Finland&quot;?",
+    "options": [
+      "Eesti",
+      "Magyarorsz&aacute;g",
+      "Sverige",
+      "Suomi"
+    ],
+    "answer": "Suomi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the longest river in Europe?",
+    "options": [
+      "Danube",
+      "Ural",
+      "Dnieper",
+      "Volga"
+    ],
+    "answer": "Volga",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+    "options": [
+      "Australia",
+      "Chile",
+      "Norway",
+      "United States"
+    ],
+    "answer": "United States",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Canada&#039;s largest island?",
+    "options": [
+      "Prince Edward Island",
+      "Vancouver Island",
+      "Newfoundland",
+      "Baffin Island"
+    ],
+    "answer": "Baffin Island",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Kuala Lumpur is the capital of which country?",
+    "options": [
+      "Indonesia",
+      "Singapore",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": "Malaysia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest of these 4 islands?",
+    "options": [
+      "Great Britain",
+      "Cuba",
+      "Madagascar",
+      "Borneo"
+    ],
+    "answer": "Borneo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+    "options": [
+      "Togo &amp; Benin",
+      "Lesotho &amp; Swaziland",
+      "Rwanda &amp; Burundi",
+      "Zambia &amp; Zimbabwe"
+    ],
+    "answer": "Zambia &amp; Zimbabwe",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is the fast food chain &quot;Panda Express&quot; headquartered?",
+    "options": [
+      "Sacramento, California",
+      "Fresno, California",
+      "San Diego, California",
+      "Rosemead, California"
+    ],
+    "answer": "Rosemead, California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where are the Nazca Lines located?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "answer": "Peru",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which area of Eastern Europe is famous for its association with vampires?",
+    "options": [
+      "Silesia",
+      "Macedonia",
+      "Slovakia",
+      "Transylvania"
+    ],
+    "answer": "Transylvania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries border Kyrgyzstan?",
+    "options": [
+      "3",
+      "1",
+      "6",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is the smallest by population?",
+    "options": [
+      "Slovakia",
+      "Finland",
+      "Hong Kong",
+      "Norway"
+    ],
+    "answer": "Norway",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+    "options": [
+      "Panama",
+      "Angola",
+      "Egypt",
+      "Nepal"
+    ],
+    "answer": "Nepal",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which country is the city of Rio de Janeiro?",
+    "options": [
+      "Peru",
+      "Chile",
+      "Venezuela",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+    "options": [
+      "Japan",
+      "Austrailia",
+      "Argentina",
+      "The United Kingdom"
+    ],
+    "answer": "The United Kingdom",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which city is the capital of Switzerland?",
+    "options": [
+      "Z&uuml;rich",
+      "Frankfurt",
+      "Wien",
+      "Bern"
+    ],
+    "answer": "Bern",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+    "options": [
+      "Malaysia",
+      "Vietnam",
+      "Philippines",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which state of the United States is the smallest?",
+    "options": [
+      "Maine",
+      "Vermont",
+      "Massachusetts",
+      "Rhode Island "
+    ],
+    "answer": "Rhode Island ",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+    "options": [
+      "Israel and Jordan",
+      "Chad and Libya",
+      "Iraq and Saudi Arabia",
+      "Egypt and Sudan"
+    ],
+    "answer": "Egypt and Sudan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the nickname for the US state Delaware?",
+    "options": [
+      "The Fiftieth State",
+      "The Second State",
+      "The Sixteenth State",
+      "The First State"
+    ],
+    "answer": "The First State",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+    "options": [
+      "Czechoslovakia",
+      "Abkhazia",
+      "South Ossetia",
+      "Yugoslavia"
+    ],
+    "answer": "Yugoslavia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many timezones does Russia have?",
+    "options": [
+      "6",
+      "24",
+      "16",
+      "11"
+    ],
+    "answer": "11",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT an island that is part of the Philippines?",
+    "options": [
+      "Luzon",
+      "Mindanao",
+      "Palawan",
+      "Java"
+    ],
+    "answer": "Java",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which ocean borders the west coast of the United States?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "options": [
+      "Moon Walk River",
+      "Otaku Central ",
+      "Big Eyes",
+      "Electric Town"
+    ],
+    "answer": "Electric Town",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the American state of Arizona?",
+    "options": [
+      "Montgomery",
+      "Tallahassee",
+      "Raleigh",
+      "Phoenix"
+    ],
+    "answer": "Phoenix",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The World Health Organization headquarters is located in which European country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Belgium",
+      "Switzerland"
+    ],
+    "answer": "Switzerland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The mountainous Khyber Pass connects which of the two following countries?",
+    "options": [
+      "India and Nepal",
+      "Pakistan and India",
+      "Tajikistan and Kyrgyzstan",
+      "Afghanistan and Pakistan"
+    ],
+    "answer": "Afghanistan and Pakistan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Vatican City, the smallest country in the world, is fully enclosed by which country?",
+    "options": [
+      "France",
+      "Spain",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "Italy",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following languages does NOT use the Latin alphabet?",
+    "options": [
+      "Turkish",
+      "Swahili",
+      "Vietnamese",
+      "Georgian"
+    ],
+    "answer": "Georgian",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest lake in the African continent?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Victoria"
+    ],
+    "answer": "Lake Victoria",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+    "options": [
+      "10",
+      "59",
+      "79",
+      "103"
+    ],
+    "answer": "103",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "When does Finland celebrate their independence day?",
+    "options": [
+      "January 2nd",
+      "November 12th",
+      "February 8th",
+      "December 6th"
+    ],
+    "answer": "December 6th",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state is also known as the &quot;Lone Star State&quot;?",
+    "options": [
+      "Alabama",
+      "Tennessee",
+      "Kentucky",
+      "Texas"
+    ],
+    "answer": "Texas",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the state capital of South Dakota?",
+    "options": [
+      "Sioux Falls",
+      "Rapid City",
+      "Watertown",
+      "Pierre"
+    ],
+    "answer": "Pierre",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+    "options": [
+      "Bird",
+      "Sickle",
+      "Tree",
+      "Crown"
+    ],
+    "answer": "Crown",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which Indian city can the Taj Mahal be found?",
+    "options": [
+      "Mumbai",
+      "Faridabad",
+      "Thane",
+      "Agra"
+    ],
+    "answer": "Agra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The historical city Timbuktu is located in which West African country?",
+    "options": [
+      "Senegal",
+      "Niger",
+      "Burkina Faso",
+      "Mali"
+    ],
+    "answer": "Mali",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+    "options": [
+      "Austria",
+      "Canada",
+      "Sweden",
+      "Germany"
+    ],
+    "answer": "Germany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What country is the second largest in the world by area?",
+    "options": [
+      "Russia",
+      "China",
+      "United States of America",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Capital of the United States?",
+    "options": [
+      "Los Angelas, CA",
+      "New York City, NY",
+      "Houston, TX",
+      "Washington, D.C."
+    ],
+    "answer": "Washington, D.C.",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world ?",
+    "options": [
+      "China",
+      "Canada",
+      "Brazil",
+      "Russian Federation"
+    ],
+    "answer": "Russian Federation",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city  has the busiest airport in the world?",
+    "options": [
+      "London, England",
+      "Chicago,Illinois ISA",
+      "Tokyo,Japan",
+      "Atlanta, Georgia USA"
+    ],
+    "answer": "Atlanta, Georgia USA",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT an Australian state or territory?",
+    "options": [
+      "New South Wales",
+      "Victoria",
+      "Queensland",
+      "Alberta"
+    ],
+    "answer": "Alberta",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the ocean that Hawaii is located in?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country ranks first in the number of historically active volcanoes?",
+    "options": [
+      "Japan",
+      "USA",
+      "India",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many stars are featured on New Zealand&#039;s flag?",
+    "options": [
+      "5",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": "4",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fifth largest country by area?",
+    "options": [
+      "United States",
+      "Australia",
+      "India",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Broome is a town in which state of Australia?",
+    "options": [
+      "Northern Territory",
+      "South Australia",
+      "Tasmania",
+      "Western Australia"
+    ],
+    "answer": "Western Australia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is the home of the largest Japanese population outside of Japan?",
+    "options": [
+      "China",
+      "Russia",
+      "The United States",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is not a country in Africa?",
+    "options": [
+      "Senegal",
+      "Liberia",
+      "Somalia",
+      "Guyana"
+    ],
+    "answer": "Guyana",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Laos?",
+    "options": [
+      "Region",
+      "River",
+      "City",
+      "Country"
+    ],
+    "answer": "Country",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "If soccer is called football in England, what is American football called in England?",
+    "options": [
+      "Combball",
+      "Handball",
+      "Touchdown",
+      "American football"
+    ],
+    "answer": "American football",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country has the abbreviation &quot;CH&quot;?",
+    "options": [
+      "China",
+      "Canada",
+      "No Country",
+      "Switzerland"
+    ],
+    "answer": "Switzerland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the American state of Arizona?",
+    "options": [
+      "Montgomery",
+      "Tallahassee",
+      "Raleigh",
+      "Phoenix"
+    ],
+    "answer": "Phoenix",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Wisconsin, USA?",
+    "options": [
+      "Milwaukee",
+      "Wisconsin Dells",
+      "Green Bay",
+      "Madison"
+    ],
+    "answer": "Madison",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city is the Terracotta Army located in?",
+    "options": [
+      "Beijing",
+      "Shanghai",
+      "Hong Kong",
+      "Xi&#039;an"
+    ],
+    "answer": "Xi&#039;an",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara&iacute;so",
+      "Copiap&oacute;",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "answer": "Santiago",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which one of these countries borders with Poland?",
+    "options": [
+      "France",
+      "Norway",
+      "Netherlands",
+      "Lithuania"
+    ],
+    "answer": "Lithuania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest city in Morocco?",
+    "options": [
+      "Rabat",
+      "Fes",
+      "Sale",
+      "Casablanca"
+    ],
+    "answer": "Casablanca",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What event led to Liechenstein adding a crown to its flag?",
+    "options": [
+      "Coronation of Prince Johann I Joseph in 1805",
+      "Charles VI&#039;s decree in 1719",
+      "Signing of the 1862 Constitution of Liechtenstein",
+      "The 1936 Olympics"
+    ],
+    "answer": "The 1936 Olympics",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which country is the city of Rio de Janeiro?",
+    "options": [
+      "Peru",
+      "Chile",
+      "Venezuela",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many sovereign states are members of the United Nations?",
+    "options": [
+      "201",
+      "153",
+      "178",
+      "195"
+    ],
+    "answer": "195",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land mass of modern day Turkey is called what?",
+    "options": [
+      "Ismuth of Ottoma",
+      "Ottoma",
+      "Ismuth of Anatolia",
+      "Anatolia"
+    ],
+    "answer": "Anatolia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "If soccer is called football in England, what is American football called in England?",
+    "options": [
+      "Combball",
+      "Handball",
+      "Touchdown",
+      "American football"
+    ],
+    "answer": "American football",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which English county will you find the University of East Anglia?",
+    "options": [
+      "Suffolk",
+      "Essex",
+      "Cambridgeshire",
+      "Norfolk"
+    ],
+    "answer": "Norfolk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+    "options": [
+      "Andorra",
+      "Gibraltar",
+      "Quin",
+      "Kashmir"
+    ],
+    "answer": "Kashmir",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the busiest port in Europe?",
+    "options": [
+      "Port of Antwerp",
+      "Port of Hamburg",
+      "Port of Amsterdam",
+      "Port of Rotterdam"
+    ],
+    "answer": "Port of Rotterdam",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country features a maple leaf on its flag?",
+    "options": [
+      "Mexico",
+      "Brazil",
+      "India",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city is known as the Rose Capital of the World?",
+    "options": [
+      "San Diego, California",
+      "Miami, Florida",
+      "Anaheim, California",
+      "Tyler, Texas"
+    ],
+    "answer": "Tyler, Texas",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What colour is the circle on the Japanese flag?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Red"
+    ],
+    "answer": "Red",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Gambia is a nation found on which continent?",
+    "options": [
+      "Asia",
+      "South America",
+      "Europe",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Da Nang",
+      "Hai Phong",
+      "Ho Chi Minh City",
+      "Hanoi"
+    ],
+    "answer": "Hanoi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of British Columbia, Canada?",
+    "options": [
+      "Vancouver",
+      "Hope",
+      "Kelowna",
+      "Victoria"
+    ],
+    "answer": "Victoria",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which European city is known as the &quot;City of Light&quot;?",
+    "options": [
+      "Rome",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "Paris",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is the area commonly known as the Bermuda Triangle?",
+    "options": [
+      "North Pacific Ocean, between Japan and the USA",
+      "In the Caribbean Sea",
+      "South Pacific Ocean, far off Chile",
+      "North Atlantic Ocean, between Florida and Puerto Rico"
+    ],
+    "answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the most populous city in the Americas in 2015?",
+    "options": [
+      "New York",
+      "Mexico City",
+      "Los Angeles",
+      "S&atilde;o Paulo"
+    ],
+    "answer": "S&atilde;o Paulo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country does Austria not border?",
+    "options": [
+      "Slovenia",
+      "Switzerland",
+      "Slovakia",
+      "France"
+    ],
+    "answer": "France",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many states are in Australia?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The longest shared border in the world can be found between which two nations?",
+    "options": [
+      "Chile and Argentina",
+      "Russia and China",
+      "India and Pakistan",
+      "Canada and the United States"
+    ],
+    "answer": "Canada and the United States",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many time zones are in Russia?",
+    "options": [
+      "8",
+      "5",
+      "2",
+      "11"
+    ],
+    "answer": "11",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+    "options": [
+      "Fuerteventura",
+      "Gran Canaria",
+      "Maui",
+      "Tenerife"
+    ],
+    "answer": "Tenerife",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "options": [
+      "Moon Walk River",
+      "Otaku Central ",
+      "Big Eyes",
+      "Electric Town"
+    ],
+    "answer": "Electric Town",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What country is the second largest in the world by area?",
+    "options": [
+      "Russia",
+      "China",
+      "United States of America",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "options": [
+      "Nouakchott",
+      "Conakry",
+      "Monrovia",
+      "Dakar"
+    ],
+    "answer": "Dakar",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the State of Washington, United States?",
+    "options": [
+      "Washington D.C.",
+      "Seattle",
+      "Yukon",
+      "Olympia"
+    ],
+    "answer": "Olympia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent is the country of Angola located?",
+    "options": [
+      "South America",
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Bandung",
+      "Medan",
+      "Palembang",
+      "Jakarta"
+    ],
+    "answer": "Jakarta",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Scotland?",
+    "options": [
+      "Glasgow",
+      "Dundee",
+      "London",
+      "Edinburgh"
+    ],
+    "answer": "Edinburgh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+    "options": [
+      "Europe, Africa and Asia",
+      "Europe",
+      "Europe and Asia",
+      "Europe and Africa"
+    ],
+    "answer": "Europe and Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries are inside the United Kingdom?",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "Four"
+    ],
+    "answer": "Four",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country has the abbreviation &quot;CH&quot;?",
+    "options": [
+      "China",
+      "Canada",
+      "No Country",
+      "Switzerland"
+    ],
+    "answer": "Switzerland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital city of the U.S. state of Texas?",
+    "options": [
+      "Dallas",
+      "Houston",
+      "San Antonio",
+      "Austin"
+    ],
+    "answer": "Austin",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country, by area, that has only one time zone?",
+    "options": [
+      "Canada",
+      "India",
+      "Russia",
+      "China"
+    ],
+    "answer": "China",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+    "options": [
+      "Inuinnaqtun",
+      "Greenlandic",
+      "Inupiat",
+      "Inuktitut"
+    ],
+    "answer": "Inuktitut",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+    "options": [
+      "Kuwait",
+      "United Arab Emirates",
+      "Jordan",
+      "Qatar"
+    ],
+    "answer": "Qatar",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Canadian province has Charlottetown as its capital?",
+    "options": [
+      "Saskachewan",
+      "Northwest Terrirories",
+      "Ontario",
+      "Prince Edward Island"
+    ],
+    "answer": "Prince Edward Island",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is Hadrian&#039;s Wall located?",
+    "options": [
+      "Rome, Italy",
+      "Alexandria, Egypt",
+      "Dublin, Ireland",
+      "Carlisle, England"
+    ],
+    "answer": "Carlisle, England",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many federal states does Germany have?",
+    "options": [
+      "13",
+      "32",
+      "25",
+      "16"
+    ],
+    "answer": "16",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Estonia?",
+    "options": [
+      "Helsinki",
+      "Tartu",
+      "Riga",
+      "Tallinn"
+    ],
+    "answer": "Tallinn",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US State of New York?",
+    "options": [
+      "Buffalo",
+      "New York",
+      "Rochester",
+      "Albany"
+    ],
+    "answer": "Albany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "options": [
+      "Sofia",
+      "Ljubljana",
+      "Sarajevo",
+      "Bratislava"
+    ],
+    "answer": "Bratislava",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is the Taedong River in?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "North Korea"
+    ],
+    "answer": "North Korea",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is completely landlocked by South Africa?",
+    "options": [
+      "Swaziland",
+      "Botswana",
+      "Zimbabwe",
+      "Lesotho"
+    ],
+    "answer": "Lesotho",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the smallest country in South America by area?",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Chile",
+      "Suriname"
+    ],
+    "answer": "Suriname",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Valpara&iacute;so",
+      "Copiap&oacute;",
+      "Antofagasta",
+      "Santiago"
+    ],
+    "answer": "Santiago",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "options": [
+      "Luanda",
+      "N&#039;Djamena",
+      "Tripoli",
+      "Victoria"
+    ],
+    "answer": "Victoria",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "options": [
+      "Santiago",
+      "Montevideo",
+      "Buenos Aires",
+      "Lima"
+    ],
+    "answer": "Lima",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "France",
+      "United Kingdom"
+    ],
+    "answer": "United Kingdom",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+    "options": [
+      "Malaysia",
+      "Vietnam",
+      "Philippines",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT a city in India?",
+    "options": [
+      "Hyderabad",
+      "Ahmedabad",
+      "Ghaziabad",
+      "Islamabad"
+    ],
+    "answer": "Islamabad",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Harvard University is located in which city?",
+    "options": [
+      "Providence",
+      "New York",
+      "Washington D.C.",
+      "Cambridge"
+    ],
+    "answer": "Cambridge",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Toledo",
+      "Madrid"
+    ],
+    "answer": "Madrid",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What event led to Liechenstein adding a crown to its flag?",
+    "options": [
+      "Coronation of Prince Johann I Joseph in 1805",
+      "Charles VI&#039;s decree in 1719",
+      "Signing of the 1862 Constitution of Liechtenstein",
+      "The 1936 Olympics"
+    ],
+    "answer": "The 1936 Olympics",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The land mass of modern day Turkey is called what?",
+    "options": [
+      "Ismuth of Ottoma",
+      "Ottoma",
+      "Ismuth of Anatolia",
+      "Anatolia"
+    ],
+    "answer": "Anatolia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+    "options": [
+      "2,400",
+      "90,000",
+      "323,400",
+      "36,600"
+    ],
+    "answer": "36,600",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Frankenmuth, a US city nicknamed &quot;Little Bavaria&quot;, is located in what state?",
+    "options": [
+      "Pennsylvania",
+      "Kentucky",
+      "Virginia",
+      "Michigan"
+    ],
+    "answer": "Michigan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many time zones does China have?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "1",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+    "options": [
+      "Kiribati",
+      "Scotland",
+      "Bhutan",
+      "Sri Lanka"
+    ],
+    "answer": "Sri Lanka",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Lithuania?",
+    "options": [
+      "Tallinn",
+      "Helsinki",
+      "Riga",
+      "Vilnius"
+    ],
+    "answer": "Vilnius",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the state capital of South Dakota?",
+    "options": [
+      "Sioux Falls",
+      "Rapid City",
+      "Watertown",
+      "Pierre"
+    ],
+    "answer": "Pierre",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The World Health Organization headquarters is located in which European country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Belgium",
+      "Switzerland"
+    ],
+    "answer": "Switzerland",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How tall is One World Trade Center in New York City?",
+    "options": [
+      "1,888 ft",
+      "1,225 ft",
+      "1,960 ft",
+      "1,776 ft"
+    ],
+    "answer": "1,776 ft",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest country in the world ?",
+    "options": [
+      "China",
+      "Canada",
+      "Brazil",
+      "Russian Federation"
+    ],
+    "answer": "Russian Federation",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country does Austria not border?",
+    "options": [
+      "Slovenia",
+      "Switzerland",
+      "Slovakia",
+      "France"
+    ],
+    "answer": "France",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+    "options": [
+      "Bird",
+      "Sickle",
+      "Tree",
+      "Crown"
+    ],
+    "answer": "Crown",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Bridgetown is the capital of which island country in the Carribean?",
+    "options": [
+      "Cuba",
+      "Jamaica&lrm;",
+      "Dominica",
+      "Barbados"
+    ],
+    "answer": "Barbados",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which area of Eastern Europe is famous for its association with vampires?",
+    "options": [
+      "Silesia",
+      "Macedonia",
+      "Slovakia",
+      "Transylvania"
+    ],
+    "answer": "Transylvania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a capital city?",
+    "options": [
+      "Cairo",
+      "Moscow",
+      "Beijing",
+      "Sydney"
+    ],
+    "answer": "Sydney",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the nickname for the US state Delaware?",
+    "options": [
+      "The Fiftieth State",
+      "The Second State",
+      "The Sixteenth State",
+      "The First State"
+    ],
+    "answer": "The First State",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the Canadian national anthem?",
+    "options": [
+      "O Red Maple",
+      "Leaf-Spangled Banner",
+      "March of the Puck Drop",
+      "O Canada"
+    ],
+    "answer": "O Canada",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Greenland is a part of which kingdom?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "United Kingdom",
+      "Denmark"
+    ],
+    "answer": "Denmark",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country is the home of the largest Japanese population outside of Japan?",
+    "options": [
+      "China",
+      "Russia",
+      "The United States",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+    "options": [
+      "10",
+      "59",
+      "79",
+      "103"
+    ],
+    "answer": "103",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+    "options": [
+      "Kazan",
+      "Kursk",
+      "Krasnodar",
+      "Kaliningrad"
+    ],
+    "answer": "Kaliningrad",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "answer": "Canberra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+    "options": [
+      "Fuerteventura",
+      "Gran Canaria",
+      "Maui",
+      "Tenerife"
+    ],
+    "answer": "Tenerife",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Space Needle is located in which city?",
+    "options": [
+      "Los Angles",
+      "Toronto",
+      "Vancouver",
+      "Seattle"
+    ],
+    "answer": "Seattle",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Maldives",
+      "Monaco",
+      "Malta",
+      "Vatican City"
+    ],
+    "answer": "Vatican City",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Polish city known to Germans as Danzig?",
+    "options": [
+      "Warsaw",
+      "Zakopane",
+      "Pozna\u0144",
+      "Gda\u0144sk"
+    ],
+    "answer": "Gda\u0144sk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which US state has the highest population?",
+    "options": [
+      "New York",
+      "Texas",
+      "Florida",
+      "California"
+    ],
+    "answer": "California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the peninsula containing Spain and Portugal?",
+    "options": [
+      "European Peninsula",
+      "Peloponnesian Peninsula",
+      "Scandinavian Peninsula",
+      "Iberian Peninsula"
+    ],
+    "answer": "Iberian Peninsula",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Indonesia",
+      "India"
+    ],
+    "answer": "India",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+    "options": [
+      "Guinea",
+      "Cameroon",
+      "Angola",
+      "Equatorial Guinea"
+    ],
+    "answer": "Equatorial Guinea",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest hot desert in the world?",
+    "options": [
+      "Gobi",
+      "Mojave",
+      "Kalahari",
+      "Sahara"
+    ],
+    "answer": "Sahara",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": [
+      "Mount Godwin Austen",
+      "Kangchenjunga",
+      "Annapurna",
+      "Mt. Everest"
+    ],
+    "answer": "Mt. Everest",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city  has the busiest airport in the world?",
+    "options": [
+      "London, England",
+      "Chicago,Illinois ISA",
+      "Tokyo,Japan",
+      "Atlanta, Georgia USA"
+    ],
+    "answer": "Atlanta, Georgia USA",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the US State of New York?",
+    "options": [
+      "Buffalo",
+      "New York",
+      "Rochester",
+      "Albany"
+    ],
+    "answer": "Albany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is the smallest by population?",
+    "options": [
+      "Slovakia",
+      "Finland",
+      "Hong Kong",
+      "Norway"
+    ],
+    "answer": "Norway",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many sovereign states are members of the United Nations?",
+    "options": [
+      "201",
+      "153",
+      "178",
+      "195"
+    ],
+    "answer": "195",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which English county will you find the University of East Anglia?",
+    "options": [
+      "Suffolk",
+      "Essex",
+      "Cambridgeshire",
+      "Norfolk"
+    ],
+    "answer": "Norfolk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the State of Washington, United States?",
+    "options": [
+      "Washington D.C.",
+      "Seattle",
+      "Yukon",
+      "Olympia"
+    ],
+    "answer": "Olympia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What African country has Portuguese as its official language?",
+    "options": [
+      "Botswana",
+      "Gabon",
+      "Togo",
+      "Mozambique"
+    ],
+    "answer": "Mozambique",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What state is the largest state of the United States of America?",
+    "options": [
+      "California",
+      "Texas",
+      "Washington",
+      "Alaska"
+    ],
+    "answer": "Alaska",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest city in Morocco?",
+    "options": [
+      "Rabat",
+      "Fes",
+      "Sale",
+      "Casablanca"
+    ],
+    "answer": "Casablanca",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of the American state of Arizona?",
+    "options": [
+      "Montgomery",
+      "Tallahassee",
+      "Raleigh",
+      "Phoenix"
+    ],
+    "answer": "Phoenix",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many sovereign states are members of the United Nations?",
+    "options": [
+      "201",
+      "153",
+      "178",
+      "195"
+    ],
+    "answer": "195",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city is known as the Rose Capital of the World?",
+    "options": [
+      "San Diego, California",
+      "Miami, Florida",
+      "Anaheim, California",
+      "Tyler, Texas"
+    ],
+    "answer": "Tyler, Texas",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Bandung",
+      "Medan",
+      "Palembang",
+      "Jakarta"
+    ],
+    "answer": "Jakarta",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What tiny principality lies between Spain and France?",
+    "options": [
+      "Liechtenstein",
+      "Monaco",
+      "San Marino",
+      "Andorra"
+    ],
+    "answer": "Andorra",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many states are in Australia?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which city is the capital of Switzerland?",
+    "options": [
+      "Z&uuml;rich",
+      "Frankfurt",
+      "Wien",
+      "Bern"
+    ],
+    "answer": "Bern",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "options": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania",
+      "San Francisco, California"
+    ],
+    "answer": "San Francisco, California",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries share a land border with Luxembourg?",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "3",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these countries is not written in its native language?",
+    "options": [
+      "Suomi",
+      "Schweiz",
+      "Ell&aacute;da",
+      "Slova&scaron;ko"
+    ],
+    "answer": "Slova&scaron;ko",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Melbourne",
+      "Wellington"
+    ],
+    "answer": "Wellington",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which country is the city of Rio de Janeiro?",
+    "options": [
+      "Peru",
+      "Chile",
+      "Venezuela",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital city of Bermuda?",
+    "options": [
+      "Santo Dominigo",
+      "San Juan",
+      "Havana",
+      "Hamilton"
+    ],
+    "answer": "Hamilton",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+    "options": [
+      "Fuerteventura",
+      "Gran Canaria",
+      "Maui",
+      "Tenerife"
+    ],
+    "answer": "Tenerife",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+    "options": [
+      "Europe, Africa and Asia",
+      "Europe",
+      "Europe and Asia",
+      "Europe and Africa"
+    ],
+    "answer": "Europe and Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following former Yugoslavian states is landlocked?",
+    "options": [
+      "Bosnia and Herzegovina",
+      "Montenegro",
+      "Croatia",
+      "Serbia"
+    ],
+    "answer": "Serbia",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is the largest of these 4 islands?",
+    "options": [
+      "Great Britain",
+      "Cuba",
+      "Madagascar",
+      "Borneo"
+    ],
+    "answer": "Borneo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is NOT a city in India?",
+    "options": [
+      "Hyderabad",
+      "Ahmedabad",
+      "Ghaziabad",
+      "Islamabad"
+    ],
+    "answer": "Islamabad",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the most populous city in the Americas in 2015?",
+    "options": [
+      "New York",
+      "Mexico City",
+      "Los Angeles",
+      "S&atilde;o Paulo"
+    ],
+    "answer": "S&atilde;o Paulo",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which European city is known as the &quot;City of Light&quot;?",
+    "options": [
+      "Rome",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "Paris",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fifth largest country by area?",
+    "options": [
+      "United States",
+      "Australia",
+      "India",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of rocky region that spans most of eastern Canada?",
+    "options": [
+      "Rocky Mountains",
+      "Appalachian Mountains",
+      "Himalayas",
+      "Canadian Shield"
+    ],
+    "answer": "Canadian Shield",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The longest shared border in the world can be found between which two nations?",
+    "options": [
+      "Chile and Argentina",
+      "Russia and China",
+      "India and Pakistan",
+      "Canada and the United States"
+    ],
+    "answer": "Canada and the United States",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many countries are inside the United Kingdom?",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "Four"
+    ],
+    "answer": "Four",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The Pyrenees mountains are located on the border of which two countries?",
+    "options": [
+      "Italy and Switzerland",
+      "Norway and Sweden",
+      "Russia and Ukraine",
+      "France and Spain"
+    ],
+    "answer": "France and Spain",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the area of Vatican City?",
+    "options": [
+      "0.10km^2",
+      "0.86km^2",
+      "12.00km^2",
+      "0.44km^2"
+    ],
+    "answer": "0.44km^2",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The body of the Egyptian Sphinx was based on which animal?",
+    "options": [
+      "Bull",
+      "Horse",
+      "Dog",
+      "Lion"
+    ],
+    "answer": "Lion",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the Finnish word for &quot;Finland&quot;?",
+    "options": [
+      "Eesti",
+      "Magyarorsz&aacute;g",
+      "Sverige",
+      "Suomi"
+    ],
+    "answer": "Suomi",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+    "options": [
+      "Andorra",
+      "Gibraltar",
+      "Quin",
+      "Kashmir"
+    ],
+    "answer": "Kashmir",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a capital city?",
+    "options": [
+      "Cairo",
+      "Moscow",
+      "Beijing",
+      "Sydney"
+    ],
+    "answer": "Sydney",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "options": [
+      "Aarhus",
+      "Odense",
+      "Aalborg",
+      "Copenhagen"
+    ],
+    "answer": "Copenhagen",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+    "options": [
+      "Austria",
+      "Canada",
+      "Sweden",
+      "Germany"
+    ],
+    "answer": "Germany",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these is the name of the largest city in the US state Tennessee?",
+    "options": [
+      "Thebes",
+      "Alexandria",
+      "Luxor",
+      "Memphis"
+    ],
+    "answer": "Memphis",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these cities has a 4&deg; East longitude. ",
+    "options": [
+      "Rio de Janero",
+      "Toronto",
+      "Hong Kong",
+      "Amsterdam"
+    ],
+    "answer": "Amsterdam",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Greenland?",
+    "options": [
+      "Sisimiut",
+      "Narsaq",
+      "Maniitsoq",
+      "Nuuk"
+    ],
+    "answer": "Nuuk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city  has the busiest airport in the world?",
+    "options": [
+      "London, England",
+      "Chicago,Illinois ISA",
+      "Tokyo,Japan",
+      "Atlanta, Georgia USA"
+    ],
+    "answer": "Atlanta, Georgia USA",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "options": [
+      "Nouakchott",
+      "Conakry",
+      "Monrovia",
+      "Dakar"
+    ],
+    "answer": "Dakar",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The mountainous Khyber Pass connects which of the two following countries?",
+    "options": [
+      "India and Nepal",
+      "Pakistan and India",
+      "Tajikistan and Kyrgyzstan",
+      "Afghanistan and Pakistan"
+    ],
+    "answer": "Afghanistan and Pakistan",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "options": [
+      "Croatia",
+      "Serbia",
+      "Macedonia",
+      "Albania"
+    ],
+    "answer": "Albania",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+    "options": [
+      "Japanese",
+      "Russian",
+      "Indian",
+      "Chinese"
+    ],
+    "answer": "Chinese",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Pyongyang",
+      "Taegu",
+      "Kitakyushu",
+      "Seoul"
+    ],
+    "answer": "Seoul",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+    "options": [
+      "Whistler, British Columbia",
+      "Disney World",
+      "Yosemite National Park",
+      "Niagara Falls"
+    ],
+    "answer": "Niagara Falls",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which country has three capital cities?",
+    "options": [
+      "Somalia",
+      "China",
+      "United Kingdom",
+      "South Africa"
+    ],
+    "answer": "South Africa",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many counties in the Republic of Ireland.",
+    "options": [
+      "32",
+      "28",
+      "30",
+      "26"
+    ],
+    "answer": "26",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the largest lake in the African continent?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Victoria"
+    ],
+    "answer": "Lake Victoria",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": [
+      "Mount Godwin Austen",
+      "Kangchenjunga",
+      "Annapurna",
+      "Mt. Everest"
+    ],
+    "answer": "Mt. Everest",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where is Hadrian&#039;s Wall located?",
+    "options": [
+      "Rome, Italy",
+      "Alexandria, Egypt",
+      "Dublin, Ireland",
+      "Carlisle, England"
+    ],
+    "answer": "Carlisle, England",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which English county will you find the University of East Anglia?",
+    "options": [
+      "Suffolk",
+      "Essex",
+      "Cambridgeshire",
+      "Norfolk"
+    ],
+    "answer": "Norfolk",
+    "category": "Geography",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What city is the Terracotta Army located in?",
+    "options": [
+      "Beijing",
+      "Shanghai",
+      "Hong Kong",
+      "Xi&#039;an"
+    ],
+    "answer": "Xi&#039;an",
+    "category": "Geography",
+    "source": "OpenTDB"
+  }
+]

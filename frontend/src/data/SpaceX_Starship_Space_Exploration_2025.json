@@ -1,0 +1,57 @@
+[
+  {
+    "question": "As of recent developments and plans for 2025, what is Starship's primary designated role in NASA's Artemis III mission?",
+    "options": [
+      "Transporting cargo to the Lunar Gateway",
+      "Serving as the Human Landing System (HLS) to the lunar surface",
+      "Deploying a new generation of lunar communication satellites",
+      "Performing in-situ resource utilization experiments on the Moon"
+    ],
+    "answer": "Serving as the Human Landing System (HLS) to the lunar surface",
+    "category": "SpaceX Starship & Space Exploration 2025"
+  },
+  {
+    "question": "What critical capability, currently being developed and tested by SpaceX, is essential for Starship to fulfill its role as the Human Landing System for NASA's Artemis III mission, especially with the 2025 timeframe in mind for readiness?",
+    "options": [
+      "Deep-space habitat module integration",
+      "In-orbit refueling (propellant transfer)",
+      "Advanced solar electric propulsion",
+      "Mars atmospheric entry technology"
+    ],
+    "answer": "In-orbit refueling (propellant transfer)",
+    "category": "SpaceX Starship & Space Exploration 2025"
+  },
+  {
+    "question": "Following its recent Integrated Flight Test 4 (IFT-4) in June 2024, what significant milestone did the Starship system achieve regarding reusability demonstrations?",
+    "options": [
+      "Successful orbital insertion and deployment of Starlink satellites.",
+      "The first crewed flight test to Earth orbit.",
+      "Both the Super Heavy booster and Starship upper stage successfully demonstrated controlled re-entry and soft splashdown maneuvers.",
+      "Reached lunar orbit for the first time."
+    ],
+    "answer": "Both the Super Heavy booster and Starship upper stage successfully demonstrated controlled re-entry and soft splashdown maneuvers.",
+    "category": "SpaceX Starship & Space Exploration 2025"
+  },
+  {
+    "question": "What is NASA's next planned crewed mission in the Artemis program, following Artemis I and preceding the Starship-dependent Artemis III, with its launch tentatively planned for late 2025 or early 2026?",
+    "options": [
+      "Artemis IV",
+      "Lunar Gateway power and propulsion element launch",
+      "Artemis II",
+      "A commercial lunar lander demonstration"
+    ],
+    "answer": "Artemis II",
+    "category": "SpaceX Starship & Space Exploration 2025"
+  },
+  {
+    "question": "As of 2024-2025, where is SpaceX's primary research, development, assembly, and launch site for the Starship program located?",
+    "options": [
+      "Kennedy Space Center, Florida",
+      "Cape Canaveral Space Force Station, Florida",
+      "Vandenberg Space Force Base, California",
+      "Starbase, Boca Chica, Texas"
+    ],
+    "answer": "Starbase, Boca Chica, Texas",
+    "category": "SpaceX Starship & Space Exploration 2025"
+  }
+]

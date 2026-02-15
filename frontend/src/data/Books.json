@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "Who wrote &quot;Harry Potter&quot;?",
+    "options": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe",
+      "J.K. Rowling"
+    ],
+    "answer": "J.K. Rowling",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+    "options": [
+      "Thorin Oakenshield",
+      "Bombur",
+      "Dwalin",
+      "Gloin"
+    ],
+    "answer": "Gloin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Ron Weasley&#039;s middle name?",
+    "options": [
+      "Arthur",
+      "John",
+      "Dominic",
+      "Bilius"
+    ],
+    "answer": "Bilius",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+    "options": [
+      "Fagin",
+      "Bull&rsquo;s-eye",
+      "Mr. Fang",
+      "The Artful Dodger"
+    ],
+    "answer": "The Artful Dodger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+    "options": [
+      "SCP-001",
+      "SCP-999",
+      "SCP-1459",
+      "SCP-173"
+    ],
+    "answer": "SCP-173",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+    "options": [
+      "Neo-Bolshevism",
+      "Obliteration of the Self",
+      "Earth Alliance",
+      "INGSOC"
+    ],
+    "answer": "INGSOC",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+    "options": [
+      "Hamlet",
+      "The Great Gatsby",
+      "Peter Pan",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+    "options": [
+      "The relation it has with killing the innocents",
+      "The villain&#039;s favourite meal",
+      "The voice of innocent people being shut by the powerful",
+      "The main character&#039;s trauma in childhood"
+    ],
+    "answer": "The main character&#039;s trauma in childhood",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+    "options": [
+      "The Outsiders",
+      "The Mafia",
+      "The Socs",
+      "The Greasers"
+    ],
+    "answer": "The Greasers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+    "options": [
+      "&quot;The answer is 42.&quot;",
+      "&quot;Land of the brave.&quot;",
+      "&quot;Goodbye cruel world!&quot;",
+      "&quot;So long, and thanks for all the fish.&quot;"
+    ],
+    "answer": "&quot;So long, and thanks for all the fish.&quot;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the children&#039;s book series, where is Paddington Bear originally from?",
+    "options": [
+      "India",
+      "Iceland",
+      "Canada",
+      "Peru"
+    ],
+    "answer": "Peru",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+    "options": [
+      "Cobra",
+      "Anaconda",
+      "Viper",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+    "options": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Sugg"
+    ],
+    "answer": "Joe Sugg",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+    "options": [
+      "The Rose of the Marrows",
+      "The Thorn of Emberlain",
+      "The Thorn of the Marrows",
+      "The Thorn of Camorr"
+    ],
+    "answer": "The Thorn of Camorr",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+    "options": [
+      "James",
+      "Harold",
+      "Christopher",
+      "Oswald"
+    ],
+    "answer": "Oswald",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+    "options": [
+      "Beth",
+      "Jo",
+      "Meg",
+      "Amy"
+    ],
+    "answer": "Amy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "options": [
+      "Stephen King",
+      "Robert Bloch",
+      "Mary Shelley",
+      "Ira Levin"
+    ],
+    "answer": "Ira Levin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+    "options": [
+      "Liu Bei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ],
+    "answer": "Zhao Yun",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Russian author wrote the epic novel War and Peace?",
+    "options": [
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov",
+      "Leo Tolstoy"
+    ],
+    "answer": "Leo Tolstoy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+    "options": [
+      "August",
+      "April",
+      "May",
+      "June"
+    ],
+    "answer": "June",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+    "options": [
+      "Ian Cameron Esslemont",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Steven Erikson"
+    ],
+    "answer": "Steven Erikson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Henry Miller",
+      "William S. Burroughs",
+      "Hunter S. Thompson"
+    ],
+    "answer": "Hunter S. Thompson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+    "options": [
+      "Pansy Parkinson",
+      "Millicent Bulstrode",
+      "Hermione Granger",
+      "Astoria Greengrass"
+    ],
+    "answer": "Astoria Greengrass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "options": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "Anna Karenina"
+    ],
+    "answer": "Anna Karenina",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the world&#039;s best-selling book?",
+    "options": [
+      "The Little Prince",
+      "Harry Potter and the Philosopher&#039;s Stone",
+      "The Da Vinci Code",
+      "The Lord of the Rings"
+    ],
+    "answer": "The Lord of the Rings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+    "options": [
+      "A Tale of Two Cities",
+      "Kidnapped",
+      "Wuthering Heights",
+      "Moby Dick"
+    ],
+    "answer": "Moby Dick",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+    "options": [
+      "A Hat in Time",
+      "The Cinder Spires",
+      "My Life as a Teenage Wizard",
+      "The Dresden Files"
+    ],
+    "answer": "The Dresden Files",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+    "options": [
+      "Eagle",
+      "Kyte",
+      "Swallow",
+      "Falcon"
+    ],
+    "answer": "Falcon",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+    "options": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ],
+    "answer": "Friedrich Engels",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fourth book of the Old Testament?",
+    "options": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ],
+    "answer": "Numbers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+    "options": [
+      "Hamlet",
+      "Wealthy Boy and the Schmuck",
+      "A Modern Twain Story",
+      "The Prince and the Pauper"
+    ],
+    "answer": "The Prince and the Pauper",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what name was the author Eric Blair better known?",
+    "options": [
+      "Aldous Huxley",
+      "Ernest Hemingway",
+      "Ray Bradbury",
+      "George Orwell"
+    ],
+    "answer": "George Orwell",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+    "options": [
+      "5",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": "9",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+    "options": [
+      "Oscar",
+      "Heath",
+      "Smokey",
+      "Dinah"
+    ],
+    "answer": "Dinah",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+    "options": [
+      "Bilbo Baggins",
+      "Gandalf the Grey",
+      "Frodo",
+      "Bard"
+    ],
+    "answer": "Bard",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+    "options": [
+      "The Pickwick Papers",
+      "Nicholas Nickleby",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "answer": "Great Expectations",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these book series is by James Patterson?",
+    "options": [
+      "Harry Potter",
+      "The Legend of Xanth",
+      "The Bartemaeus Trilogy",
+      "Maximum Ride"
+    ],
+    "answer": "Maximum Ride",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+    "options": [
+      "George Orwell",
+      "Mark Twain ",
+      "Harper Lee",
+      "John Steinbeck "
+    ],
+    "answer": "John Steinbeck ",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "John Steinbeck",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+    "options": [
+      "Dracula",
+      "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+      "The Legend of Sleepy Hollow",
+      "Frankenstein"
+    ],
+    "answer": "Frankenstein",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+    "options": [
+      "Bant",
+      "Llanowar",
+      "Tazeem",
+      "Ulgrotha"
+    ],
+    "answer": "Ulgrotha",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+    "options": [
+      "765 Days",
+      "401 Days",
+      "324 Days",
+      "549 Days"
+    ],
+    "answer": "549 Days",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Harry Potter books are there?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which poet wrote &quot;The Ballad of Reading Gaol&quot; whilst imprisoned for being gay?",
+    "options": [
+      "Lord Byron",
+      "William Blake",
+      "Wilfred Owen",
+      "Oscar Wilde"
+    ],
+    "answer": "Oscar Wilde",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+    "options": [
+      "The Dunstane Hotel",
+      "Hotel Novotel",
+      "Sheraton Grand Hotel &amp; Spa",
+      "The Balmoral"
+    ],
+    "answer": "The Balmoral",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "options": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Bront&euml;"
+    ],
+    "answer": "Charlotte Bront&euml;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+    "options": [
+      "Barsetshire",
+      "Fulchester",
+      "Ambridge",
+      "Wessex"
+    ],
+    "answer": "Wessex",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+    "options": [
+      "Beatrix Potter",
+      "Roald Dahl",
+      "A.A. Milne",
+      "Dr. Seuss"
+    ],
+    "answer": "Dr. Seuss",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+    "options": [
+      "A Dance with Dragons",
+      "A Storm of Swords",
+      "A Feast for Crows",
+      "A Clash of Kings"
+    ],
+    "answer": "A Clash of Kings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+    "options": [
+      "The Rose of the Marrows",
+      "The Thorn of Emberlain",
+      "The Thorn of the Marrows",
+      "The Thorn of Camorr"
+    ],
+    "answer": "The Thorn of Camorr",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+    "options": [
+      "765 Days",
+      "401 Days",
+      "324 Days",
+      "549 Days"
+    ],
+    "answer": "549 Days",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+    "options": [
+      "The Outsiders",
+      "The Mafia",
+      "The Socs",
+      "The Greasers"
+    ],
+    "answer": "The Greasers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+    "options": [
+      "Wolves of the Calla",
+      "Hearts in Atlantis",
+      "The Dark Half",
+      "Wizard and Glass"
+    ],
+    "answer": "Wizard and Glass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+    "options": [
+      "Eagle",
+      "Kyte",
+      "Swallow",
+      "Falcon"
+    ],
+    "answer": "Falcon",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+    "options": [
+      "Thievery",
+      "Justice",
+      "Chaos",
+      "Shadow"
+    ],
+    "answer": "Shadow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is NOT a book in the Harry Potter Series?",
+    "options": [
+      "The Chamber of Secrets",
+      "The Prisoner of Azkaban",
+      "The Deathly Hallows",
+      "The House Elf"
+    ],
+    "answer": "The House Elf",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hermione Granger&#039;s middle name?",
+    "options": [
+      "Jane",
+      "Emma",
+      "Jo",
+      "Jean"
+    ],
+    "answer": "Jean",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+    "options": [
+      "Otaria",
+      "Terisiare",
+      "Shiv",
+      "Sarpadia"
+    ],
+    "answer": "Sarpadia",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Mary Shelley is the author of what classic horror story?",
+    "options": [
+      "Dracula",
+      "Strange Case of Dr Jekyll and Mr Hyde",
+      "The Legend of Sleepy Hollow",
+      "Frankenstein"
+    ],
+    "answer": "Frankenstein",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+    "options": [
+      "Fagin",
+      "Bull&rsquo;s-eye",
+      "Mr. Fang",
+      "The Artful Dodger"
+    ],
+    "answer": "The Artful Dodger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Harry Potter book was a Horcrux first encountered?",
+    "options": [
+      "The Half-Blood Prince",
+      "The Goblet of Fire",
+      "The Deathly Hallows",
+      "The Chamber of Secrets"
+    ],
+    "answer": "The Chamber of Secrets",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+    "options": [
+      "Loving everyone around you",
+      "Chocolate",
+      "Death",
+      "42"
+    ],
+    "answer": "42",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+    "options": [
+      "Spike",
+      "Poofy",
+      "Spot",
+      "Fluffy"
+    ],
+    "answer": "Fluffy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+    "options": [
+      "R. L. Stine",
+      "Wolfgang Amadeus Mozart",
+      "Stephen King",
+      "Ray Bradbury"
+    ],
+    "answer": "Ray Bradbury",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;Harry Potter&quot;?",
+    "options": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe",
+      "J.K. Rowling"
+    ],
+    "answer": "J.K. Rowling",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the pen name of novelist, Mary Ann Evans?",
+    "options": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders",
+      "George Eliot"
+    ],
+    "answer": "George Eliot",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+    "options": [
+      "5",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": "9",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what name was the author Eric Blair better known?",
+    "options": [
+      "Aldous Huxley",
+      "Ernest Hemingway",
+      "Ray Bradbury",
+      "George Orwell"
+    ],
+    "answer": "George Orwell",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+    "options": [
+      "Rogue Lawyer",
+      "Gray Mountain",
+      "The Litigators",
+      "Camino Island"
+    ],
+    "answer": "Camino Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+    "options": [
+      "Ian Cameron Esslemont",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Steven Erikson"
+    ],
+    "answer": "Steven Erikson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Sherlock Holmes&#039;s brother?",
+    "options": [
+      "Mederi Holmes",
+      "Martin Holmes",
+      "Herbie Hancock Holmes",
+      "Mycroft Holmes"
+    ],
+    "answer": "Mycroft Holmes",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+    "options": [
+      "The relation it has with killing the innocents",
+      "The villain&#039;s favourite meal",
+      "The voice of innocent people being shut by the powerful",
+      "The main character&#039;s trauma in childhood"
+    ],
+    "answer": "The main character&#039;s trauma in childhood",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+    "options": [
+      "James",
+      "Harold",
+      "Christopher",
+      "Oswald"
+    ],
+    "answer": "Oswald",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+    "options": [
+      "Glaedr",
+      "Thorn",
+      "Arya",
+      "Saphira"
+    ],
+    "answer": "Saphira",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+    "options": [
+      "Charles Dickens",
+      "Lewis Carroll",
+      "Oscar Wilde",
+      "Hans Christian Andersen"
+    ],
+    "answer": "Hans Christian Andersen",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic horror character killed Elizabeth Lavenza?",
+    "options": [
+      "Count Dracula",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Frankenstein&#039;s Monster"
+    ],
+    "answer": "Frankenstein&#039;s Monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+    "options": [
+      "Arwen",
+      "Aragorn",
+      "Haldir",
+      "Glorfindel"
+    ],
+    "answer": "Glorfindel",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Harry Potter books are there?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the world&#039;s best-selling book?",
+    "options": [
+      "The Little Prince",
+      "Harry Potter and the Philosopher&#039;s Stone",
+      "The Da Vinci Code",
+      "The Lord of the Rings"
+    ],
+    "answer": "The Lord of the Rings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+    "options": [
+      "The Neptune",
+      "The Poseidon  ",
+      "The Atlantis",
+      "The Nautilus"
+    ],
+    "answer": "The Nautilus",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+    "options": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these book series is by James Patterson?",
+    "options": [
+      "Harry Potter",
+      "The Legend of Xanth",
+      "The Bartemaeus Trilogy",
+      "Maximum Ride"
+    ],
+    "answer": "Maximum Ride",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+    "options": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ],
+    "answer": "George R. R. Martin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+    "options": [
+      "The Old Man and the Sea",
+      "Catcher and the Rye",
+      "To Kill a Mockingbird",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fourth book of the Old Testament?",
+    "options": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ],
+    "answer": "Numbers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "options": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ],
+    "answer": "Herman Melville",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+    "options": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Sugg"
+    ],
+    "answer": "Joe Sugg",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+    "options": [
+      "A Tale of Two Cities",
+      "Kidnapped",
+      "Wuthering Heights",
+      "Moby Dick"
+    ],
+    "answer": "Moby Dick",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+    "options": [
+      "Joey Potter",
+      "Frank Potter",
+      "Hairy Potter Sr.",
+      "James Potter"
+    ],
+    "answer": "James Potter",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "options": [
+      "Stephen King",
+      "Robert Bloch",
+      "Mary Shelley",
+      "Ira Levin"
+    ],
+    "answer": "Ira Levin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+    "options": [
+      "5",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": "9",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+    "options": [
+      "Neo-Bolshevism",
+      "Obliteration of the Self",
+      "Earth Alliance",
+      "INGSOC"
+    ],
+    "answer": "INGSOC",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the children&#039;s book series, where is Paddington Bear originally from?",
+    "options": [
+      "India",
+      "Iceland",
+      "Canada",
+      "Peru"
+    ],
+    "answer": "Peru",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+    "options": [
+      "A Dance with Dragons",
+      "A Storm of Swords",
+      "A Feast for Crows",
+      "A Clash of Kings"
+    ],
+    "answer": "A Clash of Kings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+    "options": [
+      "Joseph Conrad",
+      "John Buchan",
+      "Graham Greene",
+      "Ian Fleming"
+    ],
+    "answer": "Ian Fleming",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+    "options": [
+      "Hamlet",
+      "The Tempest",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following authors was not born in England? ",
+    "options": [
+      "Graham Greene",
+      "H G Wells",
+      "Arthur C Clarke",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+    "options": [
+      "Bilbo Baggins",
+      "Gandalf the Grey",
+      "Frodo",
+      "Bard"
+    ],
+    "answer": "Bard",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+    "options": [
+      "Rhythmically tap barrels with a wand",
+      "Speak a password",
+      "Knock in sequence",
+      "Answer a riddle"
+    ],
+    "answer": "Answer a riddle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+    "options": [
+      "Glaedr",
+      "Thorn",
+      "Arya",
+      "Saphira"
+    ],
+    "answer": "Saphira",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "options": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Bront&euml;"
+    ],
+    "answer": "Charlotte Bront&euml;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+    "options": [
+      "Edgar Allan Poe",
+      "William Shakespeare",
+      "William Wordsworth",
+      "Rudyard Kipling"
+    ],
+    "answer": "Rudyard Kipling",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Sherlock Holmes&#039;s brother?",
+    "options": [
+      "Mederi Holmes",
+      "Martin Holmes",
+      "Herbie Hancock Holmes",
+      "Mycroft Holmes"
+    ],
+    "answer": "Mycroft Holmes",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+    "options": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Sugg"
+    ],
+    "answer": "Joe Sugg",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+    "options": [
+      "Wolves of the Calla",
+      "Hearts in Atlantis",
+      "The Dark Half",
+      "Wizard and Glass"
+    ],
+    "answer": "Wizard and Glass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+    "options": [
+      "Stephen King",
+      "F. Scott Fitzgerald",
+      "Hunter Fox",
+      "William Golding"
+    ],
+    "answer": "William Golding",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Harry Potter books are there?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+    "options": [
+      "765 Days",
+      "401 Days",
+      "324 Days",
+      "549 Days"
+    ],
+    "answer": "549 Days",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic horror character killed Elizabeth Lavenza?",
+    "options": [
+      "Count Dracula",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Frankenstein&#039;s Monster"
+    ],
+    "answer": "Frankenstein&#039;s Monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+    "options": [
+      "Thievery",
+      "Justice",
+      "Chaos",
+      "Shadow"
+    ],
+    "answer": "Shadow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+    "options": [
+      "The Outsiders",
+      "The Mafia",
+      "The Socs",
+      "The Greasers"
+    ],
+    "answer": "The Greasers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+    "options": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ],
+    "answer": "Friedrich Engels",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+    "options": [
+      "The Rose of the Marrows",
+      "The Thorn of Emberlain",
+      "The Thorn of the Marrows",
+      "The Thorn of Camorr"
+    ],
+    "answer": "The Thorn of Camorr",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+    "options": [
+      "SCP-001",
+      "SCP-999",
+      "SCP-1459",
+      "SCP-173"
+    ],
+    "answer": "SCP-173",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+    "options": [
+      "Thorin Oakenshield",
+      "Bombur",
+      "Dwalin",
+      "Gloin"
+    ],
+    "answer": "Gloin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+    "options": [
+      "Granny Weatherwax",
+      "Nanny Ogg",
+      "Magrat Garlick",
+      "Winny Hathersham"
+    ],
+    "answer": "Winny Hathersham",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+    "options": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+    "options": [
+      "Pansy Parkinson",
+      "Millicent Bulstrode",
+      "Hermione Granger",
+      "Astoria Greengrass"
+    ],
+    "answer": "Astoria Greengrass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+    "options": [
+      "Eagle",
+      "Kyte",
+      "Swallow",
+      "Falcon"
+    ],
+    "answer": "Falcon",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+    "options": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ],
+    "answer": "George R. R. Martin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+    "options": [
+      "A Hat in Time",
+      "The Cinder Spires",
+      "My Life as a Teenage Wizard",
+      "The Dresden Files"
+    ],
+    "answer": "The Dresden Files",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+    "options": [
+      "Scarborough",
+      "Brighton",
+      "Portsmouth",
+      "Whitby"
+    ],
+    "answer": "Whitby",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+    "options": [
+      "Arwen",
+      "Aragorn",
+      "Haldir",
+      "Glorfindel"
+    ],
+    "answer": "Glorfindel",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+    "options": [
+      "August",
+      "April",
+      "May",
+      "June"
+    ],
+    "answer": "June",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "John Steinbeck",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+    "options": [
+      "Cobra",
+      "Anaconda",
+      "Viper",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+    "options": [
+      "Dracula",
+      "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+      "The Legend of Sleepy Hollow",
+      "Frankenstein"
+    ],
+    "answer": "Frankenstein",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+    "options": [
+      "My Hatred",
+      "My Sadness",
+      "My Desire",
+      "My Struggle"
+    ],
+    "answer": "My Struggle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Ron Weasley&#039;s middle name?",
+    "options": [
+      "Arthur",
+      "John",
+      "Dominic",
+      "Bilius"
+    ],
+    "answer": "Bilius",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+    "options": [
+      "Dilophosaurus",
+      "Tyrannosaurus Rex",
+      "Velociraptor",
+      "Procompsognathus"
+    ],
+    "answer": "Procompsognathus",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel is there a character named Homer Simpson?",
+    "options": [
+      "Catch-22",
+      "Of Mice and Men",
+      "A Separate Peace",
+      "The Day of the Locust"
+    ],
+    "answer": "The Day of the Locust",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+    "options": [
+      "Fagin",
+      "Bull&rsquo;s-eye",
+      "Mr. Fang",
+      "The Artful Dodger"
+    ],
+    "answer": "The Artful Dodger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+    "options": [
+      "Liu Bei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ],
+    "answer": "Zhao Yun",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+    "options": [
+      "Barsetshire",
+      "Fulchester",
+      "Ambridge",
+      "Wessex"
+    ],
+    "answer": "Wessex",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+    "options": [
+      "Dracula",
+      "The Thing",
+      "The Invisible Man",
+      "Frankenstein&#039;s monster"
+    ],
+    "answer": "Frankenstein&#039;s monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+    "options": [
+      "Otaria",
+      "Terisiare",
+      "Shiv",
+      "Sarpadia"
+    ],
+    "answer": "Sarpadia",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many books are in the Chronicles of Narnia series?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+    "options": [
+      "SCP-001",
+      "SCP-999",
+      "SCP-1459",
+      "SCP-173"
+    ],
+    "answer": "SCP-173",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+    "options": [
+      "Thorin Oakenshield",
+      "Bombur",
+      "Dwalin",
+      "Gloin"
+    ],
+    "answer": "Gloin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+    "options": [
+      "Ian Cameron Esslemont",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Steven Erikson"
+    ],
+    "answer": "Steven Erikson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+    "options": [
+      "A Hat in Time",
+      "The Cinder Spires",
+      "My Life as a Teenage Wizard",
+      "The Dresden Files"
+    ],
+    "answer": "The Dresden Files",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "options": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ],
+    "answer": "Herman Melville",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+    "options": [
+      "A Dance with Dragons",
+      "A Storm of Swords",
+      "A Feast for Crows",
+      "A Clash of Kings"
+    ],
+    "answer": "A Clash of Kings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "options": [
+      "The Sign of the Four",
+      "A Case of Identity",
+      "The Doings of Raffles Haw",
+      "A Study in Scarlet"
+    ],
+    "answer": "A Study in Scarlet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "options": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "Anna Karenina"
+    ],
+    "answer": "Anna Karenina",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+    "options": [
+      "Spike",
+      "Poofy",
+      "Spot",
+      "Fluffy"
+    ],
+    "answer": "Fluffy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+    "options": [
+      "Liu Bei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ],
+    "answer": "Zhao Yun",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+    "options": [
+      "Wolves of the Calla",
+      "Hearts in Atlantis",
+      "The Dark Half",
+      "Wizard and Glass"
+    ],
+    "answer": "Wizard and Glass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel is there a character named Homer Simpson?",
+    "options": [
+      "Catch-22",
+      "Of Mice and Men",
+      "A Separate Peace",
+      "The Day of the Locust"
+    ],
+    "answer": "The Day of the Locust",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+    "options": [
+      "Thievery",
+      "Justice",
+      "Chaos",
+      "Shadow"
+    ],
+    "answer": "Shadow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+    "options": [
+      "Pansy Parkinson",
+      "Millicent Bulstrode",
+      "Hermione Granger",
+      "Astoria Greengrass"
+    ],
+    "answer": "Astoria Greengrass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+    "options": [
+      "The Dunstane Hotel",
+      "Hotel Novotel",
+      "Sheraton Grand Hotel &amp; Spa",
+      "The Balmoral"
+    ],
+    "answer": "The Balmoral",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "options": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Bront&euml;"
+    ],
+    "answer": "Charlotte Bront&euml;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "options": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ],
+    "answer": "John Green",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a work done by Shakespeare?",
+    "options": [
+      "Measure For Measure",
+      "Titus Andronicus",
+      "Cymbeline",
+      "Trial of Temperance"
+    ],
+    "answer": "Trial of Temperance",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+    "options": [
+      "Rhythmically tap barrels with a wand",
+      "Speak a password",
+      "Knock in sequence",
+      "Answer a riddle"
+    ],
+    "answer": "Answer a riddle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Harry Potter book was a Horcrux first encountered?",
+    "options": [
+      "The Half-Blood Prince",
+      "The Goblet of Fire",
+      "The Deathly Hallows",
+      "The Chamber of Secrets"
+    ],
+    "answer": "The Chamber of Secrets",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+    "options": [
+      "James",
+      "Harold",
+      "Christopher",
+      "Oswald"
+    ],
+    "answer": "Oswald",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+    "options": [
+      "The Pickwick Papers",
+      "Nicholas Nickleby",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "answer": "Great Expectations",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+    "options": [
+      "Bant",
+      "Llanowar",
+      "Tazeem",
+      "Ulgrotha"
+    ],
+    "answer": "Ulgrotha",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+    "options": [
+      "Joseph Conrad",
+      "John Buchan",
+      "Graham Greene",
+      "Ian Fleming"
+    ],
+    "answer": "Ian Fleming",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+    "options": [
+      "Dracula",
+      "The Thing",
+      "The Invisible Man",
+      "Frankenstein&#039;s monster"
+    ],
+    "answer": "Frankenstein&#039;s monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the town in which Lily and James Potter are buried?",
+    "options": [
+      "Hogsmeade",
+      "Ottery St. Catchpole",
+      "Little Hangleton",
+      "Godric&#039;s Hollow"
+    ],
+    "answer": "Godric&#039;s Hollow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "options": [
+      "Fox",
+      "Frog",
+      "Rabbit",
+      "Badger"
+    ],
+    "answer": "Badger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+    "options": [
+      "Granny Weatherwax",
+      "Nanny Ogg",
+      "Magrat Garlick",
+      "Winny Hathersham"
+    ],
+    "answer": "Winny Hathersham",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Ron Weasley&#039;s middle name?",
+    "options": [
+      "Arthur",
+      "John",
+      "Dominic",
+      "Bilius"
+    ],
+    "answer": "Bilius",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "options": [
+      "Stephen King",
+      "Robert Bloch",
+      "Mary Shelley",
+      "Ira Levin"
+    ],
+    "answer": "Ira Levin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+    "options": [
+      "Oscar",
+      "Heath",
+      "Smokey",
+      "Dinah"
+    ],
+    "answer": "Dinah",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+    "options": [
+      "A Tale of Two Cities",
+      "Kidnapped",
+      "Wuthering Heights",
+      "Moby Dick"
+    ],
+    "answer": "Moby Dick",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+    "options": [
+      "Charles Darwin",
+      "Mark Twain",
+      "Roald Dahl",
+      "Charles Dickens"
+    ],
+    "answer": "Charles Dickens",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+    "options": [
+      "The Old Man and the Sea",
+      "Catcher and the Rye",
+      "To Kill a Mockingbird",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many books are in the Chronicles of Narnia series?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+    "options": [
+      "Hamlet",
+      "The Great Gatsby",
+      "Peter Pan",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+    "options": [
+      "Barsetshire",
+      "Fulchester",
+      "Ambridge",
+      "Wessex"
+    ],
+    "answer": "Wessex",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+    "options": [
+      "Rogue Lawyer",
+      "Gray Mountain",
+      "The Litigators",
+      "Camino Island"
+    ],
+    "answer": "Camino Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+    "options": [
+      "Holden David",
+      "Jerome Caulfield",
+      "Jerome David",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+    "options": [
+      "Hamlet",
+      "The Tempest",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following authors was not born in England? ",
+    "options": [
+      "Graham Greene",
+      "H G Wells",
+      "Arthur C Clarke",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+    "options": [
+      "Beth",
+      "Jo",
+      "Meg",
+      "Amy"
+    ],
+    "answer": "Amy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+    "options": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ],
+    "answer": "George R. R. Martin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+    "options": [
+      "Joey Potter",
+      "Frank Potter",
+      "Hairy Potter Sr.",
+      "James Potter"
+    ],
+    "answer": "James Potter",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+    "options": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+    "options": [
+      "Joseph Conrad",
+      "John Buchan",
+      "Graham Greene",
+      "Ian Fleming"
+    ],
+    "answer": "Ian Fleming",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "John Steinbeck",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+    "options": [
+      "A Hat in Time",
+      "The Cinder Spires",
+      "My Life as a Teenage Wizard",
+      "The Dresden Files"
+    ],
+    "answer": "The Dresden Files",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+    "options": [
+      "Joey Potter",
+      "Frank Potter",
+      "Hairy Potter Sr.",
+      "James Potter"
+    ],
+    "answer": "James Potter",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+    "options": [
+      "Oscar",
+      "Heath",
+      "Smokey",
+      "Dinah"
+    ],
+    "answer": "Dinah",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+    "options": [
+      "Eagle",
+      "Kyte",
+      "Swallow",
+      "Falcon"
+    ],
+    "answer": "Falcon",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+    "options": [
+      "Hamlet",
+      "The Tempest",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+    "options": [
+      "Neo-Bolshevism",
+      "Obliteration of the Self",
+      "Earth Alliance",
+      "INGSOC"
+    ],
+    "answer": "INGSOC",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "options": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "Anna Karenina"
+    ],
+    "answer": "Anna Karenina",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+    "options": [
+      "Bilbo Baggins",
+      "Gandalf the Grey",
+      "Frodo",
+      "Bard"
+    ],
+    "answer": "Bard",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+    "options": [
+      "R. L. Stine",
+      "Wolfgang Amadeus Mozart",
+      "Stephen King",
+      "Ray Bradbury"
+    ],
+    "answer": "Ray Bradbury",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Henry Miller",
+      "William S. Burroughs",
+      "Hunter S. Thompson"
+    ],
+    "answer": "Hunter S. Thompson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+    "options": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Sugg"
+    ],
+    "answer": "Joe Sugg",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic horror character killed Elizabeth Lavenza?",
+    "options": [
+      "Count Dracula",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Frankenstein&#039;s Monster"
+    ],
+    "answer": "Frankenstein&#039;s Monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+    "options": [
+      "My Hatred",
+      "My Sadness",
+      "My Desire",
+      "My Struggle"
+    ],
+    "answer": "My Struggle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+    "options": [
+      "Beth",
+      "Jo",
+      "Meg",
+      "Amy"
+    ],
+    "answer": "Amy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+    "options": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ],
+    "answer": "George R. R. Martin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is NOT a book in the Harry Potter Series?",
+    "options": [
+      "The Chamber of Secrets",
+      "The Prisoner of Azkaban",
+      "The Deathly Hallows",
+      "The House Elf"
+    ],
+    "answer": "The House Elf",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+    "options": [
+      "1989 Jeep Wrangler YJ Sahar",
+      "1989 Ford Explorer XLT",
+      "Mercedes M-Class",
+      "1989 Toyota Land Cruiser"
+    ],
+    "answer": "1989 Toyota Land Cruiser",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+    "options": [
+      "Glaedr",
+      "Thorn",
+      "Arya",
+      "Saphira"
+    ],
+    "answer": "Saphira",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "options": [
+      "Fox",
+      "Frog",
+      "Rabbit",
+      "Badger"
+    ],
+    "answer": "Badger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+    "options": [
+      "Arwen",
+      "Aragorn",
+      "Haldir",
+      "Glorfindel"
+    ],
+    "answer": "Glorfindel",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+    "options": [
+      "Wolves of the Calla",
+      "Hearts in Atlantis",
+      "The Dark Half",
+      "Wizard and Glass"
+    ],
+    "answer": "Wizard and Glass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+    "options": [
+      "Loving everyone around you",
+      "Chocolate",
+      "Death",
+      "42"
+    ],
+    "answer": "42",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Harry Potter books are there?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+    "options": [
+      "The Outsiders",
+      "The Mafia",
+      "The Socs",
+      "The Greasers"
+    ],
+    "answer": "The Greasers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+    "options": [
+      "The Old Man and the Sea",
+      "Catcher and the Rye",
+      "To Kill a Mockingbird",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+    "options": [
+      "George Orwell",
+      "Mark Twain ",
+      "Harper Lee",
+      "John Steinbeck "
+    ],
+    "answer": "John Steinbeck ",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;The Little Prince&quot; was written by...",
+    "options": [
+      "Miguel de Cervantes Saavedra",
+      "Jane Austen",
+      "F. Scott Fitzgerald",
+      "Antoine de Saint-Exup&eacute;ry"
+    ],
+    "answer": "Antoine de Saint-Exup&eacute;ry",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+    "options": [
+      "Cobra",
+      "Anaconda",
+      "Viper",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+    "options": [
+      "The Rose of the Marrows",
+      "The Thorn of Emberlain",
+      "The Thorn of the Marrows",
+      "The Thorn of Camorr"
+    ],
+    "answer": "The Thorn of Camorr",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;The Scarlet Letter&quot;, published in 1850?",
+    "options": [
+      "Washington Irving",
+      "James Fenimore Cooper",
+      "Catherine Maria Sedgwick",
+      "Nathaniel Hawthorne"
+    ],
+    "answer": "Nathaniel Hawthorne",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+    "options": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ],
+    "answer": "Friedrich Engels",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "options": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ],
+    "answer": "John Green",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+    "options": [
+      "Vulcania Island",
+      "Prometheus Island",
+      "Neptune Island",
+      "Lincoln Island"
+    ],
+    "answer": "Lincoln Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+    "options": [
+      "Charles Darwin",
+      "Mark Twain",
+      "Roald Dahl",
+      "Charles Dickens"
+    ],
+    "answer": "Charles Dickens",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the town in which Lily and James Potter are buried?",
+    "options": [
+      "Hogsmeade",
+      "Ottery St. Catchpole",
+      "Little Hangleton",
+      "Godric&#039;s Hollow"
+    ],
+    "answer": "Godric&#039;s Hollow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these book series is by James Patterson?",
+    "options": [
+      "Harry Potter",
+      "The Legend of Xanth",
+      "The Bartemaeus Trilogy",
+      "Maximum Ride"
+    ],
+    "answer": "Maximum Ride",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "options": [
+      "Stephen King",
+      "Robert Bloch",
+      "Mary Shelley",
+      "Ira Levin"
+    ],
+    "answer": "Ira Levin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel is there a character named Homer Simpson?",
+    "options": [
+      "Catch-22",
+      "Of Mice and Men",
+      "A Separate Peace",
+      "The Day of the Locust"
+    ],
+    "answer": "The Day of the Locust",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Harry Potter book was a Horcrux first encountered?",
+    "options": [
+      "The Half-Blood Prince",
+      "The Goblet of Fire",
+      "The Deathly Hallows",
+      "The Chamber of Secrets"
+    ],
+    "answer": "The Chamber of Secrets",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+    "options": [
+      "Fagin",
+      "Bull&rsquo;s-eye",
+      "Mr. Fang",
+      "The Artful Dodger"
+    ],
+    "answer": "The Artful Dodger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+    "options": [
+      "Charles Dickens",
+      "Lewis Carroll",
+      "Oscar Wilde",
+      "Hans Christian Andersen"
+    ],
+    "answer": "Hans Christian Andersen",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "options": [
+      "Stephen King",
+      "Robert Bloch",
+      "Mary Shelley",
+      "Ira Levin"
+    ],
+    "answer": "Ira Levin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+    "options": [
+      "George Orwell",
+      "Mark Twain ",
+      "Harper Lee",
+      "John Steinbeck "
+    ],
+    "answer": "John Steinbeck ",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+    "options": [
+      "Holden David",
+      "Jerome Caulfield",
+      "Jerome David",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+    "options": [
+      "Stephen King",
+      "F. Scott Fitzgerald",
+      "Hunter Fox",
+      "William Golding"
+    ],
+    "answer": "William Golding",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+    "options": [
+      "The Rose of the Marrows",
+      "The Thorn of Emberlain",
+      "The Thorn of the Marrows",
+      "The Thorn of Camorr"
+    ],
+    "answer": "The Thorn of Camorr",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+    "options": [
+      "Glaedr",
+      "Thorn",
+      "Arya",
+      "Saphira"
+    ],
+    "answer": "Saphira",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In what Harry Potter book was a Horcrux first encountered?",
+    "options": [
+      "The Half-Blood Prince",
+      "The Goblet of Fire",
+      "The Deathly Hallows",
+      "The Chamber of Secrets"
+    ],
+    "answer": "The Chamber of Secrets",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+    "options": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ],
+    "answer": "Friedrich Engels",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which poet wrote &quot;The Ballad of Reading Gaol&quot; whilst imprisoned for being gay?",
+    "options": [
+      "Lord Byron",
+      "William Blake",
+      "Wilfred Owen",
+      "Oscar Wilde"
+    ],
+    "answer": "Oscar Wilde",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these book series is by James Patterson?",
+    "options": [
+      "Harry Potter",
+      "The Legend of Xanth",
+      "The Bartemaeus Trilogy",
+      "Maximum Ride"
+    ],
+    "answer": "Maximum Ride",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which Russian author wrote the epic novel War and Peace?",
+    "options": [
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov",
+      "Leo Tolstoy"
+    ],
+    "answer": "Leo Tolstoy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+    "options": [
+      "Hamlet",
+      "The Great Gatsby",
+      "Peter Pan",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+    "options": [
+      "August",
+      "April",
+      "May",
+      "June"
+    ],
+    "answer": "June",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "options": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ],
+    "answer": "Herman Melville",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many Harry Potter books are there?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+    "options": [
+      "My Hatred",
+      "My Sadness",
+      "My Desire",
+      "My Struggle"
+    ],
+    "answer": "My Struggle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+    "options": [
+      "Bilbo Baggins",
+      "Gandalf the Grey",
+      "Frodo",
+      "Bard"
+    ],
+    "answer": "Bard",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+    "options": [
+      "The relation it has with killing the innocents",
+      "The villain&#039;s favourite meal",
+      "The voice of innocent people being shut by the powerful",
+      "The main character&#039;s trauma in childhood"
+    ],
+    "answer": "The main character&#039;s trauma in childhood",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+    "options": [
+      "The Pickwick Papers",
+      "Nicholas Nickleby",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "answer": "Great Expectations",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "options": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ],
+    "answer": "John Green",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+    "options": [
+      "Oscar",
+      "Heath",
+      "Smokey",
+      "Dinah"
+    ],
+    "answer": "Dinah",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+    "options": [
+      "Charles Darwin",
+      "Mark Twain",
+      "Roald Dahl",
+      "Charles Dickens"
+    ],
+    "answer": "Charles Dickens",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Henry Miller",
+      "William S. Burroughs",
+      "Hunter S. Thompson"
+    ],
+    "answer": "Hunter S. Thompson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "options": [
+      "The Sign of the Four",
+      "A Case of Identity",
+      "The Doings of Raffles Haw",
+      "A Study in Scarlet"
+    ],
+    "answer": "A Study in Scarlet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "options": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Bront&euml;"
+    ],
+    "answer": "Charlotte Bront&euml;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the pen name of novelist, Mary Ann Evans?",
+    "options": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders",
+      "George Eliot"
+    ],
+    "answer": "George Eliot",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "options": [
+      "Fox",
+      "Frog",
+      "Rabbit",
+      "Badger"
+    ],
+    "answer": "Badger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+    "options": [
+      "Beatrix Potter",
+      "Roald Dahl",
+      "A.A. Milne",
+      "Dr. Seuss"
+    ],
+    "answer": "Dr. Seuss",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "John Steinbeck",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hermione Granger&#039;s middle name?",
+    "options": [
+      "Jane",
+      "Emma",
+      "Jo",
+      "Jean"
+    ],
+    "answer": "Jean",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does Stephen King&#039;s &quot;IT&quot; take place?",
+    "options": [
+      "Rockford, Illinois",
+      "Innsmouth, Massachusetts",
+      "Kingsland, Texas",
+      "Derry, Maine"
+    ],
+    "answer": "Derry, Maine",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+    "options": [
+      "R. L. Stine",
+      "Wolfgang Amadeus Mozart",
+      "Stephen King",
+      "Ray Bradbury"
+    ],
+    "answer": "Ray Bradbury",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+    "options": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+    "options": [
+      "765 Days",
+      "401 Days",
+      "324 Days",
+      "549 Days"
+    ],
+    "answer": "549 Days",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many books are in the Chronicles of Narnia series?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which classic horror character killed Elizabeth Lavenza?",
+    "options": [
+      "Count Dracula",
+      "Werewolf",
+      "The Creature from the Black Lagoon",
+      "Frankenstein&#039;s Monster"
+    ],
+    "answer": "Frankenstein&#039;s Monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "options": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "Anna Karenina"
+    ],
+    "answer": "Anna Karenina",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the world&#039;s best-selling book?",
+    "options": [
+      "The Little Prince",
+      "Harry Potter and the Philosopher&#039;s Stone",
+      "The Da Vinci Code",
+      "The Lord of the Rings"
+    ],
+    "answer": "The Lord of the Rings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+    "options": [
+      "Granny Weatherwax",
+      "Nanny Ogg",
+      "Magrat Garlick",
+      "Winny Hathersham"
+    ],
+    "answer": "Winny Hathersham",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Sherlock Holmes&#039;s brother?",
+    "options": [
+      "Mederi Holmes",
+      "Martin Holmes",
+      "Herbie Hancock Holmes",
+      "Mycroft Holmes"
+    ],
+    "answer": "Mycroft Holmes",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+    "options": [
+      "Otaria",
+      "Terisiare",
+      "Shiv",
+      "Sarpadia"
+    ],
+    "answer": "Sarpadia",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+    "options": [
+      "Thievery",
+      "Justice",
+      "Chaos",
+      "Shadow"
+    ],
+    "answer": "Shadow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+    "options": [
+      "Dilophosaurus",
+      "Tyrannosaurus Rex",
+      "Velociraptor",
+      "Procompsognathus"
+    ],
+    "answer": "Procompsognathus",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+    "options": [
+      "August",
+      "April",
+      "May",
+      "June"
+    ],
+    "answer": "June",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+    "options": [
+      "Liu Bei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ],
+    "answer": "Zhao Yun",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+    "options": [
+      "Rogue Lawyer",
+      "Gray Mountain",
+      "The Litigators",
+      "Camino Island"
+    ],
+    "answer": "Camino Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+    "options": [
+      "&quot;The answer is 42.&quot;",
+      "&quot;Land of the brave.&quot;",
+      "&quot;Goodbye cruel world!&quot;",
+      "&quot;So long, and thanks for all the fish.&quot;"
+    ],
+    "answer": "&quot;So long, and thanks for all the fish.&quot;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;Harry Potter&quot;?",
+    "options": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe",
+      "J.K. Rowling"
+    ],
+    "answer": "J.K. Rowling",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "options": [
+      "The Sign of the Four",
+      "A Case of Identity",
+      "The Doings of Raffles Haw",
+      "A Study in Scarlet"
+    ],
+    "answer": "A Study in Scarlet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+    "options": [
+      "James",
+      "Harold",
+      "Christopher",
+      "Oswald"
+    ],
+    "answer": "Oswald",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "options": [
+      "Fox",
+      "Frog",
+      "Rabbit",
+      "Badger"
+    ],
+    "answer": "Badger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+    "options": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+    "options": [
+      "1989 Jeep Wrangler YJ Sahar",
+      "1989 Ford Explorer XLT",
+      "Mercedes M-Class",
+      "1989 Toyota Land Cruiser"
+    ],
+    "answer": "1989 Toyota Land Cruiser",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+    "options": [
+      "Eagle",
+      "Kyte",
+      "Swallow",
+      "Falcon"
+    ],
+    "answer": "Falcon",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+    "options": [
+      "Pansy Parkinson",
+      "Millicent Bulstrode",
+      "Hermione Granger",
+      "Astoria Greengrass"
+    ],
+    "answer": "Astoria Greengrass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "John Steinbeck",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+    "options": [
+      "Hamlet",
+      "The Great Gatsby",
+      "Peter Pan",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+    "options": [
+      "SCP-001",
+      "SCP-999",
+      "SCP-1459",
+      "SCP-173"
+    ],
+    "answer": "SCP-173",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+    "options": [
+      "Scarborough",
+      "Brighton",
+      "Portsmouth",
+      "Whitby"
+    ],
+    "answer": "Whitby",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following authors was not born in England? ",
+    "options": [
+      "Graham Greene",
+      "H G Wells",
+      "Arthur C Clarke",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many books are in the Chronicles of Narnia series?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+    "options": [
+      "Hamlet",
+      "Wealthy Boy and the Schmuck",
+      "A Modern Twain Story",
+      "The Prince and the Pauper"
+    ],
+    "answer": "The Prince and the Pauper",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+    "options": [
+      "Wolves of the Calla",
+      "Hearts in Atlantis",
+      "The Dark Half",
+      "Wizard and Glass"
+    ],
+    "answer": "Wizard and Glass",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;The Little Prince&quot; was written by...",
+    "options": [
+      "Miguel de Cervantes Saavedra",
+      "Jane Austen",
+      "F. Scott Fitzgerald",
+      "Antoine de Saint-Exup&eacute;ry"
+    ],
+    "answer": "Antoine de Saint-Exup&eacute;ry",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "options": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ],
+    "answer": "John Green",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+    "options": [
+      "Neo-Bolshevism",
+      "Obliteration of the Self",
+      "Earth Alliance",
+      "INGSOC"
+    ],
+    "answer": "INGSOC",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who was the original author of Frankenstein?",
+    "options": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Mary Shelley"
+    ],
+    "answer": "Mary Shelley",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+    "options": [
+      "Thorin Oakenshield",
+      "Bombur",
+      "Dwalin",
+      "Gloin"
+    ],
+    "answer": "Gloin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+    "options": [
+      "Hamlet",
+      "The Tempest",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+    "options": [
+      "A Dance with Dragons",
+      "A Storm of Swords",
+      "A Feast for Crows",
+      "A Clash of Kings"
+    ],
+    "answer": "A Clash of Kings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+    "options": [
+      "Spinocerebellar ataxia",
+      "Adrenoleukodystrophy",
+      "Cystic Fibrosis",
+      " Osteogenesis Imperfecta"
+    ],
+    "answer": " Osteogenesis Imperfecta",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "options": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Bront&euml;"
+    ],
+    "answer": "Charlotte Bront&euml;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hermione Granger&#039;s middle name?",
+    "options": [
+      "Jane",
+      "Emma",
+      "Jo",
+      "Jean"
+    ],
+    "answer": "Jean",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+    "options": [
+      "Bant",
+      "Llanowar",
+      "Tazeem",
+      "Ulgrotha"
+    ],
+    "answer": "Ulgrotha",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+    "options": [
+      "Holden David",
+      "Jerome Caulfield",
+      "Jerome David",
+      "Holden Caulfield"
+    ],
+    "answer": "Holden Caulfield",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+    "options": [
+      "Loving everyone around you",
+      "Chocolate",
+      "Death",
+      "42"
+    ],
+    "answer": "42",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is NOT a book in the Harry Potter Series?",
+    "options": [
+      "The Chamber of Secrets",
+      "The Prisoner of Azkaban",
+      "The Deathly Hallows",
+      "The House Elf"
+    ],
+    "answer": "The House Elf",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these book series is by James Patterson?",
+    "options": [
+      "Harry Potter",
+      "The Legend of Xanth",
+      "The Bartemaeus Trilogy",
+      "Maximum Ride"
+    ],
+    "answer": "Maximum Ride",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the world&#039;s best-selling book?",
+    "options": [
+      "The Little Prince",
+      "Harry Potter and the Philosopher&#039;s Stone",
+      "The Da Vinci Code",
+      "The Lord of the Rings"
+    ],
+    "answer": "The Lord of the Rings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+    "options": [
+      "Dracula",
+      "The Thing",
+      "The Invisible Man",
+      "Frankenstein&#039;s monster"
+    ],
+    "answer": "Frankenstein&#039;s monster",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+    "options": [
+      "Aerona",
+      "Shiv",
+      "Jamuraa",
+      "Terisiare"
+    ],
+    "answer": "Terisiare",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+    "options": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Sugg"
+    ],
+    "answer": "Joe Sugg",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Mary Shelley is the author of what classic horror story?",
+    "options": [
+      "Dracula",
+      "Strange Case of Dr Jekyll and Mr Hyde",
+      "The Legend of Sleepy Hollow",
+      "Frankenstein"
+    ],
+    "answer": "Frankenstein",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+    "options": [
+      "Cobra",
+      "Anaconda",
+      "Viper",
+      "Python"
+    ],
+    "answer": "Python",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the fourth book of the Old Testament?",
+    "options": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ],
+    "answer": "Numbers",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+    "options": [
+      "A Hat in Time",
+      "The Cinder Spires",
+      "My Life as a Teenage Wizard",
+      "The Dresden Files"
+    ],
+    "answer": "The Dresden Files",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Henry Miller",
+      "William S. Burroughs",
+      "Hunter S. Thompson"
+    ],
+    "answer": "Hunter S. Thompson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "options": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ],
+    "answer": "Herman Melville",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+    "options": [
+      "Arwen",
+      "Aragorn",
+      "Haldir",
+      "Glorfindel"
+    ],
+    "answer": "Glorfindel",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+    "options": [
+      "Vulcania Island",
+      "Prometheus Island",
+      "Neptune Island",
+      "Lincoln Island"
+    ],
+    "answer": "Lincoln Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+    "options": [
+      "R. L. Stine",
+      "Wolfgang Amadeus Mozart",
+      "Stephen King",
+      "Ray Bradbury"
+    ],
+    "answer": "Ray Bradbury",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What position does Harry Potter play in Quidditch?",
+    "options": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ],
+    "answer": "Seeker",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;The Scarlet Letter&quot;, published in 1850?",
+    "options": [
+      "Washington Irving",
+      "James Fenimore Cooper",
+      "Catherine Maria Sedgwick",
+      "Nathaniel Hawthorne"
+    ],
+    "answer": "Nathaniel Hawthorne",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+    "options": [
+      "Ian Cameron Esslemont",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Steven Erikson"
+    ],
+    "answer": "Steven Erikson",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+    "options": [
+      "Hamlet",
+      "The Great Gatsby",
+      "Peter Pan",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+    "options": [
+      "&quot;The answer is 42.&quot;",
+      "&quot;Land of the brave.&quot;",
+      "&quot;Goodbye cruel world!&quot;",
+      "&quot;So long, and thanks for all the fish.&quot;"
+    ],
+    "answer": "&quot;So long, and thanks for all the fish.&quot;",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The book &quot;The Little Prince&quot; was written by...",
+    "options": [
+      "Miguel de Cervantes Saavedra",
+      "Jane Austen",
+      "F. Scott Fitzgerald",
+      "Antoine de Saint-Exup&eacute;ry"
+    ],
+    "answer": "Antoine de Saint-Exup&eacute;ry",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+    "options": [
+      "Glaedr",
+      "Thorn",
+      "Arya",
+      "Saphira"
+    ],
+    "answer": "Saphira",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+    "options": [
+      "Vulcania Island",
+      "Prometheus Island",
+      "Neptune Island",
+      "Lincoln Island"
+    ],
+    "answer": "Lincoln Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "options": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ],
+    "answer": "John Green",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "options": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ],
+    "answer": "Herman Melville",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+    "options": [
+      "Rogue Lawyer",
+      "Gray Mountain",
+      "The Litigators",
+      "Camino Island"
+    ],
+    "answer": "Camino Island",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of these books was NOT written by the Czech author Karel \u010capek?",
+    "options": [
+      "The War with the Newts",
+      "R.U.R. (Rossum&#039;s Universal Robots)",
+      "Dashenka, or the Life of a Puppy",
+      "Journey to the Center of the Earth"
+    ],
+    "answer": "Journey to the Center of the Earth",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+    "options": [
+      "Hamlet",
+      "The Tempest",
+      "King Lear",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+    "options": [
+      "Neo-Bolshevism",
+      "Obliteration of the Self",
+      "Earth Alliance",
+      "INGSOC"
+    ],
+    "answer": "INGSOC",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+    "options": [
+      "My Hatred",
+      "My Sadness",
+      "My Desire",
+      "My Struggle"
+    ],
+    "answer": "My Struggle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is NOT a work done by Shakespeare?",
+    "options": [
+      "Measure For Measure",
+      "Titus Andronicus",
+      "Cymbeline",
+      "Trial of Temperance"
+    ],
+    "answer": "Trial of Temperance",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+    "options": [
+      "Fagin",
+      "Bull&rsquo;s-eye",
+      "Mr. Fang",
+      "The Artful Dodger"
+    ],
+    "answer": "The Artful Dodger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+    "options": [
+      "Thievery",
+      "Justice",
+      "Chaos",
+      "Shadow"
+    ],
+    "answer": "Shadow",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+    "options": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ],
+    "answer": "Friedrich Engels",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is the world&#039;s best-selling book?",
+    "options": [
+      "The Little Prince",
+      "Harry Potter and the Philosopher&#039;s Stone",
+      "The Da Vinci Code",
+      "The Lord of the Rings"
+    ],
+    "answer": "The Lord of the Rings",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "How many books are in the Chronicles of Narnia series?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which is NOT a book in the Harry Potter Series?",
+    "options": [
+      "The Chamber of Secrets",
+      "The Prisoner of Azkaban",
+      "The Deathly Hallows",
+      "The House Elf"
+    ],
+    "answer": "The House Elf",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In which classic novel is there a character named Homer Simpson?",
+    "options": [
+      "Catch-22",
+      "Of Mice and Men",
+      "A Separate Peace",
+      "The Day of the Locust"
+    ],
+    "answer": "The Day of the Locust",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+    "options": [
+      "Otaria",
+      "Terisiare",
+      "Shiv",
+      "Sarpadia"
+    ],
+    "answer": "Sarpadia",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+    "options": [
+      "The Old Man and the Sea",
+      "Catcher and the Rye",
+      "To Kill a Mockingbird",
+      "1984"
+    ],
+    "answer": "1984",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+    "options": [
+      "Spike",
+      "Poofy",
+      "Spot",
+      "Fluffy"
+    ],
+    "answer": "Fluffy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What was the pen name of novelist, Mary Ann Evans?",
+    "options": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders",
+      "George Eliot"
+    ],
+    "answer": "George Eliot",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+    "options": [
+      "Joseph Conrad",
+      "John Buchan",
+      "Graham Greene",
+      "Ian Fleming"
+    ],
+    "answer": "Ian Fleming",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;Harry Potter&quot;?",
+    "options": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe",
+      "J.K. Rowling"
+    ],
+    "answer": "J.K. Rowling",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "options": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ],
+    "answer": "Richard Bachman",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+    "options": [
+      "The Neverending Story",
+      "Charlie and the Chocolate Factory",
+      "The Cat in the Hat",
+      "Where The Wild Things Are"
+    ],
+    "answer": "Where The Wild Things Are",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following authors was not born in England? ",
+    "options": [
+      "Graham Greene",
+      "H G Wells",
+      "Arthur C Clarke",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+    "options": [
+      "Charles Darwin",
+      "Mark Twain",
+      "Roald Dahl",
+      "Charles Dickens"
+    ],
+    "answer": "Charles Dickens",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "options": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "Anna Karenina"
+    ],
+    "answer": "Anna Karenina",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+    "options": [
+      "Bant",
+      "Llanowar",
+      "Tazeem",
+      "Ulgrotha"
+    ],
+    "answer": "Ulgrotha",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "options": [
+      "The Sign of the Four",
+      "A Case of Identity",
+      "The Doings of Raffles Haw",
+      "A Study in Scarlet"
+    ],
+    "answer": "A Study in Scarlet",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+    "options": [
+      "Granny Weatherwax",
+      "Nanny Ogg",
+      "Magrat Garlick",
+      "Winny Hathersham"
+    ],
+    "answer": "Winny Hathersham",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does Stephen King&#039;s &quot;IT&quot; take place?",
+    "options": [
+      "Rockford, Illinois",
+      "Innsmouth, Massachusetts",
+      "Kingsland, Texas",
+      "Derry, Maine"
+    ],
+    "answer": "Derry, Maine",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+    "options": [
+      "Joey Potter",
+      "Frank Potter",
+      "Hairy Potter Sr.",
+      "James Potter"
+    ],
+    "answer": "James Potter",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+    "options": [
+      "5",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": "9",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which poet wrote &quot;The Ballad of Reading Gaol&quot; whilst imprisoned for being gay?",
+    "options": [
+      "Lord Byron",
+      "William Blake",
+      "Wilfred Owen",
+      "Oscar Wilde"
+    ],
+    "answer": "Oscar Wilde",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "options": [
+      "Fox",
+      "Frog",
+      "Rabbit",
+      "Badger"
+    ],
+    "answer": "Badger",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+    "options": [
+      "Albus Valum Jetta Mobius Dumbledore",
+      "Albus James Lunae Otto Dumbledore",
+      "Albus Valencium Horatio Kul Dumbledore",
+      "Albus Percival Wulfric Brian Dumbledore"
+    ],
+    "answer": "Albus Percival Wulfric Brian Dumbledore",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+    "options": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ],
+    "answer": "George R. R. Martin",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+    "options": [
+      "Beth",
+      "Jo",
+      "Meg",
+      "Amy"
+    ],
+    "answer": "Amy",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+    "options": [
+      "The relation it has with killing the innocents",
+      "The villain&#039;s favourite meal",
+      "The voice of innocent people being shut by the powerful",
+      "The main character&#039;s trauma in childhood"
+    ],
+    "answer": "The main character&#039;s trauma in childhood",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+    "options": [
+      "Barsetshire",
+      "Fulchester",
+      "Ambridge",
+      "Wessex"
+    ],
+    "answer": "Wessex",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "What is Hermione Granger&#039;s middle name?",
+    "options": [
+      "Jane",
+      "Emma",
+      "Jo",
+      "Jean"
+    ],
+    "answer": "Jean",
+    "category": "Books",
+    "source": "OpenTDB"
+  },
+  {
+    "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+    "options": [
+      "The Pickwick Papers",
+      "Nicholas Nickleby",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "answer": "Great Expectations",
+    "category": "Books",
+    "source": "OpenTDB"
+  }
+]
