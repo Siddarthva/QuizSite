@@ -10,16 +10,49 @@ import { useNavigate } from 'react-router-dom';
 const QuizGame = ({ quiz }) => {
   const { handleQuizComplete } = useContext(GameContext);
   const navigate = useNavigate();
+  const [questions, setQuestions] = useState([]);
   const [currentQIndex, setCurrentQIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(20);
-  const [gameStatus, setGameStatus] = useState('playing');
+  const [gameStatus, setGameStatus] = useState('loading'); // Start with loading
   const [streak, setStreak] = useState(0);
   const [answers, setAnswers] = useState([]);
 
-  const currentQ = quiz.questions[currentQIndex];
+  // Shuffle questions and options on mount
+  useEffect(() => {
+    if (!quiz) return;
+
+    const shuffled = quiz.questions.map(q => {
+      // Create an array of indices [0, 1, 2, 3...]
+      const indices = q.options.map((_, i) => i);
+
+      // Shuffle indices
+      for (let i = indices.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [indices[i], indices[j]] = [indices[j], indices[i]];
+      }
+
+      // Create new options array based on shuffled indices
+      const newOptions = indices.map(i => q.options[i]);
+
+      // Find where the correct answer moved to
+      // The original correct index was q.correct. We need to find which index in 'indices' holds the value 'q.correct'
+      const newCorrect = indices.indexOf(q.correct);
+
+      return {
+        ...q,
+        options: newOptions,
+        correct: newCorrect
+      };
+    });
+
+    setQuestions(shuffled);
+    setGameStatus('playing');
+  }, [quiz]);
+
+  const currentQ = questions[currentQIndex];
 
   useEffect(() => {
     if (gameStatus !== 'playing') return;
@@ -49,7 +82,7 @@ const QuizGame = ({ quiz }) => {
   };
 
   const nextQuestion = () => {
-    if (currentQIndex + 1 < quiz.questions.length) {
+    if (currentQIndex + 1 < questions.length) {
       setCurrentQIndex(prev => prev + 1);
       setSelectedOption(null);
       setIsAnswered(false);
@@ -59,6 +92,14 @@ const QuizGame = ({ quiz }) => {
       setGameStatus('finished');
     }
   };
+
+  if (gameStatus === 'loading') {
+    return (
+      <div className="flex items-center justify-center h-full">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-violet-500"></div>
+      </div>
+    );
+  }
 
   if (gameStatus === 'finished') {
     return (
@@ -78,7 +119,7 @@ const QuizGame = ({ quiz }) => {
           </Card>
           <Card className="p-4 bg-emerald-50 dark:bg-emerald-900/20 border-emerald-200">
             <div className="text-xs uppercase font-bold text-emerald-500 mb-1">Correct</div>
-            <div className="text-3xl font-black text-emerald-700 dark:text-emerald-300">{answers.filter(a => a.isCorrect).length}/{quiz.questions.length}</div>
+            <div className="text-3xl font-black text-emerald-700 dark:text-emerald-300">{answers.filter(a => a.isCorrect).length}/{questions.length}</div>
           </Card>
           <Card className="p-4 bg-amber-50 dark:bg-amber-900/20 border-amber-200">
             <div className="text-xs uppercase font-bold text-amber-500 mb-1">XP Earned</div>
@@ -89,7 +130,7 @@ const QuizGame = ({ quiz }) => {
           <Button variant="secondary" onClick={() => navigate('/')}>Back Home</Button>
           <Button onClick={() => handleQuizComplete({
             score,
-            totalQuestions: quiz.questions.length,
+            totalQuestions: questions.length,
             correctAnswers: answers.filter(a => a.isCorrect).length
           })}>Claim Rewards</Button>
         </div>
@@ -107,7 +148,7 @@ const QuizGame = ({ quiz }) => {
         <div className="flex flex-col items-center">
           <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-violet-400 mb-1">{quiz.category}</span>
           <div className="flex gap-1">
-            {[...Array(quiz.questions.length)].map((_, i) => (
+            {[...Array(questions.length)].map((_, i) => (
               <div key={i} className={`h-1.5 w-6 rounded-full transition-colors duration-300 ${i === currentQIndex ? 'bg-white' : i < currentQIndex ? 'bg-violet-500' : 'bg-slate-800'}`} />
             ))}
           </div>

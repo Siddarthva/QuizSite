@@ -55,7 +55,6 @@ export const AuthProvider = ({ children }) => {
               email: 'alex@example.com',
               level: 12,
               xp: 2450,
-              xp: 2450,
               nextLevelXp: 3000,
               streak: 5,
               stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 },
