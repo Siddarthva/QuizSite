@@ -1,19 +1,21 @@
-# @babel/code-frame
+# MindQuest 🧠✨
 
-> Generate errors that contain a code frame that point to source locations.
+A modern, AI-powered quiz application designed to make learning engaging and fun. Built with React and Tailwind CSS.
 
-See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
+## Features 🚀
+- **Gamified Learning**: Earn XP, level up, and maintain streaks.
+- **AI Assistant**: Get quiz recommendations and navigation help from our smart chatbot.
+- **Dynamic Content**: Explore categories or create your own quizzes.
+- **Premium UI**: Sleek, responsive design with dark mode and smooth animations.
 
-## Install
+## Tech Stack 🛠️
+- **Frontend**: React, Vite, Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
 
-Using npm:
+## Getting Started 🏁
+1. Clone the repo
+2. Run `npm install`
+3. Start the app: `npm run dev`
 
-```sh
-npm install --save-dev @babel/code-frame
-```
-
-or using yarn:
-
-```sh
-yarn add @babel/code-frame --dev
-```
+Happy Quizzing! 🎉
