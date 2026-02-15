@@ -4,6 +4,7 @@ import { Search, Filter } from 'lucide-react';
 import { GameContext } from '../context/GameContext';
 import Button from '../components/Button';
 import QuizCard from '../components/QuizCard';
+import QuizStartModal from '../components/QuizStartModal';
 import { CATEGORIES } from '../data';
 
 const Explore = () => {
@@ -11,6 +12,7 @@ const Explore = () => {
   const location = useLocation();
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState(location.state?.category || 'All');
+  const [selectedQuiz, setSelectedQuiz] = useState(null);
 
   useEffect(() => {
     if (location.state?.category) {
@@ -59,7 +61,7 @@ const Explore = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {filtered.map(quiz => (
-          <QuizCard key={quiz.id} quiz={quiz} onPlay={() => startQuiz(quiz)} />
+          <QuizCard key={quiz.id} quiz={quiz} onPlay={() => setSelectedQuiz(quiz)} />
         ))}
         {filtered.length === 0 && (
           <div className="col-span-full py-20 text-center text-slate-500">
@@ -68,6 +70,15 @@ const Explore = () => {
           </div>
         )}
       </div>
+
+      <QuizStartModal
+        quiz={selectedQuiz}
+        onClose={() => setSelectedQuiz(null)}
+        onStart={(quiz) => {
+          setSelectedQuiz(null);
+          startQuiz(quiz);
+        }}
+      />
     </div>
   );
 };

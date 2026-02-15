@@ -17,7 +17,8 @@ export const AuthProvider = ({ children }) => {
       coins: 450,
       streak: 5,
       badges: ['newbie', 'streak_3'],
-      stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 }
+      stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 },
+      history: []
     };
   });
 
@@ -53,19 +54,22 @@ export const AuthProvider = ({ children }) => {
           // For demo purposes, we'll just use the existing mock user if it matches "alex"
           // otherwise create a new one based on email
           if (email === 'alex@example.com') {
-             setUser({
-                name: 'Alex Gamer',
-                email: 'alex@example.com',
-                level: 12,
-                xp: 2450,
-                nextLevelXp: 3000,
-                coins: 450,
-                streak: 5,
-                badges: ['newbie', 'streak_3'],
-                stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 }
-              });
+            setUser({
+              name: 'Alex Gamer',
+              email: 'alex@example.com',
+              level: 12,
+              xp: 2450,
+              nextLevelXp: 3000,
+              coins: 450,
+              streak: 5,
+              badges: ['newbie', 'streak_3'],
+              stats: { quizzesPlayed: 42, questionsAnswered: 350, accuracy: 78, wins: 15 },
+              history: [
+                { quizId: 'basic-math', title: 'Basic Math', score: 800, xpEarned: 80, date: new Date().toISOString() } // Sample history
+              ]
+            });
           } else {
-             setUser(dummyUser);
+            setUser(dummyUser);
           }
           resolve({ success: true });
         } else {
@@ -87,7 +91,8 @@ export const AuthProvider = ({ children }) => {
           coins: 50, // Bonus for signing up
           streak: 0,
           badges: ['newbie'],
-          stats: { quizzesPlayed: 0, questionsAnswered: 0, accuracy: 0, wins: 0 }
+          stats: { quizzesPlayed: 0, questionsAnswered: 0, accuracy: 0, wins: 0 },
+          history: []
         };
         setUser(newUser);
         resolve({ success: true });
@@ -103,10 +108,10 @@ export const AuthProvider = ({ children }) => {
     setUser(prev => ({ ...prev, ...updates }));
     return Promise.resolve({ success: true });
   };
-    
+
   // Helper to update game stats (xp, coins, etc)
   const updateStats = (newStats) => {
-      setUser(prev => ({...prev, ...newStats}));
+    setUser(prev => ({ ...prev, ...newStats }));
   }
 
   return (

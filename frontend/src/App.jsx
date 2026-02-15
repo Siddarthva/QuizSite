@@ -98,7 +98,19 @@ export default function App() {
         ...user.stats,
         quizzesPlayed: user.stats.quizzesPlayed + 1,
         questionsAnswered: user.stats.questionsAnswered + results.totalQuestions
-      }
+      },
+      history: [
+        {
+          quizId: activeQuiz.id,
+          title: activeQuiz.title,
+          score: results.score,
+          xpEarned: xpGained,
+          date: new Date().toISOString(),
+          correctAnswers: results.correctAnswers,
+          totalQuestions: results.totalQuestions
+        },
+        ...(user.history || [])
+      ]
     };
 
     updateStats(newStats);
@@ -163,8 +175,8 @@ export default function App() {
 
           <div className="flex-1 overflow-y-auto p-4 md:p-8 scroll-smooth pb-24 md:pb-8">
             <div className="max-w-6xl mx-auto">
+              <ScrollToTop />
               <AnimatePresence mode="wait">
-                <ScrollToTop />
                 <Routes location={location} key={location.pathname}>
                   <Route path="/" element={<PageTransition><ProtectedRoute><Dashboard /></ProtectedRoute></PageTransition>} />
                   <Route path="/categories" element={<PageTransition><ProtectedRoute><Categories /></ProtectedRoute></PageTransition>} />

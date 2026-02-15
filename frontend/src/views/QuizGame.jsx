@@ -87,7 +87,11 @@ const QuizGame = ({ quiz }) => {
         </div>
         <div className="flex gap-4 justify-center">
           <Button variant="secondary" onClick={() => navigate('/')}>Back Home</Button>
-          <Button onClick={() => handleQuizComplete({ score, totalQuestions: quiz.questions.length })}>Claim Rewards</Button>
+          <Button onClick={() => handleQuizComplete({
+            score,
+            totalQuestions: quiz.questions.length,
+            correctAnswers: answers.filter(a => a.isCorrect).length
+          })}>Claim Rewards</Button>
         </div>
       </div>
     );

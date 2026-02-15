@@ -38,12 +38,12 @@ const QuizCard = ({ quiz, onPlay }) => (
 
       <div className="mt-auto pt-4 border-t border-white/5 flex items-center justify-between">
         <span className={`text-[10px] font-bold px-2 py-0.5 rounded border ${quiz.difficulty === 'Easy' ? 'border-emerald-500/30 text-emerald-400 bg-emerald-500/10' :
-            quiz.difficulty === 'Medium' ? 'border-amber-500/30 text-amber-400 bg-amber-500/10' :
-              'border-rose-500/30 text-rose-400 bg-rose-500/10'
+          quiz.difficulty === 'Medium' ? 'border-amber-500/30 text-amber-400 bg-amber-500/10' :
+            'border-rose-500/30 text-rose-400 bg-rose-500/10'
           }`}>
           {quiz.difficulty}
         </span>
-        <Button size="sm" onClick={onPlay} className="rounded-full px-6 bg-white text-slate-900 hover:bg-violet-200 border-none shadow-lg shadow-violet-500/20">
+        <Button size="sm" onClick={onPlay} variant="primary" className="rounded-full px-6 shadow-lg shadow-violet-500/20">
           Play Now
         </Button>
       </div>

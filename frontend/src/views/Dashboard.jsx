@@ -5,19 +5,21 @@ import Card from '../components/Card';
 import CategoryCard from '../components/CategoryCard';
 import Button from '../components/Button';
 import QuizCard from '../components/QuizCard';
+import QuizStartModal from '../components/QuizStartModal';
 import { GameContext } from '../context/GameContext';
 import { CATEGORIES } from '../data';
 
 const Dashboard = () => {
   const { user, library, startQuiz } = useContext(GameContext);
   const navigate = useNavigate();
+  const [selectedQuiz, setSelectedQuiz] = React.useState(null);
   const recommended = library.slice(0, 3);
 
   const handleDailyChallenge = () => {
     // Just pick a random quiz for now
     if (library.length > 0) {
       const randomQuiz = library[Math.floor(Math.random() * library.length)];
-      startQuiz(randomQuiz);
+      setSelectedQuiz(randomQuiz);
     }
   };
 
@@ -28,7 +30,7 @@ const Dashboard = () => {
           <h2 className="text-3xl md:text-4xl font-extrabold mb-4 font-heading">Ready to learn,  {/* {user.name.split(' ')[0]}?*/}</h2>
           <p className="text-violet-100 text-lg mb-8">You're on a {/*{user.streak}*/} day streak! Keep it up to unlock the Firestarter badge.</p>
           <div className="flex gap-4">
-            <Button variant="white" size="lg" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth' })} className="font-bold shadow-xl shadow-indigo-500/20 hover:shadow-indigo-500/40 transform hover:-translate-y-0.5" icon={Play}>
+            <Button variant="primary" size="lg" onClick={() => document.getElementById('rec-quizzes').scrollIntoView({ behavior: 'smooth' })} className="font-bold shadow-xl shadow-violet-500/20 hover:shadow-violet-500/40 transform hover:-translate-y-0.5" icon={Play}>
               Start Playing
             </Button>
             <Button variant="outline" className="text-white border-white/20 hover:bg-white/10 hover:border-white backdrop-blur-sm" onClick={handleDailyChallenge}>
@@ -82,10 +84,19 @@ const Dashboard = () => {
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {recommended.map(quiz => (
-            <QuizCard key={quiz.id} quiz={quiz} onPlay={() => startQuiz(quiz)} />
+            <QuizCard key={quiz.id} quiz={quiz} onPlay={() => setSelectedQuiz(quiz)} />
           ))}
         </div>
       </div>
+
+      <QuizStartModal
+        quiz={selectedQuiz}
+        onClose={() => setSelectedQuiz(null)}
+        onStart={(quiz) => {
+          setSelectedQuiz(null);
+          startQuiz(quiz);
+        }}
+      />
     </div>
   );
 };
