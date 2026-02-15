@@ -24,6 +24,9 @@ export const BADGES = [
 export const generateMockQuizzes = () => {
   const quizzes = [];
   CATEGORIES.forEach(cat => {
+    // specific keywords for better images
+    const keyword = cat.name.split(' ')[0].toLowerCase();
+
     quizzes.push({
       id: `${cat.id}-hero`,
       title: `${cat.name} Masterclass`,
@@ -34,11 +37,12 @@ export const generateMockQuizzes = () => {
       plays: Math.floor(Math.random() * 5000),
       rating: (4 + Math.random()).toFixed(1),
       author: 'System',
+      image: `https://loremflickr.com/800/600/${keyword},quiz`,
       questions: [
-        { id: 1, text: `What is a key concept in ${cat.name}?`, options: ["Concept A", "Concept B", "Concept C", "Concept D"], correct: 0, explanation: "Concept A is fundamental to this field." },
-        { id: 2, text: "Which of these is most famous?", options: ["Option X", "Option Y", "Option Z", "Option W"], correct: 1, explanation: "Option Y is widely recognized globally." },
+        { id: 1, text: `What is a key concept in ${cat.name}?`, options: ["Concept A", "Concept B", "Concept C", "Concept D"], correct: 0, explanation: "Concept A is fundamental to this field.", image: `https://loremflickr.com/800/400/${keyword},concept` },
+        { id: 2, text: "Which of these is most famous?", options: ["Option X", "Option Y", "Option Z", "Option W"], correct: 1, explanation: "Option Y is widely recognized globally.", image: `https://loremflickr.com/800/400/${keyword},famous` },
         { id: 3, text: "Identify the correct statement.", options: ["False statement", "False statement", "True statement", "False statement"], correct: 2, explanation: "This is the only factually correct choice." },
-        { id: 4, text: "Who is a legend in this field?", options: ["Person A", "Person B", "Person C", "Person D"], correct: 3, explanation: "Person D revolutionized the industry." },
+        { id: 4, text: "Who is a legend in this field?", options: ["Person A", "Person B", "Person C", "Person D"], correct: 3, explanation: "Person D revolutionized the industry.", image: `https://loremflickr.com/800/400/${keyword},person` },
         { id: 5, text: "When did the major event occur?", options: ["1900s", "1950s", "2000s", "Ancient Times"], correct: 1, explanation: "It happened during the mid-20th century." }
       ]
     });
@@ -54,6 +58,7 @@ export const generateMockQuizzes = () => {
         plays: Math.floor(Math.random() * 1000),
         rating: (3.5 + Math.random() * 1.5).toFixed(1),
         author: 'Community',
+        image: `https://loremflickr.com/800/600/${keyword},challenge`,
         questions: []
       });
     }

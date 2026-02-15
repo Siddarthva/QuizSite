@@ -22,6 +22,7 @@ import Profile from './views/Profile';
 import SignIn from './views/SignIn';
 import SignUp from './views/SignUp';
 import './index.css';
+import AIAgent from './components/AIAgent';
 
 // Protected Route Component
 const ProtectedRoute = ({ children }) => {
@@ -168,6 +169,8 @@ export default function App() {
             </div>
           </div>
 
+
+
           <nav className="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 p-2 flex justify-around z-50 safe-area-bottom">
             <MobileNavItem icon={Layout} active={isActive('/')} onClick={() => navigate('/')} />
             <MobileNavItem icon={Search} active={isActive('/explore')} onClick={() => navigate('/explore')} />
@@ -178,6 +181,8 @@ export default function App() {
             <MobileNavItem icon={User} active={isActive('/profile')} onClick={() => navigate('/profile')} />
           </nav>
         </main>
+
+        <AIAgent />
 
         <div className="fixed bottom-20 md:bottom-8 right-4 md:right-8 z-50 space-y-2 pointer-events-none">
           <AnimatePresence>

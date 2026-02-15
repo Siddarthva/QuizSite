@@ -8,9 +8,10 @@ export const Button = ({ children, variant = 'primary', size = 'md', className, 
     outline: "border-2 border-slate-200 dark:border-slate-700 hover:border-violet-500 text-slate-600 dark:text-slate-300",
     ghost: "hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-400",
     danger: "bg-rose-500 hover:bg-rose-600 text-white",
-    success: "bg-emerald-500 hover:bg-emerald-600 text-white"
+    success: "bg-emerald-500 hover:bg-emerald-600 text-white",
+    white: "bg-white hover:bg-slate-100 text-violet-700 shadow-lg shadow-black/5"
   };
-  
+
   const sizes = {
     sm: "px-3 py-1.5 text-xs",
     md: "px-5 py-2.5 text-sm",
@@ -18,7 +19,7 @@ export const Button = ({ children, variant = 'primary', size = 'md', className, 
   };
 
   return (
-    <button 
+    <button
       onClick={onClick}
       disabled={disabled || loading}
       className={cn(

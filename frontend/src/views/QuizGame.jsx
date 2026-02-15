@@ -61,26 +61,26 @@ const QuizGame = ({ quiz }) => {
     return (
       <div className="max-w-2xl mx-auto py-10 animate-fade-in text-center">
         <div className="mb-8 relative inline-block">
-           <Trophy size={80} className="text-amber-400 drop-shadow-lg mx-auto" />
-           <div className="absolute top-0 right-0 -mt-2 -mr-2 animate-bounce">
-             <Star size={30} className="text-yellow-300 fill-current" />
-           </div>
+          <Trophy size={80} className="text-amber-400 drop-shadow-lg mx-auto" />
+          <div className="absolute top-0 right-0 -mt-2 -mr-2 animate-bounce">
+            <Star size={30} className="text-yellow-300 fill-current" />
+          </div>
         </div>
         <h2 className="text-4xl font-extrabold mb-2">Quiz Complete!</h2>
         <p className="text-slate-500 mb-8">You conquered {quiz.title}</p>
         <div className="grid grid-cols-3 gap-4 mb-8">
-           <Card className="p-4 bg-violet-50 dark:bg-violet-900/20 border-violet-200">
-             <div className="text-xs uppercase font-bold text-violet-500 mb-1">Score</div>
-             <div className="text-3xl font-black text-violet-700 dark:text-violet-300">{score}</div>
-           </Card>
-           <Card className="p-4 bg-emerald-50 dark:bg-emerald-900/20 border-emerald-200">
-             <div className="text-xs uppercase font-bold text-emerald-500 mb-1">Correct</div>
-             <div className="text-3xl font-black text-emerald-700 dark:text-emerald-300">{answers.filter(a => a.isCorrect).length}/{quiz.questions.length}</div>
-           </Card>
-           <Card className="p-4 bg-amber-50 dark:bg-amber-900/20 border-amber-200">
-             <div className="text-xs uppercase font-bold text-amber-500 mb-1">XP Earned</div>
-             <div className="text-3xl font-black text-amber-700 dark:text-amber-300">+{Math.floor(score / 10)}</div>
-           </Card>
+          <Card className="p-4 bg-violet-50 dark:bg-violet-900/20 border-violet-200">
+            <div className="text-xs uppercase font-bold text-violet-500 mb-1">Score</div>
+            <div className="text-3xl font-black text-violet-700 dark:text-violet-300">{score}</div>
+          </Card>
+          <Card className="p-4 bg-emerald-50 dark:bg-emerald-900/20 border-emerald-200">
+            <div className="text-xs uppercase font-bold text-emerald-500 mb-1">Correct</div>
+            <div className="text-3xl font-black text-emerald-700 dark:text-emerald-300">{answers.filter(a => a.isCorrect).length}/{quiz.questions.length}</div>
+          </Card>
+          <Card className="p-4 bg-amber-50 dark:bg-amber-900/20 border-amber-200">
+            <div className="text-xs uppercase font-bold text-amber-500 mb-1">XP Earned</div>
+            <div className="text-3xl font-black text-amber-700 dark:text-amber-300">+{Math.floor(score / 10)}</div>
+          </Card>
         </div>
         <div className="flex gap-4 justify-center">
           <Button variant="secondary" onClick={() => setView('dashboard')}>Back Home</Button>
@@ -106,12 +106,17 @@ const QuizGame = ({ quiz }) => {
       <div className="mb-8 space-y-2">
         <ProgressBar current={timeLeft} max={20} color={timeLeft < 5 ? 'bg-rose-500' : 'bg-violet-500'} />
         <div className="flex justify-between text-xs font-semibold text-slate-400">
-           <span>Time Left</span>
-           <span className={timeLeft < 5 ? "text-rose-500 animate-pulse" : ""}>{timeLeft}s</span>
+          <span>Time Left</span>
+          <span className={timeLeft < 5 ? "text-rose-500 animate-pulse" : ""}>{timeLeft}s</span>
         </div>
       </div>
 
       <div className="flex-1 flex flex-col justify-center">
+        {currentQ.image && (
+          <div className="mb-6 rounded-2xl overflow-hidden shadow-lg mx-auto max-h-60 w-full md:w-3/4">
+            <img src={currentQ.image} alt="Question" className="w-full h-full object-cover" />
+          </div>
+        )}
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 leading-relaxed">{currentQ.text}</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
@@ -136,11 +141,11 @@ const QuizGame = ({ quiz }) => {
       <div className="h-24">
         {gameStatus === 'feedback' && (
           <div className="animate-slide-up flex items-center justify-between p-4 bg-slate-100 dark:bg-slate-800 rounded-2xl border-l-4 border-violet-500">
-             <div>
-               <p className="font-bold text-sm text-slate-500 uppercase mb-1">{selectedOption === currentQ.correct ? "Brilliant!" : "Correct Answer:"}</p>
-               <p className="font-medium">{currentQ.explanation}</p>
-             </div>
-             <Button onClick={nextQuestion} className="flex-shrink-0">Next Question <ChevronRight size={18} /></Button>
+            <div>
+              <p className="font-bold text-sm text-slate-500 uppercase mb-1">{selectedOption === currentQ.correct ? "Brilliant!" : "Correct Answer:"}</p>
+              <p className="font-medium">{currentQ.explanation}</p>
+            </div>
+            <Button onClick={nextQuestion} className="flex-shrink-0">Next Question <ChevronRight size={18} /></Button>
           </div>
         )}
       </div>
