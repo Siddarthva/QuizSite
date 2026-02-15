@@ -44,7 +44,7 @@ export default function Sidebar({ className }) {
 
     return (
         <motion.aside
-            className={`hidden md:flex flex-col w-72 h-screen sticky top-0 border-r border-slate-200 dark:border-slate-800 p-6 bg-white dark:bg-slate-900/50 backdrop-blur-xl ${className}`}
+            className={`hidden md:flex flex-col w-72 h-screen sticky top-0 border-r border-slate-100 dark:border-slate-800 p-6 bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl z-30 ${className}`}
             initial="hidden"
             animate="visible"
             exit="exit"
@@ -54,11 +54,11 @@ export default function Sidebar({ className }) {
                 className="flex items-center gap-3 mb-10 text-violet-600 dark:text-violet-400"
                 variants={itemVariants}
             >
-                <div className="p-2 bg-violet-100 dark:bg-violet-900/30 rounded-xl relative group">
-                    <Brain size={32} className="relative z-10 transition-transform group-hover:scale-110 duration-300" />
+                <div className="p-2.5 bg-violet-50 dark:bg-violet-900/20 rounded-xl relative group ring-1 ring-violet-100 dark:ring-violet-800">
+                    <Brain size={32} className="relative z-10 transition-transform group-hover:scale-110 duration-300 text-violet-600 dark:text-violet-400" />
                     <div className="absolute inset-0 bg-violet-400/20 rounded-xl blur-lg scale-0 group-hover:scale-150 transition-transform duration-500" />
                 </div>
-                <h1 className="text-2xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-fuchsia-600 dark:from-violet-400 dark:to-fuchsia-400">
+                <h1 className="text-2xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-fuchsia-600 dark:from-violet-400 dark:to-fuchsia-400 font-heading">
                     MindQuest
                 </h1>
             </motion.div>
@@ -73,17 +73,17 @@ export default function Sidebar({ className }) {
             </nav>
 
             <motion.div
-                className="mt-auto pt-6 border-t border-slate-200 dark:border-slate-800"
+                className="mt-auto pt-6 border-t border-slate-100 dark:border-slate-800"
                 variants={itemVariants}
             >
                 {user ? (
-                    <div className="flex items-center justify-between group">
+                    <div className="flex items-center justify-between group p-3 rounded-2xl hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors border border-transparent hover:border-slate-100 dark:hover:border-slate-700/50">
                         <div className="flex items-center gap-3">
-                            <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-violet-500 to-fuchsia-500 flex items-center justify-center text-white font-bold shadow-lg shadow-violet-500/20 group-hover:shadow-violet-500/40 transition-shadow">
+                            <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-violet-500 to-fuchsia-500 flex items-center justify-center text-white font-bold shadow-lg shadow-violet-500/20 group-hover:shadow-violet-500/40 transition-shadow ring-2 ring-white dark:ring-slate-800">
                                 {user.name.charAt(0)}
                             </div>
                             <div className="transition-opacity opacity-100">
-                                <p className="font-bold text-sm bg-clip-text text-transparent bg-gradient-to-r from-slate-900 to-slate-700 dark:from-white dark:to-slate-300">
+                                <p className="font-bold text-sm text-slate-700 dark:text-slate-200">
                                     {user.name}
                                 </p>
                                 <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">Lvl {user.level} Scholar</p>

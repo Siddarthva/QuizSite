@@ -103,7 +103,7 @@ export const generateMockQuizzes = () => {
         plays: Math.floor(Math.random() * 5000),
         rating: (4.5 + Math.random() * 0.5).toFixed(1),
         author: 'System',
-        image: `https://loremflickr.com/800/600/${cat.name.split(' ')[0].toLowerCase()},quiz`,
+        image: `https://images.unsplash.com/photo-${1500000000000 + Math.floor(Math.random() * 1000000)}?auto=format&fit=crop&w=800&q=80`,
         questions: shuffle([...categoryQuestions]).slice(0, 10)
       });
     }
@@ -124,7 +124,7 @@ export const generateMockQuizzes = () => {
           plays: Math.floor(Math.random() * 2000),
           rating: (3.5 + Math.random() * 1.5).toFixed(1),
           author: 'Community',
-          image: `https://loremflickr.com/800/600/${cat.name.split(' ')[0].toLowerCase()},${difficulty}`,
+          image: `https://images.unsplash.com/photo-${1500000000000 + Math.floor(Math.random() * 1000000)}?auto=format&fit=crop&w=800&q=80`,
           questions: shuffle([...categoryQuestions]).slice(0, qCount)
         });
       }

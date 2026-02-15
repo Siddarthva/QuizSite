@@ -1,4 +1,5 @@
 import { Trophy, Crown, Medal, TrendingUp } from 'lucide-react';
+import Card from '../components/Card';
 
 const Leaderboard = () => {
   return (

@@ -18,3 +18,22 @@ h5,
 h6 {
     font-family: var(--font-heading);
 }
+
+@layer utilities {
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    .mask-linear-gradient {
+        mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+    }
+}
+
+body {
+    @apply antialiased selection:bg-violet-500 selection:text-white;
+}
