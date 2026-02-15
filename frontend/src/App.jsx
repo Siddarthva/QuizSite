@@ -13,6 +13,7 @@ import NavItem, { MobileNavItem } from './components/NavItem';
 import Button from './components/Button';
 import Sidebar from './components/Sidebar';
 import Dashboard from './views/Dashboard';
+import Categories from './views/Categories';
 import Explore from './views/Explore';
 import Library from './views/Library';
 import QuizGame from './views/QuizGame';
@@ -157,6 +158,7 @@ export default function App() {
               <AnimatePresence mode="wait">
                 <Routes location={location} key={location.pathname}>
                   <Route path="/" element={<PageTransition><ProtectedRoute><Dashboard /></ProtectedRoute></PageTransition>} />
+                  <Route path="/categories" element={<PageTransition><ProtectedRoute><Categories /></ProtectedRoute></PageTransition>} />
                   <Route path="/explore" element={<PageTransition><ProtectedRoute><Explore /></ProtectedRoute></PageTransition>} />
                   <Route path="/library" element={<PageTransition><ProtectedRoute><Library /></ProtectedRoute></PageTransition>} />
                   <Route path="/create" element={<PageTransition><ProtectedRoute><HostQuiz /></ProtectedRoute></PageTransition>} />

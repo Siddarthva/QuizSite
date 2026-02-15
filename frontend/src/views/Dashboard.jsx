@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Brain, Flame, Zap, Star, Play } from 'lucide-react';
 import Card from '../components/Card';
+import CategoryCard from '../components/CategoryCard';
 import Button from '../components/Button';
 import QuizCard from '../components/QuizCard';
 import { GameContext } from '../context/GameContext';
@@ -62,38 +63,16 @@ const Dashboard = () => {
       <div className="bg-slate-950 p-6 md:p-8 rounded-3xl">
         <div className="flex items-center justify-between mb-6">
           <h3 className="text-xl font-bold text-white">Browse Categories</h3>
-          <Button variant="ghost" size="sm" className="text-violet-500 hover:text-violet-400" onClick={() => navigate('/explore')}>View All</Button>
+          <Button variant="ghost" size="sm" className="text-violet-500 hover:text-violet-400" onClick={() => navigate('/categories')}>View All</Button>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-          {CATEGORIES.map((cat, i) => {
-            const Icon = cat.icon;
-            return (
-              <button
-                key={cat.id}
-                onClick={() => navigate('/explore', { state: { category: cat.name } })}
-                className={`
-                  group relative flex flex-col items-center justify-center p-6
-                  bg-slate-900 rounded-3xl border border-white/5
-                  transition-all duration-300 ease-out
-                  hover:-translate-y-2 hover:shadow-lg hover:shadow-${cat.shadow}/20
-                `}
-              >
-                {/* Icon Container - Squircle */}
-                <div className={`
-                  mb-4 p-4 rounded-2xl bg-slate-800 text-white
-                  group-hover:bg-${cat.color} group-hover:text-white
-                  transition-colors duration-300
-                `}>
-                  <Icon size={32} strokeWidth={1.5} />
-                </div>
-
-                {/* Label */}
-                <span className="text-sm font-bold text-slate-300 group-hover:text-white transition-colors">
-                  {cat.name}
-                </span>
-              </button>
-            )
-          })}
+          {CATEGORIES.slice(0, 5).map((cat) => (
+            <CategoryCard
+              key={cat.id}
+              category={cat}
+              onClick={() => navigate('/explore', { state: { category: cat.name } })}
+            />
+          ))}
         </div>
       </div>
 
