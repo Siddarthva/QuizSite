@@ -90,3 +90,42 @@ exports.login = async (req, res) => {
     res.status(500).json({ message: "Server error", error: error.message });
   }
 };
+
+
+exports.updatestats= async (req, res) => {
+  try {
+    const { xp = 0, completedQuestions = 0, correctAnswers = 0 } = req.body;
+
+    const user = await UserModel.findByIdAndUpdate(
+      req.params.id,
+      {
+        $inc: {
+          xp,
+          completedQuestions,
+          correctAnswers
+        }
+      },
+      { new: true }
+    );
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    // Recalculate accuracy
+    user.accuracy =
+      user.completedQuestions > 0
+        ? ((user.correctAnswers / user.completedQuestions) * 100).toFixed(2)
+        : 0;
+
+    await user.save();
+
+    res.status(200).json({
+      message: "Stats updated",
+      user
+    });
+
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
